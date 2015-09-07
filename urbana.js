@@ -1,0 +1,52 @@
+/**
+ * Historic Urbana Map 
+ * Author: Timothy Hodson
+ ******************************************************************************/   
+var map;
+
+function makeTip( feature ) {
+
+    var title = feature.title;
+    var html =  "<img class='sepia page-curl shadow-bottom' src=" + feature.properties.images[0] + ">" + 
+                "<br/>" + 
+                "<h2>" + feature.properties.title + "</h2>" +
+                "<table> <tr> <th>Architect:</th> <td>" + feature.properties.architect + "</td> </tr>" +
+                "<tr> <th>Year Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
+                "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>" +
+                "</table>"+
+                "<a data-toggle='modal' data-target='#myModal'>Test</a>"
+                "<button type='button' class='btn btn-info btn-lg' data-toggle='modal' data-target='#myModal'>Open Modal</button>";
+    return html    
+}
+/******************************************************************************/   
+window.onload = function () {
+
+    if (window.location.protocol=="file:") {alert("must load page via http");}
+
+    map = L.map('map-canvas', {
+	    center: [40.1097, -88.2042],
+	    zoom: 15,
+	    zoomControl: true,
+	    unloadInvisibleTiles: false
+    });
+
+    L.tileLayer('http://{s}.tiles.mapbox.com/v3/tohodson.55f8ddb6/{z}/{x}/{y}.png').addTo(map);
+	
+    // route object allows for recycling name of geojson object
+    // load GeoJSON from an external file
+    $.getJSON("test.geojson",function(data){
+    // add GeoJSON layer to the map once the file is loaded
+        //define marker here
+
+        L.geoJson(data,{
+            pointToLayer: function(feature,latlng){
+                var marker = L.marker(latlng);
+                //marker.bindPopup( feature.images + '<br/>' +feature.properties.title);
+                marker.bindPopup(makeTip(feature)); 
+            return marker;
+            }
+        }).addTo(map);
+    });
+}
+   
+
