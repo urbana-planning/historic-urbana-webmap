@@ -3,10 +3,16 @@
  * Author: Timothy Hodson
  ******************************************************************************/   
 var map;
-
+function makeModal( feature ) {
+    $('#myModal .modal-header').text(feature.properties.title)
+    $('#myModal .modal-body').text(feature.properties.arch_desc);
+}
 function makeTip( feature ) {
 
     var title = feature.title;
+    // modal code
+    makeModal(feature);
+    // tooltip code
     var html =  "<img class='sepia page-curl shadow-bottom' src=" + feature.properties.images[0] + ">" + 
                 "<br/>" + 
                 "<h2>" + feature.properties.title + "</h2>" +
@@ -14,12 +20,13 @@ function makeTip( feature ) {
                 "<tr> <th>Year Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
                 "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>" +
                 "</table>"+
-                "<a data-toggle='modal' data-target='#myModal'>Test</a>"
+                "<a class='modal-link' data-toggle='modal' data-target='#myModal'>Test</a>"
                 "<button type='button' class='btn btn-info btn-lg' data-toggle='modal' data-target='#myModal'>Open Modal</button>";
     return html    
 }
 /******************************************************************************/   
-window.onload = function () {
+/*window.onload = function () {*/
+$(document).ready( function () {
 
     if (window.location.protocol=="file:") {alert("must load page via http");}
 
@@ -34,7 +41,7 @@ window.onload = function () {
 	
     // route object allows for recycling name of geojson object
     // load GeoJSON from an external file
-    $.getJSON("test.geojson",function(data){
+    $.getJSON("historic_places.geojson",function(data){
     // add GeoJSON layer to the map once the file is loaded
         //define marker here
 
@@ -45,8 +52,14 @@ window.onload = function () {
                 marker.bindPopup(makeTip(feature)); 
             return marker;
             }
+            onEachFeature: onEachFeature;
         }).addTo(map);
+    }); //end of getJSON
+    
+    $(".modal-link").click( function() {
+	var id = $("#myModal").attr("feature");
+	
     });
-}
+}); // end of ready()
    
 
