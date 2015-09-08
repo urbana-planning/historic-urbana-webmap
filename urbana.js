@@ -3,15 +3,10 @@
  * Author: Timothy Hodson
  ******************************************************************************/   
 var map;
-function makeModal( feature ) {
-    $('#myModal .modal-header').text(feature.properties.title)
-    $('#myModal .modal-body').text(feature.properties.arch_desc);
-}
 function makeTip( feature ) {
 
     var title = feature.title;
     // modal code
-    makeModal(feature);
     // tooltip code
     var html =  "<img class='sepia page-curl shadow-bottom' src=" + feature.properties.images[0] + ">" + 
                 "<br/>" + 
@@ -22,8 +17,54 @@ function makeTip( feature ) {
                 "</table>"+
                 "<a class='modal-link' data-toggle='modal' data-target='#myModal'>Test</a>"
                 "<button type='button' class='btn btn-info btn-lg' data-toggle='modal' data-target='#myModal'>Open Modal</button>";
-    return html    
+    return html;   
 }
+
+function modalTemplate( feature) { 
+    var html;
+    return html;
+}
+
+function updateModal(e) {
+    var feature = e.target.feature;
+    $('.modal-content').css('max-height',$( window ).height()*0.8);
+    
+    $('.modal-images').empty(); 
+    $.each(feature.properties.images, function(){
+            $('.modal-images').append('<img src="' + this + '" />'); 
+    });
+    // $('#myModal .modal-images').html('<img src=' + feature.properties.images[0] + '>');
+
+    $('#myModal .modal-header').html('<h2>' + feature.properties.title + '</h2>');
+    $('#myModal .modal-body').empty();
+    
+    if (feature.properties.arch_desc != null) {
+         $('#myModal .modal-body').append(
+                '<h3>Architectural Description</h3>' +
+                '<p>' + feature.properties.arch_desc + '</p>'
+                );
+    }
+
+    if (feature.properties.hist_desc != null) {
+        $('#myModal .modal-body').append(
+                '<h3>Historical Description</h3>' +
+                '<p>' + feature.properties.hist_desc + '</p>'
+                );
+    } 
+}
+
+function onEachFeature( feature, layer) {
+    layer.on({
+        click: updateModal
+    });
+}
+
+function pointToLayer(feature, latlng) {
+    var marker = L.marker(latlng);
+    marker.bindPopup(makeTip(feature)); 
+    return marker;
+}
+
 /******************************************************************************/   
 /*window.onload = function () {*/
 $(document).ready( function () {
@@ -37,29 +78,18 @@ $(document).ready( function () {
 	    unloadInvisibleTiles: false
     });
 
-    L.tileLayer('http://{s}.tiles.mapbox.com/v3/tohodson.55f8ddb6/{z}/{x}/{y}.png').addTo(map);
+    // L.tileLayer('http://{s}.tiles.mapbox.com/v3/tohodson.55f8ddb6/{z}/{x}/{y}.png').addTo(map);
 	
-    // route object allows for recycling name of geojson object
     // load GeoJSON from an external file
-    $.getJSON("historic_places.geojson",function(data){
+    $.getJSON("historic_places.geojson", function(data){
     // add GeoJSON layer to the map once the file is loaded
         //define marker here
-
-        L.geoJson(data,{
-            pointToLayer: function(feature,latlng){
-                var marker = L.marker(latlng);
-                //marker.bindPopup( feature.images + '<br/>' +feature.properties.title);
-                marker.bindPopup(makeTip(feature)); 
-            return marker;
-            }
-            onEachFeature: onEachFeature;
+        L.geoJson(data, {
+            pointToLayer: pointToLayer,
+            onEachFeature: onEachFeature
         }).addTo(map);
     }); //end of getJSON
     
-    $(".modal-link").click( function() {
-	var id = $("#myModal").attr("feature");
-	
-    });
 }); // end of ready()
    
 

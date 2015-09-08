@@ -3,7 +3,6 @@ header, body {
     margin: 0px;
     font-family: 'Droid Sans', sans-serif;
 }
-body{}
 
 h1, h2 {
     /*font-family: 'Raleway', sans-serif;*/
@@ -51,7 +50,10 @@ html, body, #map-canvas { height: 100%; }
     box-shadow: 0em 0em 1em 0em #202020;
     z-index: 1;
 }
-
+.modal-content {
+    background-color: #FFFFDD;
+    overflow: scroll;
+}
 #map-canvas {
     position: fixed;
     height: 100%;
