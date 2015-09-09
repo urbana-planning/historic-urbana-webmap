@@ -23,7 +23,7 @@ function makeTip( feature ) {
 
 function updateModal(e) {
     var feature = e.target.feature;
-    
+    $('.bxslider').empty(); 
     $.each(feature.properties.images, function(){
             $('.bxslider').append('<li><img src="' + this + '" /></li'); 
     });
@@ -72,7 +72,7 @@ $(document).ready( function () {
 	    unloadInvisibleTiles: false
     });
 
-    // L.tileLayer('http://{s}.tiles.mapbox.com/v3/tohodson.55f8ddb6/{z}/{x}/{y}.png').addTo(map);
+    L.tileLayer('http://{s}.tiles.mapbox.com/v3/tohodson.55f8ddb6/{z}/{x}/{y}.png').addTo(map);
 	
     // load GeoJSON from an external file
     $.getJSON("historic_places.geojson", function(data){
