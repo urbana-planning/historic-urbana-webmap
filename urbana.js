@@ -20,10 +20,6 @@ function makeTip( feature ) {
     return html;   
 }
 
-function modalTemplate( feature) { 
-    var html;
-    return html;
-}
 
 function updateModal(e) {
     var feature = e.target.feature;
