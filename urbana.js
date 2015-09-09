@@ -27,11 +27,9 @@ function modalTemplate( feature) {
 
 function updateModal(e) {
     var feature = e.target.feature;
-    $('.modal-content').css('max-height',$( window ).height()*0.8);
     
-    $('.modal-images').empty(); 
     $.each(feature.properties.images, function(){
-            $('.modal-images').append('<img src="' + this + '" />'); 
+            $('.bxslider').append('<li><img src="' + this + '" /></li'); 
     });
     // $('#myModal .modal-images').html('<img src=' + feature.properties.images[0] + '>');
 
@@ -50,7 +48,7 @@ function updateModal(e) {
                 '<h3>Historical Description</h3>' +
                 '<p>' + feature.properties.hist_desc + '</p>'
                 );
-    } 
+    }
 }
 
 function onEachFeature( feature, layer) {
