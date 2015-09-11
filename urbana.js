@@ -8,19 +8,17 @@ function makeTip( feature ) {
     var title = feature.title;
     // modal code
     // tooltip code
-    var image = new Image();
-    image.src = feature.properties.images[0];
-
-    var html =  "<img class='sepia page-curl shadow-bottom' src=" + image.src + ">" + 
-                "<br/>" + 
-                "<h2>" + feature.properties.title + "</h2>" +
-                "<table> <tr> <th>Architect:</th> <td>" + feature.properties.architect + "</td> </tr>" +
-                "<tr> <th>Year Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
-                "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>" +
-                "</table>"+
-                "<a class='modal-link' data-toggle='modal' data-target='#myModal'>Test</a>"
-                "<button type='button' class='btn btn-info btn-lg' data-toggle='modal' data-target='#myModal'>Open Modal</button>";
-    return html;   
+    var html = "<img class='sepia page-curl shadow-bottom' src=" + feature.properties.images[0] + ">" + 
+        "<br/>" + 
+            "<h2>" + feature.properties.title + "</h2>" +
+            "<table> <tr> <th>Architect:</th> <td>" + feature.properties.architect + "</td> </tr>" +
+            "<tr> <th>Year Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
+            "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>" +
+            "</table>"+
+            "<a class='modal-link' data-toggle='modal' data-target='#myModal'>Test</a>"
+            "<button type='button' class='btn btn-info btn-lg' data-toggle='modal' data-target='#myModal'>Open Modal</button>";
+   
+    return html; 
 }
 
 

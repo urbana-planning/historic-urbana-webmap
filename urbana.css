@@ -115,7 +115,11 @@ section.active
     background-image: url('img/folder2.jpg');
     background-size: cover;
     background: #FFFFDD;
+    width: 300px;
 }
+.leaflet-container img {
+}
+
 @media (min-resolution: 150dpi) and (max-width:1400px) , (max-width: 680px) {
   .arrow-down {
       margin-top:5px;
