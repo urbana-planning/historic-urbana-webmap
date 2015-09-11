@@ -110,7 +110,6 @@ section.active
     text-align: center;
     text-decoration: none;
     color: black;
-    opacity: 0.8;
 }
 .leaflet-popup-content-wrapper, .leaflet-popup-tip {
     background-image: url('img/folder2.jpg');

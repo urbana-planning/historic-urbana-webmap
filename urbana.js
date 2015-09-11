@@ -8,7 +8,10 @@ function makeTip( feature ) {
     var title = feature.title;
     // modal code
     // tooltip code
-    var html =  "<img class='sepia page-curl shadow-bottom' src=" + feature.properties.images[0] + ">" + 
+    var image = new Image();
+    image.src = feature.properties.images[0];
+
+    var html =  "<img class='sepia page-curl shadow-bottom' src=" + image.src + ">" + 
                 "<br/>" + 
                 "<h2>" + feature.properties.title + "</h2>" +
                 "<table> <tr> <th>Architect:</th> <td>" + feature.properties.architect + "</td> </tr>" +
