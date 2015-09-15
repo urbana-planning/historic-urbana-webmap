@@ -14,7 +14,7 @@ function makeTip( feature ) {
             "<tr> <th>Year Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
             "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>" +
             "</table>"+
-            "<a align='center' class='modal-link' data-toggle='modal' data-target='#myModal' href='#myModal'>More info</a>";
+            "<a align='center' class='modal-link' data-toggle='modal' data-target='#myModal' href='#myModal'>- More info -</a>";
    
     return html; 
 }

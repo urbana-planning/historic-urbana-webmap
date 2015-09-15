@@ -54,6 +54,11 @@ html, body, #map-canvas { height: 100%; }
     background-color: #FFFFDD;
     overflow: scroll;
 }
+.modal-link {
+    display: table;
+    margin: 0 auto;
+    font-size: medium;
+}
 #map-canvas {
     position: fixed;
     height: 100%;
