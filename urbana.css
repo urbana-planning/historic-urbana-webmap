@@ -50,6 +50,9 @@ html, body, #map-canvas { height: 100%; }
     box-shadow: 0em 0em 1em 0em #202020;
     z-index: 1;
 }
+.modal-header, .modal-footer {
+    border: 0px;
+   } 
 .modal-content {
     background-color: #FFFFDD;
     overflow: scroll;

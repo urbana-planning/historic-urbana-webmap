@@ -53,7 +53,7 @@ function onEachFeature( feature, layer) {
 }
 var greenIcon = L.icon({
         iconUrl: 'img/pushpin2.svg',
-        iconSize: [30,30] //   [18, 18]
+        iconSize: [35,33] //   [18, 18]
 });
 
 function pointToLayer(feature, latlng) {
