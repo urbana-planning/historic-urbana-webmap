@@ -2,7 +2,6 @@
  * Historic Urbana Map 
  * Author: Timothy Hodson
  ******************************************************************************/   
-var map;
 function makeTip( feature ) {
 
     var title = feature.title;
@@ -15,8 +14,7 @@ function makeTip( feature ) {
             "<tr> <th>Year Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
             "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>" +
             "</table>"+
-            "<a class='modal-link' data-toggle='modal' data-target='#myModal'>Test</a>"
-            "<button type='button' class='btn btn-info btn-lg' data-toggle='modal' data-target='#myModal'>Open Modal</button>";
+            "<a align='center' class='modal-link' data-toggle='modal' data-target='#myModal' href='#myModal'>More info</a>";
    
     return html; 
 }
@@ -53,9 +51,13 @@ function onEachFeature( feature, layer) {
         click: updateModal
     });
 }
+var greenIcon = L.icon({
+        iconUrl: 'img/pushpin2.svg',
+        iconSize: [30,30] //   [18, 18]
+});
 
 function pointToLayer(feature, latlng) {
-    var marker = L.marker(latlng);
+    var marker = L.marker(latlng, {icon: greenIcon});
     marker.bindPopup(makeTip(feature)); 
     return marker;
 }
