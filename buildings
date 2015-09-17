@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="canonical" href="http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/buildings" />
+<link rel="shortcut icon" href="/sites/all/themes/urbana/favicon.ico" type="image/x-icon" />
+  <script type="text/javascript" src="/misc/jquery.js?8"></script>
+<script type="text/javascript" src="/misc/drupal.js?8"></script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?8"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?8"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?8"></script>
+<script type="text/javascript" src="/sites/all/modules/gmap/js/gmap_views_ajax.js?8"></script>
+<script type="text/javascript" src="/sites/all/themes/tao-2.2/js/tao.js?8"></script>
+<script type="text/javascript" src="/sites/all/themes/urbana/script.js?8"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" } });
+//--><!]]>
+</script>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_26431e104dbde6deddcd4fb1e6e9f053.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/sites/default/files/css/css_8af7eff2a3b6df361259b78f4bebf82b.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_03d5f2d7f027abe86b1b8cf712d52c8b.css" />
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/urbana/ie6.css?8" />
+<![endif]-->
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/urbana/ie7.css?8" />
+<![endif]-->
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/urbana/ie8.css?8" />
+<![endif]-->
+  <!--[if IE 6]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/urbana/ie6.css?8" />
+<![endif]-->
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/urbana/ie7.css?8" />
+<![endif]-->
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/urbana/ie8.css?8" />
+<![endif]-->
+  <title>Buildings | City of Urbana</title>
+  
+  <!--[if IE]>
+  <script src="/sites/all/themes/urbana/js/jquery.corner.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript" charset="utf-8">
+    $(function(){
+      $('#content, .preview .node, .message').corner('10px');
+      $('.block-header').corner('top 10px keep');
+      $('.block-content').corner('bottom 10px keep');
+      $('.sidebar h3').corner('5px');
+    });
+  </script>
+  <![endif]-->
+</head>
+<body class="not-front not-logged-in page-node node-type-page section-residents one-sidebar sidebar-left">
+  
+  <div id="container" class="page-width">
+  
+    <div id="top"><div id="top-inner" class="inner clear-block">
+              <div id="top-menu">
+          <ul class="links clear-block"><li class="menu-15906 first"><a href="/" title="">Home</a></li>
+<li class="menu-16480"><a href="/calendar" title="View the Events Calendar">Calendar</a></li>
+<li class="menu-11231"><a href="/jobs" title="">Employment</a></li>
+<li class="menu-20071"><a href="/citizens-voice" title="Your comments or questions">Citizens&#039; Voice</a></li>
+<li class="menu-20099"><a href="/directory" title="">Directory</a></li>
+<li class="menu-27994 last"><a href="http://translate.google.com/translate?sl=auto&amp;tl=es&amp;js=n&amp;prev=_t&amp;hl=en&amp;ie=UTF-8&amp;u=http%3A%2F%2Furbanaillinois.us" title="">En Español</a></li>
+</ul>        </div>
+            
+              <div id="top-search"><form action="/residents/historic-urbana/100-most-significant-buildings/buildings"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div  class="form-item" id="edit-search-theme-form-1-wrapper">
+    <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />  </div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-NfSF_nYbE7ABTSI--uCqboFoa3NG1cb2dH32yh--Q90" value="form-NfSF_nYbE7ABTSI--uCqboFoa3NG1cb2dH32yh--Q90"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+
+</div></form>
+</div>
+          </div></div>
+
+    <div id="header"><div id="header-inner" class="inner clear-block">
+              <div id="branding">
+          <a id="site-name" href="/" title="Home" rel="home">City of Urbana</a>
+        </div>
+            
+              <div id="primary-menu"><ul class="links clear-block"><li class="menu-15040 active-trail active first"><a href="/residents" title="Visit the main landing page for Residents." class="active primary-menu primary-node-520 primary-residents">Residents</a></li>
+<li class="menu-15041"><a href="/visitors" title="Visit the main landing page for Visitors." class=" primary-menu primary-node-521 primary-visitors">Visitors</a></li>
+<li class="menu-15042"><a href="/businesses" title="Main landing page for Urbana businesses &amp; developers." class=" primary-menu primary-node-522 primary-businesses">Businesses</a></li>
+<li class="menu-15088 last"><a href="/government" title="Landing page for City of Urbana government." class=" primary-menu primary-node-523 primary-government">Government</a></li>
+</ul></div>
+            
+                    <div id="masthead">
+          <div id="masthead-left"></div>
+          <div id="masthead-right">
+                            <div class="view view-masthead">
+      <div class="view-content">
+        <div class="row clear-block first last">
+        <div class="field-masthead-fid">
+          <img src="http://urbanaillinois.us/sites/default/files/imagecache/secondary_masthead/images/mastheads/winter-sunrise-4.jpg" alt="" title="" width="990" height="90" class="imagecache imagecache-secondary_masthead imagecache-default imagecache-secondary_masthead_default"/>  </div>
+  </div>
+    </div>
+  </div>
+                      </div>
+        </div>
+          </div></div>
+  
+    <div id="page"><div id="page-inner" class="inner clear-block">
+  
+      <div id="main" class="column"><div id="main-inner" class="inner clear-block">
+      
+        <div id="breadcrumb"><a href="/">Home</a> › <a href="/departments">Departments</a> › <a href="/departments/public-works">Public Works</a> › <a href="/projects">Projects</a> › Buildings</div>      
+        
+              
+                
+        <div id="content" class=""><div id="content-inner" class="inner clear-block">
+          <h1 id="page-title" class="title">Buildings</h1>      
+                              
+                  
+                      <div id="content-content" class="clear-block">
+
+<div  id="node-2731" class="node node-page node-full with-meta with-links"><div class="clear-block">
+  
+      <div class='node-content clear-block prose'>
+      <div class='node-body'><p>Using your nominations, the Urbana Historic Preservation Commission finalized a list of the 100 Most Significant Buildings in Urbana on September 7, 2011. The buildings range from a modest cottage built around 1850 to a house with an uncanny likeness to a UFO built in 1954 for a jazz musician; from a bungalow that was ordered out of a Sears catalogue circa 1920 to the mansions of some of Urbana’s founding fathers. The list includes many of the historic buildings in our downtown—the library, the county courthouse, and many of the buildings on the 100-block of West Main Street—as well as many of the impressive fraternities and sororities that were typically built prior to World War II in eclectic styles and designed by well-known architects.</p></div>    </div>
+  
+      <div class='node-links clear-block'><ul class="links inline"><li class="print first last active"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings?print" class="active">Print</a></li>
+</ul></div>
+    
+      <div class='node-submitted meta clear-block'>Last updated on Nov 05, 2014 <em>(Created on Mar 23, 2012)</em> – Author: <a href="http://urbanaillinois.us/user/271" title="View user profile.">Sasha Cuerda</a> – Contributors: <a href="http://urbanaillinois.us/user/231" title="View user profile.">Jeff Engstrom</a>, <a href="http://urbanaillinois.us/user/286" title="View user profile.">Kevin Garcia</a></div>
+    
+  
+</div></div>
+
+
+</div>
+                  
+                  </div></div>
+        
+              
+      </div></div>
+    
+              <div id="sidebars">
+                  
+                      <div id="sidebar-left" class="column sidebar"><div id="sidebar-left-inner" class="inner clear-block">
+                <div id="block-menu_block-1" class="block-menu">
+      <h2><a href="/residents/historic-urbana/100mostsignificant" title="Urbana&#039;s 100 Most Important Buildings" class="active-trail">100 Most Important Buildings</a></h2>
+    <div class="menu-block-1 menu-name-primary-links parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="expanded first menu-mlid-25182 active active-trail"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings" title="Buildings" class="active-trail active">Buildings</a><ul class="menu"><li class="leaf first menu-mlid-25448"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/223-n-broadway-ave" title="223 N. Broadway Ave.">223 N. Broadway Ave.</a></li>
+<li class="leaf menu-mlid-25429"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/910-n-broadway" title="910 N. Broadway Ave.">910 N. Broadway Ave.</a></li>
+<li class="leaf menu-mlid-25437"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/202-s-broadway" title="202 S. Broadway Ave.">202 S. Broadway Ave.</a></li>
+<li class="leaf menu-mlid-25255"><a href="/residents/historic-urbana/100most/buenavista" title="Buena Vista Court">Buena Vista Court</a></li>
+<li class="leaf menu-mlid-25183"><a href="/residents/historic-urbana/100most/2016burlison" title="2016 Burlison, The Garvey House">2016 Burlison</a></li>
+<li class="leaf menu-mlid-25366"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/701-s-busey-ave" title="701 S. Busey Ave.">701 S. Busey Ave.</a></li>
+<li class="leaf menu-mlid-25194"><a href="/residents/historic-urbana/100most/708SBussey" title="708 S. Busey St.">708 S. Busey St.</a></li>
+<li class="leaf menu-mlid-25405"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/1306-s-carle" title="1306 S Carle">1306 S. Carle Ave.</a></li>
+<li class="leaf menu-mlid-25438"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/206-cedar" title="206 S. Cedar St.">206 S. Cedar St.</a></li>
+<li class="leaf menu-mlid-25200"><a href="/residents/historic-urbana/100most/halberstadt" title="104 N. Central Ave., The Halberstadt House">104 N. Central Ave., The Halberstadt House</a></li>
+<li class="leaf menu-mlid-25190"><a href="/residents/historic-urbana/100most/701NColer" title="701 N. Coler, Sears Osborn House">701 N. Coler Ave., Sears Osborn House</a></li>
+<li class="leaf menu-mlid-25436"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/402-s-coler" title="402 S. Coler Ave.">402 S. Coler Ave.</a></li>
+<li class="leaf menu-mlid-25431"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/706-s-coler" title="706 S. Coler Ave.">706 S. Coler Ave.</a></li>
+<li class="leaf menu-mlid-25191"><a href="/residents/historic-urbana/100most/209WDelaware" title="209 W. Delaware Ave.">209 W. Delaware Ave.</a></li>
+<li class="leaf menu-mlid-25446"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/601-w-delaware" title="601 W. Delaware Ave.">601 W. Delaware Ave.</a></li>
+<li class="leaf menu-mlid-25430"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/702-w-delaware" title="702 W. Delaware Ave.">702 W. Delaware Ave.</a></li>
+<li class="leaf menu-mlid-25266"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/715-w-delaware" title="715 W Delaware Ave.">715 W. Delaware Ave.</a></li>
+<li class="leaf menu-mlid-25395"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/1105-s-douglas" title="1105 S. Douglas Ave.">1105 S. Douglas Ave.</a></li>
+<li class="leaf menu-mlid-25367"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/307-w-elm" title="307 W. Elm St.">307 W. Elm St.</a></li>
+<li class="leaf menu-mlid-25272"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/311-w-elm" title="311 W Elm St., The William Park Residence">311 W. Elm St., The William Park Residence</a></li>
+<li class="leaf menu-mlid-25398"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/502-w-elm" title="502 W. Elm St.">502 W. Elm St.</a></li>
+<li class="leaf menu-mlid-25432"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/210-w-florida" title="210 W. Florida Ave.">210 W. Florida Ave.</a></li>
+<li class="leaf menu-mlid-25442"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/711-w-florida-ave" title="711 W. Florida Ave.">711 W. Florida Ave.</a></li>
+<li class="leaf menu-mlid-25401"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/110-s-glover" title="110 S. Glover Ave.">110 S. Glover Ave.</a></li>
+<li class="collapsed menu-mlid-25305"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/greek-houses" title="Greek Houses in Urbana">Greek Houses</a></li>
+<li class="leaf menu-mlid-25303"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/209-w-green" title="209 W. Green St.">209 W. Green St.</a></li>
+<li class="leaf menu-mlid-25420"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/210-w-green" title="210 W. Green St., The Urbana Free Library">210 W. Green St., The Urbana Free Library</a></li>
+<li class="leaf menu-mlid-25381"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/309-w-green" title="309 W. Green St., The Unitarian-Universalist Church">309 W. Green St.</a></li>
+<li class="leaf menu-mlid-25184"><a href="/residents/historic-urbana/100most/312WGreen" title="312 W. Green Street, The Lindley House">312 W. Green St.</a></li>
+<li class="leaf menu-mlid-25304"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/501-w-green" title="501 W Green St.">501 W. Green St.</a></li>
+<li class="leaf menu-mlid-25192"><a href="/residents/historic-urbana/100most/612WGreen" title="612 W. Green St., The Nathan C. Ricker House">612 W. Green St., The Nathan C. Ricker House</a></li>
+<li class="leaf menu-mlid-25196"><a href="/residents/historic-urbana/100most/1203WGreen" title="1203 W. Green St., Wesley Foundation">1203 W. Green St., Wesley Foundation</a></li>
+<li class="leaf menu-mlid-25399"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/212-w-high-st" title="212 W. High St.">212 W. High St.</a></li>
+<li class="leaf menu-mlid-25389"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/401-w-high-st" title="401 W. High St.">401 W. High St.</a></li>
+<li class="leaf menu-mlid-25241"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/510-w-high-st" title="510 W High St">510 W. High St.</a></li>
+<li class="leaf menu-mlid-25377"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/601-w-high-st" title="601 W. High St">601 W. High St.</a></li>
+<li class="leaf menu-mlid-25364"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/404-w-illinois" title="404 W. Illinois Ave.">404 W. Illinois Ave.</a></li>
+<li class="leaf menu-mlid-25433"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/406-w-illinois" title="406 W. Illinois Ave.">406 W. Illinois Ave.</a></li>
+<li class="leaf menu-mlid-25400"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/805-w-illinois" title="805 W. Illinois Ave.">805 W. Illinois Ave.</a></li>
+<li class="leaf menu-mlid-25271"><a href="/residents/historic-urbana/100most/301WIndiana" title="301 W. Indiana Ave">301 W. Indiana Ave.</a></li>
+<li class="leaf menu-mlid-25185"><a href="/residents/historic-urbana/100most/303WIndiana" title="303 W. Indiana Ave, Erlanger House">303 W. Indiana Ave., Erlanger House</a></li>
+<li class="leaf menu-mlid-25256"><a href="/residents/historic-urbana/100most/411WIndiana" title="411 W. Indiana Ave.">411 W. Indiana Ave.</a></li>
+<li class="leaf menu-mlid-25273"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/204-w-iowa" title="204 W Iowa St.">204 W. Iowa St.</a></li>
+<li class="leaf menu-mlid-25439"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/1403-w-lorado-taft-drive" title="1403 W. Lorado Taft Drive, The Mumford House">1403 W. Lorado Taft Drive, The Mumford House</a></li>
+<li class="leaf menu-mlid-25205"><a href="/residents/historic-urbana/100most/101EMain" title="101 E. Main St, Champaign County Courthouse">101 E. Main St., Champaign County Courthouse</a></li>
+<li class="leaf menu-mlid-25407"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/607-e-main" title="607 E. Main St.">607 E. Main St.</a></li>
+<li class="leaf menu-mlid-25445"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/102-106-w-main" title="102-106 W. Main St.">102-106 W. Main St.</a></li>
+<li class="leaf menu-mlid-25239"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/115-w-main" title="115 W Main">115 W. Main St., Tiernan&#039;s Block</a></li>
+<li class="leaf menu-mlid-25419"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/120-124-w-main-st" title="120-124 W. Main St., The Princess Theater">120-124 W. Main St., The Princess Theater</a></li>
+<li class="leaf menu-mlid-25410"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/135-w-main" title="135 W. Main St.">135 W. Main St.</a></li>
+<li class="leaf menu-mlid-25247"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/136-w-main" title="136 W. Main St., The Cohen Building">136 W. Main St., The Cohen Building</a></li>
+<li class="leaf menu-mlid-25368"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/303-w-main" title="303 W. Main St.">303 W. Main St.</a></li>
+<li class="leaf menu-mlid-25386"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/402-w-main" title="402 W. Main St.">402 W. Main St.</a></li>
+<li class="leaf menu-mlid-25357"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/505-w-main" title="505 W Main">505 W. Main St.</a></li>
+<li class="leaf menu-mlid-25380"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/506-w-main" title="506 W. Main St.">506 W. Main St.</a></li>
+<li class="leaf menu-mlid-25385"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/507-w-main" title="507 W. Main St.">507 W. Main St.</a></li>
+<li class="leaf menu-mlid-25384"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/510-w-main" title="510 W. Main St.">510 W. Main St.</a></li>
+<li class="leaf menu-mlid-25383"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/605-w-main" title="605 W. Main St.">605 W. Main St.</a></li>
+<li class="leaf menu-mlid-25369"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/710-w-main" title="710 W Main St.">710 W Main St.</a></li>
+<li class="leaf menu-mlid-25397"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/803-w-main" title="803 W. Main St.">803 W. Main St.</a></li>
+<li class="leaf menu-mlid-25390"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/804-w-main" title="804 W Main">804 W. Main St.</a></li>
+<li class="leaf menu-mlid-25403"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/305-w-michigan" title="305 W. Michigan Ave.">305 W. Michigan Ave.</a></li>
+<li class="leaf menu-mlid-25388"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/309-w-michigan" title="309 W. Michigan Ave.">309 W. Michigan Ave.</a></li>
+<li class="leaf menu-mlid-25440"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/512-w-nevada" title="512 W. Nevada St.">512 W. Nevada St.</a></li>
+<li class="leaf menu-mlid-25240"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/805-w-nevada" title="805 W. Nevada St.">805 W. Nevada St.</a></li>
+<li class="leaf menu-mlid-25188"><a href="/residents/historic-urbana/100most/801EOregon" title="801 E. Oregon St.">801 E. Oregon St.</a></li>
+<li class="leaf menu-mlid-25447"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/1117-w-oregon-st" title="1117 W. Oregon St.">1117 W. Oregon St.</a></li>
+<li class="leaf menu-mlid-25378"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/301-w-oregon-st" title="301 W. Oregon St, The Frank A. Somers House">301 W. Oregon St, The Frank A. Somers House</a></li>
+<li class="leaf menu-mlid-25365"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/305-w-oregon-st" title="305 W Oregon St">305 W. Oregon St.</a></li>
+<li class="leaf menu-mlid-25412"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/307-w-oregon-st" title="307 W. Oregon St.">307 W. Oregon St.</a></li>
+<li class="leaf menu-mlid-25441"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/312-w-oregon-st" title="312 W. Oregon St., Leal Elementary School">312 W. Oregon St., Leal Elementary School</a></li>
+<li class="leaf menu-mlid-25402"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/605-w-oregon-st" title="605 W. Oregon St.">605 W. Oregon St.</a></li>
+<li class="leaf menu-mlid-25406"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/607-w-pennsylvania-ave" title="607 W. Pennsylvania Ave.">607 W. Pennsylvania Ave.</a></li>
+<li class="leaf menu-mlid-25408"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/702-w-pennsylvania-ave" title="702 W Pennsylvania Ave">702 W. Pennsylvania Ave.</a></li>
+<li class="leaf menu-mlid-25396"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/804-w-pennsylvania-ave" title="804 W Pennsylvania Ave">804 W. Pennsylvania Ave</a></li>
+<li class="leaf menu-mlid-25382"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/806-w-pennsylvania-ave" title="806 W. Pennsylvania Ave.">806 W. Pennsylvania Ave</a></li>
+<li class="leaf menu-mlid-25285"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/1802-pleasant-circle" title="1802 Pleasant Circle">1802 Pleasant Circle</a></li>
+<li class="leaf menu-mlid-25269"><a href="/residents/historic-urbana/100most/1806Pleasant" title="1806 Pleasant Circle">1806 Pleasant Circle</a></li>
+<li class="leaf menu-mlid-25434"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/111-n-race" title="111 N. Race St.">111 N. Race St.</a></li>
+<li class="leaf menu-mlid-25362"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/304-s-race" title="304 S Race St.">304 S Race St.</a></li>
+<li class="leaf menu-mlid-25387"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/401-s-race" title="401 S. Race St.">401 S. Race St.</a></li>
+<li class="leaf menu-mlid-25379"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/402-s-race" title="402 S. Race St.">402 S. Race St.</a></li>
+<li class="leaf menu-mlid-25421"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/900-s-race" title="900 S. Race St.">900 S. Race St.</a></li>
+<li class="leaf menu-mlid-25444"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/1002-s-race" title="1002 S. Race St. Urbana High School">1002 S. Race St. Urbana High School</a></li>
+<li class="leaf menu-mlid-25409"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/1212-w-springfield" title="1212 W. Springfield Ave., University High School">1212 W. Springfield Ave., University High School</a></li>
+<li class="leaf menu-mlid-25411"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/600-e-university" title="600 E. University Ave.">600 E. University Ave.</a></li>
+<li class="leaf menu-mlid-25363"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/403-w-university" title="403 W. University Ave., The Lincoln Lodge Motel">403 W. University Ave., The Lincoln Lodge Motel</a></li>
+<li class="leaf menu-mlid-25435"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/601-s-urbana" title="601 S. Urbana Ave.">601 S. Urbana Ave.</a></li>
+<li class="leaf menu-mlid-25187"><a href="/residents/historic-urbana/100most/613WVermont" title="613 W. Vermont Ave, The Dovring House">613 W. Vermont Ave, The Dovring House</a></li>
+<li class="leaf menu-mlid-25443"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/404-e-washington" title="404 E. Washington St.">404 E. Washington St.</a></li>
+<li class="leaf menu-mlid-25186"><a href="/residents/historic-urbana/100most/310WWashington" title="310 W. Washington St.">310 W. Washington St.</a></li>
+<li class="leaf menu-mlid-25268"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/711-w-washington" title="711 W. Washington St.">711 W. Washington St.</a></li>
+<li class="leaf last menu-mlid-25370"><a href="/residents/historic-urbana/100-most-significant-buildings/buildings/108-n-weber" title="108 N. Weber Ave.">108 N. Weber Ave.</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-25170"><a href="/residents/things-do-see-visit/historic-urbana/100-most-important-buildings/urbanas-architects" title="Architects of Urbana&#039;s 100 Most Significant Buildings and Sites">Urbana&#039;s Architects</a></li>
+<li class="collapsed last menu-mlid-25171"><a href="/residents/historic-urbana/100-most-important-buildings/architectural-styles" title="The Architectural Styles of Urbana&#039;s 100 Most Important Buildings">Architectural Styles</a></li>
+</ul></div>
+</div>
+                          </div></div>
+                  
+                  </div>
+      
+    </div></div>
+  
+          <div id="footer" class="clear-block">
+                <a href="http://urbanaillinois.us/visitors/tree-city-usa" target="_blank"><img class="alignright" src="/sites/all/themes/urbana/images/TCUSA_logoWhite.gif"></a>
+<p><strong>City of Urbana</strong>  400 South Vine Street, Urbana, IL 61801</p>
+<p><strong>Public Works Department</strong>  706 South Glover Avenue, Urbana, IL 61802</p>
+<p>Copyright © 2010 City of Urbana | <a href="/disclaimer">Disclaimer</a> | <a href="/privacy">Privacy</a></p>
+<p>Site by <a href="http://mckenziewagner.com/" target="_blank">McKenzie Wagner</strong></a></p>      </div>
+      
+  </div>
+
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-12952619-1"]);_gaq.push(['_setCustomVar', 1, "User roles", "anonymous user", 1]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"34e7b2f16d","applicationID":"2604657","transactionName":"ZwFRMkIEWkBVBhVYDF5LZhRZSl1dUAAZHxNYFA==","queueTime":0,"applicationTime":11,"atts":"S0ZSRAoeSU4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script></body>
+</html>
