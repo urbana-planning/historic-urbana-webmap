@@ -79,6 +79,30 @@ $(document).ready( function () {
         updateModal(feature);
 
     });
+
+    var listings = $('#listings');
+
+    featureLayer.eachLayer(function(locale) {
+        // Shorten locale.feature.properties to just `prop` so we're not
+        // writing this long form over and over again.
+        var prop = locale.feature.properties;
+
+        var listing = listings.appendChild(document.createElement('div'));
+        listing.className = 'item';
+
+        var link = listing.appendChild(document.createElement('a'));
+        link.href = '#';
+        link.className = 'title';
+        link.innerHTML = prop.title;
+
+
+        var details = listing.appendChild(document.createElement('div'));
+        details.innerHTML = prop.built;
+
+        if (prop.phone) {
+            details.innerHTML += ' &middot; ' + prop.phoneFormatted;
+        }
+    });
 /*	
     // load GeoJSON from an external file
     $.getJSON("historic_places.geojson", function(data){
