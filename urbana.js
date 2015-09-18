@@ -20,8 +20,7 @@ function makeTip( feature ) {
 }
 
 
-function updateModal(e) {
-    var feature = e.target.feature;
+function updateModal(feature) {
 
     $('#myModal .modal-header').html('<h2>' + feature.properties.title + '</h2>');
     $('#myModal .modal-body').load('modals/' + feature.properties.id);
@@ -49,16 +48,33 @@ function pointToLayer(feature, latlng) {
 $(document).ready( function () {
 
     if (window.location.protocol=="file:") {alert("must load page via http");}
+    L.mapbox.accessToken = 
+    'pk.eyJ1IjoidG9ob2Rzb24iLCJhIjoiY2llcHE3aGIwMDAwdmE1a3Q1ZzhiNTBwYiJ9.0_l-zvcvr0SrwNDwhoyl8w';
 
-    map = L.map('map-canvas', {
-	    center: [40.1097, -88.2042],
-	    zoom: 15,
-	    zoomControl: true,
-	    unloadInvisibleTiles: false
+    var map = L.mapbox.map('map-canvas', 'tohodson.55f8ddb6', {
+        // the options here prevent mouse wheel or trackpad scrolling
+        zoom: 15,
+	    center: [40.1097, -88.2042]
+    });//                 }).setView([38.8906,-77.01313], 12);
+
+    var featureLayer = L.mapbox.featureLayer()
+        .loadURL('historic_places.geojson')
+        .addTo(map);
+
+    featureLayer.on('layeradd', function(e) {
+        var marker = e.layer,
+        feature = marker.feature;
+        //marker.setIcon(L.icon(feature.properties.icon));
+        var content = makeTip(feature); 
+        marker.bindPopup(content);
     });
 
-    L.tileLayer('http://{s}.tiles.mapbox.com/v3/tohodson.55f8ddb6/{z}/{x}/{y}.png').addTo(map);
-	
+    featureLayer.on('click', function(e) {
+        var feature = e.layer.feature;
+        updateModal(feature);
+
+    });
+/*	
     // load GeoJSON from an external file
     $.getJSON("historic_places.geojson", function(data){
     // add GeoJSON layer to the map once the file is loaded
@@ -68,7 +84,7 @@ $(document).ready( function () {
             onEachFeature: onEachFeature
         }).addTo(map);
     }); //end of getJSON
-    
+   */ 
 }); // end of ready()
    
 

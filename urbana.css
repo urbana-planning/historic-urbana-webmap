@@ -110,13 +110,6 @@ section.active
 .leaflet-bar a,
 .leaflet-bar a:hover {
     background-color: #FFFFDD;
-    border-bottom: 1px solid #ccc;
-    width: 40px;
-    height: 40px;
-    line-height: 40px;
-    display: block;
-    text-align: center;
-    text-decoration: none;
     color: black;
 }
 .leaflet-popup-content-wrapper, .leaflet-popup-tip {
