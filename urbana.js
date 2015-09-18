@@ -22,28 +22,10 @@ function makeTip( feature ) {
 
 function updateModal(e) {
     var feature = e.target.feature;
-    $('.bxslider').empty(); 
-    $.each(feature.properties.images, function(){
-            $('.bxslider').append('<li><img src="' + this + '" /></li'); 
-    });
-    // $('#myModal .modal-images').html('<img src=' + feature.properties.images[0] + '>');
 
     $('#myModal .modal-header').html('<h2>' + feature.properties.title + '</h2>');
-    $('#myModal .modal-body').empty();
-    
-    if (feature.properties.arch_desc != null) {
-         $('#myModal .modal-body').append(
-                '<h3>Architectural Description</h3>' +
-                '<p>' + feature.properties.arch_desc + '</p>'
-                );
-    }
+    $('#myModal .modal-body').load('modals/' + feature.properties.id);
 
-    if (feature.properties.hist_desc != null) {
-        $('#myModal .modal-body').append(
-                '<h3>Historical Description</h3>' +
-                '<p>' + feature.properties.hist_desc + '</p>'
-                );
-    }
 }
 
 function onEachFeature( feature, layer) {
