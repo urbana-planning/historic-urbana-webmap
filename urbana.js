@@ -64,6 +64,11 @@ $(document).ready( function () {
     featureLayer.on('layeradd', function(e) {
         var marker = e.layer,
         feature = marker.feature;
+        marker.setIcon(L.icon({
+            iconUrl: 'img/pushpin2.svg',
+            iconSize: [35,33] 
+            }));
+        
         //marker.setIcon(L.icon(feature.properties.icon));
         var content = makeTip(feature); 
         marker.bindPopup(content);

@@ -117,6 +117,7 @@ section.active
     background-size: cover;
     background: #FFFFDD;
     width: 300px;
+    box-shadow: 0em 0em 1em 0em #202020;
 }
 .leaflet-container img {
 }
