@@ -76,44 +76,35 @@ $(document).ready( function () {
 
     featureLayer.on('click', function(e) {
         var feature = e.layer.feature;
+        map.setView(e.latlng);
         updateModal(feature);
 
     });
 
-    var listings = $('#listings');
+    featureLayer.on('ready', function() {
+        var listings = $('#listings');
 
-    featureLayer.eachLayer(function(locale) {
-        // Shorten locale.feature.properties to just `prop` so we're not
-        // writing this long form over and over again.
-        var prop = locale.feature.properties;
+        featureLayer.eachLayer(function(locale) {
+            
+            var prop = locale.feature.properties;
+            item = $('#listings').append(document.createElement("div"))
+                          .children()
+                          .last("div")
+                          .addClass('item')
+            item.text(prop.title); 
+            
+            item.append('<p>' + prop.style + '<p>'); 
+            //var link = listing.append('<Child(document.createElement('a'));
+            //link.href = '#';
+            //link.className = 'title';
+            //link.innerHTML = prop.title;
 
-        var listing = listings.appendChild(document.createElement('div'));
-        listing.className = 'item';
 
-        var link = listing.appendChild(document.createElement('a'));
-        link.href = '#';
-        link.className = 'title';
-        link.innerHTML = prop.title;
-
-
-        var details = listing.appendChild(document.createElement('div'));
-        details.innerHTML = prop.built;
-
-        if (prop.phone) {
-            details.innerHTML += ' &middot; ' + prop.phoneFormatted;
-        }
+            if (prop.phone) {
+                details.innerHTML += ' &middot; ' + prop.phoneFormatted;
+            }
+        });
     });
-/*	
-    // load GeoJSON from an external file
-    $.getJSON("historic_places.geojson", function(data){
-    // add GeoJSON layer to the map once the file is loaded
-        //define marker here
-        L.geoJson(data, {
-            pointToLayer: pointToLayer,
-            onEachFeature: onEachFeature
-        }).addTo(map);
-    }); //end of getJSON
-   */ 
 }); // end of ready()
    
 

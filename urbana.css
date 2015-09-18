@@ -9,15 +9,17 @@ h1, h2 {
     /*font-family: 'Special Elite', cursive;*/
     font-family: 'Rokkitt', serif;
     text-transform: uppercase;
+
 }
 h1 {
     font-size: 20pt;
     text-align: right;
     padding-left: 20px;
     margin-top: 5px;
+    $('#banner').html('<h1>JavaScript was here</h1>');
     padding-bottom: 5px;
     border-bottom: solid thin;
-
+    color: #006837;
 }
 h2 {
     text-align: right;
@@ -25,6 +27,7 @@ h2 {
     border-bottom: thin solid #555;
     padding-bottom: 5px;
     margin: 5px;
+    color: #31a354;
 }
 table {
     font-family: 'Rokkit', serif;
@@ -132,16 +135,10 @@ section.active
   border-bottom:1px solid #eee;
   padding:10px;
   text-decoration:none;
+  color: #78c679;
 }
 .listings .item:last-child { border-bottom:none; }
-.listings .item .title {
-  display:block;
-  color:#00853e;
-  font-weight:700;
-}
-.listings .item .title small { font-weight:400; }
-.listings .item.active .title,
-.listings .item .title:hover { color:#8cc63f; }
+
 .listings .item.active {
   background-color:#f8f8f8;
 }
@@ -160,6 +157,10 @@ section.active
   border-radius:0;
 }
 
+.listings .item:hover {
+    background-color:#c2e699;
+    color: black;
+}
 @media (min-resolution: 150dpi) and (max-width:1400px) , (max-width: 680px) {
   .arrow-down {
       margin-top:5px;
