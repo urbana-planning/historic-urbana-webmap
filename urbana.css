@@ -144,7 +144,6 @@ section.active
 }
 .leaflet-container img {
 }
-
 .listings {
   height:100%;
   overflow:auto;
@@ -181,6 +180,7 @@ section.active
     background-color:#c2e699;
     color: black;
 }
+
 @media (min-resolution: 150dpi) and (max-width:1400px) , (max-width: 680px) {
   .arrow-down {
       margin-top:5px;

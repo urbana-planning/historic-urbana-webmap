@@ -26,11 +26,14 @@ function updateModal(feature) {
     $('#myModal .modal-body').load('modals/' + feature.properties.id, function() {
         $('.slider').slick({
              dots: true,
-             //infinite: true,
+             lazyLoad: 'ondemand',
+             infinite: true,
              speed: 300,
              slidesToShow: 1,
-             //variableWidth: true,
-             adaptaveHeight: true
+             variableWidth: true,
+             centerMode: true,
+             arrows: false,
+             //adaptaveHeight: true
         });
     });
 }
