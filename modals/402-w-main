@@ -1,15 +1,12 @@
 
-<div>
-<h3>402 W. Main St.</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-402-50.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-402-50.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-402-12.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-402-12.jpg" height="159">
 </div>
 
 </div>
@@ -23,4 +20,3 @@ The most striking aspect of the building is the tall square tower which has four
 
 
 
-</div>

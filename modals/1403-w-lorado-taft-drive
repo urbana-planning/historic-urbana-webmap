@@ -1,15 +1,12 @@
 
-<div>
-<h3>1403 W. Lorado Taft Drive, The Mumford House</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lorado-taft-w-1403-3.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lorado-taft-w-1403-3.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lorado-taft-w-1403-2.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lorado-taft-w-1403-2.jpg" height="159">
 </div>
 
 </div>
@@ -20,4 +17,3 @@
 
 
 
-</div>

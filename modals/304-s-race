@@ -1,15 +1,12 @@
 
-<div>
-<h3>304 S Race St.</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-304-11.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-304-11.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-304-35.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-304-35.jpg" height="159">
 </div>
 
 </div>
@@ -20,4 +17,3 @@
 
 
 
-</div>

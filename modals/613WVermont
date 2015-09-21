@@ -1,19 +1,16 @@
 
-<div>
-<h3>613 W. Vermont Ave., The Dovring House</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/vermont-w-613.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/vermont-w-613.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/folkedovring-613vermont.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/folkedovring-613vermont.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/kirkwood-613vermont.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/kirkwood-613vermont.jpg" height="159">
 </div>
 
 </div>
@@ -32,4 +29,3 @@
    Your browser does not support the audio elet.men
 </audio>
 
-</div>

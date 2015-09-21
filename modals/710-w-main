@@ -1,15 +1,12 @@
 
-<div>
-<h3>710 W Main St.</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-710-2.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-710-2.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-710-4.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-710-4.jpg" height="159">
 </div>
 
 </div>
@@ -24,4 +21,3 @@
 </p>
 
 
-</div>

@@ -1,15 +1,12 @@
 
-<div>
-<h3>305 W Oregon St</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-305-4.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-305-4.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-305-7.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-305-7.jpg" height="159">
 </div>
 
 </div>
@@ -23,4 +20,3 @@
     <p> Prominent residents of 305 W. Oregon include F.A. Somers, founder and owner of the F.A. Somers Material Company and University of Illinois Mathematics professor Paul Weichel. While the house has been owner-occupied for the majority of it&#39;s history, it was used as a multi-family residence for a few short periods of time.</p>
 
 
-</div>

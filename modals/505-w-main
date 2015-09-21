@@ -1,11 +1,8 @@
 
-<div>
-<h3>505 W. Main St.</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-505.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-505.jpg" height="159">
 </div>
 
 </div>
@@ -24,4 +21,3 @@
    Your browser does not support the audio elet.men
 </audio>
 
-</div>

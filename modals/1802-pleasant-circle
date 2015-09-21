@@ -1,23 +1,20 @@
 
-<div>
-<h3>1802 Pleasant Circle</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pleasant-s-1802-1.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pleasant-s-1802-1.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/dsc-2117.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/dsc-2117.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pleasant-s-1802-15.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pleasant-s-1802-15.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/dsc-2120.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/dsc-2120.jpg" height="159">
 </div>
 
 </div>
@@ -31,4 +28,3 @@
     <p>1802 S. Pleasant was designed by Jack Baker and John Replinger, both UIUC faculty for Alfred W. Allen, a professor of Ceramics Engineering. The current residents are Jana Mason and her husband Richard Andersron. Mason taught in the education department at UIUC and  is an artist. Anderson is a nationally recognized scholar of children&#39;s literacy studies. Mason is also part of the Artisans 10-Plus collective with Dottie Replinger, the widow of the original architect John Replinger.</p>
 
 
-</div>

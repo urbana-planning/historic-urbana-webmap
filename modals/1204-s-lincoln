@@ -1,11 +1,8 @@
 
-<div>
-<h3>1204 S Lincoln Ave</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1204.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1204.jpg" height="159">
 </div>
 
 </div>
@@ -16,4 +13,3 @@
 
 
 
-</div>

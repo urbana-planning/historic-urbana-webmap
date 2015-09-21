@@ -1,15 +1,12 @@
 
-<div>
-<h3>120 W. Main St.</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-120-124-13.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-120-124-13.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-120-124-51.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-120-124-51.jpg" height="159">
 </div>
 
 </div>
@@ -28,4 +25,3 @@
    Your browser does not support the audio elet.men
 </audio>
 
-</div>

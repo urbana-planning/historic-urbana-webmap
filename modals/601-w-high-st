@@ -1,15 +1,12 @@
 
-<div>
-<h3>601 W. High St</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-601-15.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-601-15.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-601-3.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-601-3.jpg" height="159">
 </div>
 
 </div>
@@ -20,4 +17,3 @@
 
 
 
-</div>

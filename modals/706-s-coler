@@ -1,15 +1,12 @@
 
-<div>
-<h3>706 S. Coler Ave.</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/coler-s-706.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/coler-s-706.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/coler-s-706-1.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/coler-s-706-1.jpg" height="159">
 </div>
 
 </div>
@@ -20,4 +17,3 @@
 
 
 
-</div>

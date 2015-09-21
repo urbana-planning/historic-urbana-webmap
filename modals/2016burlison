@@ -1,19 +1,16 @@
 
-<div>
-<h3>2016 Burlison, The Garvey House</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/burlison-s-2016-11.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/burlison-s-2016-11.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/garvey-inside.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/garvey-inside.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/program2.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/program2.jpg" height="159">
 </div>
 
 </div>
@@ -27,4 +24,3 @@
     <p>John Garvey met Bruce Goff while giving a performance at the University of Oklahoma where Goff was the chair of the architecture department. The Garvey House was one of Goff’s last designs while on the Oklahoma faculty. In 1955 Goff was forced out amidst a scandal.</p>
 
 
-</div>

@@ -1,15 +1,12 @@
 
-<div>
-<h3>708 S. Busey Ave.</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-708-3.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-708-3.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-708-7.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-708-7.jpg" height="159">
 </div>
 
 </div>
@@ -25,4 +22,3 @@
    Your browser does not support the audio elet.men
 </audio>
 
-</div>

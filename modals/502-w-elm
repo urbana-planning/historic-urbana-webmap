@@ -1,19 +1,16 @@
 
-<div>
-<h3>502 W. Elm St.</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-502-2.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-502-2.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-502-6.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-502-6.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-502-8.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-502-8.jpg" height="159">
 </div>
 
 </div>
@@ -34,4 +31,3 @@ In September, 1873 they purchased the Griggs estate and moved into the former Gr
 </p>
 
 
-</div>

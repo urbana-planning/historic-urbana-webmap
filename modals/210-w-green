@@ -1,15 +1,12 @@
 
-<div>
-<h3>210 W. Green St., The Urbana Free Library</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/resize/images/urbana-free-library-222x126.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/resize/images/urbana-free-library-222x126.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/medium/images/green-w-210-222x167.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/medium/images/green-w-210-222x167.jpg" height="159">
 </div>
 
 </div>
@@ -23,4 +20,3 @@
     <p>Prior to the building of the current building, the Urbana library was located in a variety of locations, including above the Tiernan Brothers grocery story, above the Knowlton and Bennett Drug Store at Race and Main Streets, and finally on the first floor of the city building where it remained until 1918. Initially the City of Urbana had hoped to use funds from the Carnegie Foundation to build a new free public library. However, after raising the funds requested by Carnegie, the city was ultimately turned down because of a perception that it had sufficient means to build a library without external financial help. While this decision delayed the contruction by a number years, ultimately sufficient funds were raised. Mary Busey, widow of Samuel T. Busey, donated the bulk of the funds under the condition that the library be dedicated to her late husband.</p>
 
 
-</div>

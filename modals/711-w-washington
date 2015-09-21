@@ -1,15 +1,12 @@
 
-<div>
-<h3>711 W. Washington St.</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/washington-w-711-3.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/washington-w-711-3.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/washington-w-711-6.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/washington-w-711-6.jpg" height="159">
 </div>
 
 </div>
@@ -23,4 +20,3 @@
     <p>This house first appeared on the Sanborn Map of 1915 as did the rest of the houses on the south side of Washington. Houses began appearing on the north side of Washington with the 1923 Sanborn Map. The age of the structure might best be estimated by its appearance in the 1914 Urbana City Directory.</p>
 
 
-</div>

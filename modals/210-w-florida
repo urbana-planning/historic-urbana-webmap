@@ -1,15 +1,12 @@
 
-<div>
-<h3>210 W. Florida Ave.</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/florida-w-210-1.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/florida-w-210-1.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/florida-w-210-4.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/florida-w-210-4.jpg" height="159">
 </div>
 
 </div>
@@ -23,4 +20,3 @@
     <p>One former resident, Robert Floyd, owner of Floyd Electric Motor Service spent several summers in the 1950&#39;s prospecting for Uranium in the American west. In various articles in the Urbana-Champaign Courier his efforts were described as akin to fishing trips, except for uranium. His trips were made using a jeep and some basic geological information obtained from the University. While his efforts ultimately proved to be unproductive he stated that he &quot;would like to go prospecting 52 weeks a year.&quot;</p>
 
 
-</div>

@@ -1,15 +1,12 @@
 
-<div>
-<h3>108 N. Weber Ave.</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/webber-n-108.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/webber-n-108.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/webber-n-108-10.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/webber-n-108-10.jpg" height="159">
 </div>
 
 </div>
@@ -20,4 +17,3 @@
 
 
 
-</div>

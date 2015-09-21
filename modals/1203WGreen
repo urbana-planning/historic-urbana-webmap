@@ -1,23 +1,20 @@
 
-<div>
-<h3>1203 W. Green St., Wesley Foundation</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-1203.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-1203.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-1203-5.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-1203-5.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-1203_0.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-1203_0.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-1203-postcard.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-1203-postcard.jpg" height="159">
 </div>
 
 </div>
@@ -39,4 +36,3 @@ The design of the 1203 W. Green was inspired by Christ Church College where John
    Your browser does not support the audio elet.men
 </audio>
 
-</div>

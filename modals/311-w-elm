@@ -1,15 +1,12 @@
 
-<div>
-<h3>311 W. Elm St., The William Park Residence</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-311.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-311.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-311-12.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-311-12.jpg" height="159">
 </div>
 
 </div>
@@ -28,4 +25,3 @@
    Your browser does not support the audio elet.men
 </audio>
 
-</div>

@@ -1,27 +1,24 @@
 
-<div>
-<h3>209 W. Delaware Ave.</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-209-2.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-209-2.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/delaware-w-209-downie.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/delaware-w-209-downie.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-209-downie-1.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-209-downie-1.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/small/images/delaware-w-209-3-75x75.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/small/images/delaware-w-209-3-75x75.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/small/images/delaware-w-209-10-75x75.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/small/images/delaware-w-209-10-75x75.jpg" height="159">
 </div>
 
 </div>
@@ -40,4 +37,3 @@
    Your browser does not support the audio elet.men
 </audio>
 
-</div>

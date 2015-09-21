@@ -1,15 +1,12 @@
 
-<div>
-<h3>510 W High St</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-510-27.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-510-27.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-510-1.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-510-1.jpg" height="159">
 </div>
 
 </div>
@@ -23,4 +20,3 @@
     <p>The house is most associated with the Loeb family who moved into the house in 1919. Charles Loeb was Assistant Cashier at the First National Bank, Urbana, and he lived here with his widowed mother and three sisters, Blanche, Josie and Rachel. Charles Loeb later became Urbana Postmaster and was affiliated with the C &amp;amp; U Advertising Co., although by that time he lived at 510 West Delaware and his sisters lived here on High Street.</p>
 
 
-</div>

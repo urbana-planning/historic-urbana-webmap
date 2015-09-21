@@ -1,15 +1,12 @@
 
-<div>
-<h3>806 W. Pennsylvania Ave.</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-w-806-3b.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-w-806-3b.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-w-806-4b.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-w-806-4b.jpg" height="159">
 </div>
 
 </div>
@@ -20,4 +17,3 @@
 
 
 
-</div>

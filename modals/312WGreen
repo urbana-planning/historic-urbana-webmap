@@ -1,23 +1,20 @@
 
-<div>
-<h3>312 W. Green St., The Lindley House</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-312-17.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-312-17.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-312-8_0.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-312-8_0.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-312-21.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-312-21.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-312-96.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-312-96.jpg" height="159">
 </div>
 
 </div>
@@ -36,4 +33,3 @@
    Your browser does not support the audio elet.men
 </audio>
 
-</div>

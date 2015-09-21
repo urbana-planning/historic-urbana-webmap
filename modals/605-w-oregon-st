@@ -1,15 +1,12 @@
 
-<div>
-<h3>605 W. Oregon St.</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-605-8.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-605-8.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-605-9.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-605-9.jpg" height="159">
 </div>
 
 </div>
@@ -23,4 +20,3 @@
     <p>The house at 605 W. Oregon was part of the T.S. Hubbard Elmwood Addition. Built for Hugh w. Brown and his wife Emma, the house remained in the Brown family until 1975, save for 1937 when Leo and Mary Tehon rented the house.</p>
 
 
-</div>

@@ -1,31 +1,28 @@
 
-<div>
-<h3>303 W. Indiana Ave., Erlanger House</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/large/images/indiana-w-303-200x144.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/large/images/indiana-w-303-200x144.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/erlangerphoto1.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/erlangerphoto1.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/erlangerphoto4.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/erlangerphoto4.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/small/images/erlangrcolorcrop-197x156.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/small/images/erlangrcolorcrop-197x156.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/erlangerphoto2.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/erlangerphoto2.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/erlangerphoto3.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/erlangerphoto3.jpg" height="159">
 </div>
 
 </div>
@@ -44,4 +41,3 @@
    Your browser does not support the audio elet.men
 </audio>
 
-</div>

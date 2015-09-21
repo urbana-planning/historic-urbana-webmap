@@ -1,23 +1,20 @@
 
-<div>
-<h3>101 E. Main St., Champaign County Courthouse</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-e-101-14.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-e-101-14.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-e-101-12.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-e-101-12.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/courthouse-original.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/courthouse-original.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/courthouse-lightning.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/courthouse-lightning.jpg" height="159">
 </div>
 
 </div>
@@ -36,4 +33,3 @@
    Your browser does not support the audio elet.men
 </audio>
 
-</div>

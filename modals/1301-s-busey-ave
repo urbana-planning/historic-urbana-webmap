@@ -1,11 +1,8 @@
 
-<div>
-<h3>1301 S Busey Ave</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-1301.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-1301.jpg" height="159">
 </div>
 
 </div>
@@ -16,4 +13,3 @@
 
 
 
-</div>

@@ -23,8 +23,16 @@ function makeTip( feature ) {
 function updateModal(feature) {
 
     $('#myModal .modal-header').html('<h2>' + feature.properties.title + '</h2>');
-    $('#myModal .modal-body').load('modals/' + feature.properties.id);
-
+    $('#myModal .modal-body').load('modals/' + feature.properties.id, function() {
+        $('.slider').slick({
+             dots: true,
+             infinite: true,
+             speed: 300,
+             slidesToShow: 1,
+             variableWidth: true,
+             //adaptaveHeight: true
+        });
+    });
 }
 
 function onEachFeature( feature, layer) {

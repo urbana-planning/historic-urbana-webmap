@@ -1,19 +1,16 @@
 
-<div>
-<h3>1306 S Carle</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/carle-s-1306-13.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/carle-s-1306-13.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/carle-s-1306-16.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/carle-s-1306-16.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/carle-s-1306-7.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/carle-s-1306-7.jpg" height="159">
 </div>
 
 </div>
@@ -34,4 +31,3 @@ A year after Prof. Donovan&#39;s retirement, in 1966, Kenneth L. Rinehart, chemi
 </p>
 
 
-</div>

@@ -1,15 +1,12 @@
 
-<div>
-<h3>801 W. Oregon St.</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-801-10.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-801-10.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-801-7.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-801-7.jpg" height="159">
 </div>
 
 </div>
@@ -28,4 +25,3 @@
    Your browser does not support the audio elet.men
 </audio>
 
-</div>

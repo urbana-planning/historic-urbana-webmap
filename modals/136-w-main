@@ -1,15 +1,12 @@
 
-<div>
-<h3>136 W. Main St., The Cohen Building</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-136-13.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-136-13.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-136-60.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-136-60.jpg" height="159">
 </div>
 
 </div>
@@ -23,4 +20,3 @@
     <p>In the late 1800s, no town could call itself legitimate unless it had two railroads, two banks, a cigar factory, a tailor, dressmaker, and a milliner. Nathan Cohen was the town cigar manufacturer and in 1907, he commissioned the building of 136 W. Main to house his cigar factory. After Cohen retired, the building housed a variety of businesses including the Embassy Tavern and One Thirty Barber Shop. Currently the  houses a law office.</p>
 
 
-</div>

@@ -1,15 +1,12 @@
 
-<div>
-<h3>1212 W. Springfield Ave., University High School</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/springfield-w-1212-9.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/springfield-w-1212-9.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/springfield-w-1212-12.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/springfield-w-1212-12.jpg" height="159">
 </div>
 
 </div>
@@ -23,4 +20,3 @@
     <p>The design for University High School were initially rejected. After months of deliberation the plans were approved and built as originally designed. However, only 20 years later, in 1943, efforts were taken to build a new College of Education practice school two blocks north of the current site. The following year the College of Education released a study highlighting the inadequate gymnasium and auditorium facilities. At that time, a new plan was circulated to build a 225,000 sq. ft. facility north of Illini Grove that would house a nursery school, kindergarten, elementary, middle and high school. This plan never materialized beyond the agreement to transfer the Kenney Gym to Uni. Today, at over 90 years old, Uni High continues as an innovative and experiemntal independent laboratory high school education students from Champaign, Urbana and neighboring towns.</p>
 
 
-</div>

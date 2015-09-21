@@ -1,15 +1,12 @@
 
-<div>
-<h3>803 W. Main St.</h3>
-
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-803.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-803.jpg" height="159">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-803-4.jpg">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-803-4.jpg" height="159">
 </div>
 
 </div>
@@ -23,4 +20,3 @@
     <p>The original owner of the house was Jarius Sheldon, a state senator and lawyer who was known to have associated with Abraham Lincoln. Sheldon advocated for the location of the University of Illinios to be in Champaign-Urbana. When Mr. Sheldon passed away, his wife moved into a small apartment that was added to the house.</p>
 
 
-</div>
