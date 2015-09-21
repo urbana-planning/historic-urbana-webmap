@@ -56,6 +56,13 @@ html, body, #map-canvas { height: 100%; }
 .modal-header, .modal-footer {
     border: 0px;
    } 
+
+.modal {
+    max-height:100%;
+}
+.modal-dialog {
+    max-height:80%;
+}
 .modal-content {
     background-color: #FFFFDD;
     overflow: scroll;
@@ -64,12 +71,17 @@ html, body, #map-canvas { height: 100%; }
     display: table;
     margin: 0 auto;
     font-size: medium;
+    padding-top: 20px;
 }
 #map-canvas {
     position: fixed;
     height: 100%;
     width: 80%;
     left: 20%;
+}
+
+table #tooltip {
+    font-size: 12pt;
 }
 scroll_section {
     width: 200px;
@@ -120,6 +132,7 @@ section.active
     background-size: cover;
     background: #FFFFDD;
     width: 300px;
+    border-radius: 10px;
     box-shadow: 0em 0em 1em 0em #202020;
 }
 .leaflet-container img {
@@ -177,38 +190,17 @@ section.active
   body {
     font-size:12px;
     line-height:16px;
-    }
-  section {
-    height: 20%;
-    min-height: 120px;
-    width:auto;
-    text-shadow:none;
-    margin-left:0px;
-    padding:10px;
-    padding-top:10px;
-    }
-  section.active {
-    position:fixed;
-    top:0px; left:0px; right:0px;
-    background-color:rgba(0, 0, 0, 0.8)
-    }
-  #pane { width:100%; }
+  }
   #map-canvas  {
     bottom:0%;
-    left:100%;
+    left:0%;
     width:100%;
-    height:80%;
-    }
-  .desc {
-      padding: 0px 10%;      
-      min-height:60px;
+    height:90%;
   }
+  #sidebar {
+    height: 10%;
+    width: 100%;
+    top: 0%;
 
-  #cover {
-      background: none;
-      background-color:rgba(0,0,0,0.8);
   }
-  ul {
-      margin-left: 20%;
-  }
-  }
+}
