@@ -2,27 +2,27 @@
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/large/images/indiana-w-303-200x144.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/large/images/indiana-w-303-200x144.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/erlangerphoto1.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/erlangerphoto1.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/erlangerphoto4.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/erlangerphoto4.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/small/images/erlangrcolorcrop-197x156.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/small/images/erlangrcolorcrop-197x156.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/erlangerphoto2.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/erlangerphoto2.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/erlangerphoto3.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/erlangerphoto3.jpg">
 </div>
 
 </div>
@@ -36,8 +36,9 @@
     <p>The Erlanger residence, at 303. W. Indiana, was the first of a number of homes in Champaign-Urbana designed UIUC Architecture professor Jack Sherman Baker. Baker, who was born in Champaign in 1920, designed this house for noted UIUC dance professor Margaret Erlanger. Located in the Von Doran section of Carle Park, the house is notable for being designed for privacy and low maintenance. The narrow profile of the townhouse was designed to preserve privacy within a neighborhood with large adjacent homes. As with the Garvey House, the Erlanger House was a node in the Champaign-Urbana avant-garde scene during the mid-1960s. Sal Martirano, the long time resident of Garvey House, was a close associate of Erlanger. Famous choreographer Merce Cunningham, and his long time partner, avant-garde composer John Cage, frequently stayed at the house. Cunningham was the first dancer-in-residence at UIUC and returned frequently to campus.</p>
 
 
-<audio controls>
-  <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Erlanger_House.mp3" type="audio/mpeg">
-   Your browser does not support the audio elet.men
-</audio>
+    <h3>Audio Tour</h3>
+    <audio controls>
+      <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Erlanger_House.mp3" type="audio/mpeg">
+         Your browser does not support the audio elet.men
+    </audio>
 

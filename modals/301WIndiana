@@ -2,11 +2,11 @@
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/indiana-w-301-3.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/indiana-w-301-3.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/indiana-w-301-5.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/indiana-w-301-5.jpg">
 </div>
 
 </div>
@@ -20,8 +20,9 @@
     <p>The design for 301 W. Indiana was evidently ordered from Architect’s Small House Service Bureau. While not confirmed, the resemblance to known plans as illustrated in the photos below is striking. In contrast to the prefab Sears homes, plan book homes were built using locally available supplies. While Sears homes were often found in close proximity to rail lines, plan book homes tend to be more dispersed.</p>
 
 
-<audio controls>
-  <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Plan_Book_House.mp3" type="audio/mpeg">
-   Your browser does not support the audio elet.men
-</audio>
+    <h3>Audio Tour</h3>
+    <audio controls>
+      <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Plan_Book_House.mp3" type="audio/mpeg">
+         Your browser does not support the audio elet.men
+    </audio>
 

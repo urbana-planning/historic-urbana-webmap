@@ -2,11 +2,11 @@
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-801-10.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/oregon-w-801-10.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-801-7.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/oregon-w-801-7.jpg">
 </div>
 
 </div>
@@ -20,8 +20,9 @@
     <p>The Mission style is more typically found out west in California or parts of the southwestern United States. It is believed that Royer was inspired to construct the home after seeing a similar type of structure at the 1904 Word&#39;s Fair in St. Louis called the &quot;California Building.&quot; Joseph Royer and his wife Adelaide finished construction of the home in 1906 and lived their until their deaths in the early 1950s.</p>
 
 
-<audio controls>
-  <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Royer_House.mp3" type="audio/mpeg">
-   Your browser does not support the audio elet.men
-</audio>
+    <h3>Audio Tour</h3>
+    <audio controls>
+      <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Royer_House.mp3" type="audio/mpeg">
+         Your browser does not support the audio elet.men
+    </audio>
 

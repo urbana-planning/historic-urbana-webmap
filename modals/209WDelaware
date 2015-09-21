@@ -2,23 +2,23 @@
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-209-2.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/delaware-w-209-2.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/delaware-w-209-downie.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/small/images/delaware-w-209-downie.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-209-downie-1.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/delaware-w-209-downie-1.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/small/images/delaware-w-209-3-75x75.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/small/images/delaware-w-209-3-75x75.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/small/images/delaware-w-209-10-75x75.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/resize/imagecache/small/images/delaware-w-209-10-75x75.jpg">
 </div>
 
 </div>
@@ -32,8 +32,9 @@
     <p>University of Illinois Mechanical Engineering professor Dr. Reinhold F. Larsen and his wife Grace Larsen commissioned R. Harold Zook to design a house for them. Built in 1940, 209 W. Delaware has been owned by only four families. Stanley Slack and his wife owned the house after the Larsens, followed by Mary and Lee Bissey and finally the current owners, Stephen Downie and Deborah Katz-Downie.</p>
 
 
-<audio controls>
-  <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Zook_House.mp3" type="audio/mpeg">
-   Your browser does not support the audio elet.men
-</audio>
+    <h3>Audio Tour</h3>
+    <audio controls>
+      <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Zook_House.mp3" type="audio/mpeg">
+         Your browser does not support the audio elet.men
+    </audio>
 

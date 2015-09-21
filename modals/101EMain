@@ -2,19 +2,19 @@
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-e-101-14.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-e-101-14.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-e-101-12.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-e-101-12.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/courthouse-original.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/courthouse-original.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/courthouse-lightning.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/courthouse-lightning.jpg">
 </div>
 
 </div>
@@ -28,8 +28,9 @@
     <p>The architectural style of Richardsonian Romanesque was named after innovative Boston architect Henry Hobson Richardson and perhaps best represented by his masterpiece, Trinity Church (1887). Richardson used elements from Romanesque architecture while drawing elements from several other styles of architecture. This style was popular for public buildings built in the late 1800s. The Champaign County Courthouse is the only example of Richardsonian Romanesque architecture in the area.</p>
 
 
-<audio controls>
-  <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Courthouse.mp3" type="audio/mpeg">
-   Your browser does not support the audio elet.men
-</audio>
+    <h3>Audio Tour</h3>
+    <audio controls>
+      <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Courthouse.mp3" type="audio/mpeg">
+         Your browser does not support the audio elet.men
+    </audio>
 

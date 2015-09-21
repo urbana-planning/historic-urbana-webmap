@@ -2,11 +2,11 @@
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/indiana-w-411-4.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/indiana-w-411-4.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/indiana-w-411-2.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/indiana-w-411-2.jpg">
 </div>
 
 </div>
@@ -20,8 +20,9 @@
     <p>The homes surrounding Carle Park, including 411 W. Indiana, were built on lots carved out from land originally owned by Albert G. Carle. After Carle died, his widow, Margaret Morris set about creating a park to honor her late husband. In March of 1909, Margaret conveyed a large tract of land to C.L. Van Doren in trust for the creation of Carle Park. As per the original conveyance, Van Doren conveyed a portion of the property to the Urbana Park District on Oct 11, 1911. The rest of the property was parceled out into individual lots. 411 W. Indiana was built on Lot 6, Block 4, directly opposite the southwest corner of Carle Park. According to a letter from Bo Willman, the house was “at the edge of town” in 1922. There were no houses to the east and the nearest house to the west was four lots away, suggesting that it was one of the first of the Van Doren lots to be built upon.</p>
 
 
-<audio controls>
-  <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Ortiz_House.mp3" type="audio/mpeg">
-   Your browser does not support the audio elet.men
-</audio>
+    <h3>Audio Tour</h3>
+    <audio controls>
+      <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Ortiz_House.mp3" type="audio/mpeg">
+         Your browser does not support the audio elet.men
+    </audio>
 

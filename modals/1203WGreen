@@ -2,19 +2,19 @@
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-1203.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-1203.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-1203-5.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-1203-5.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-1203_0.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-1203_0.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-1203-postcard.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-1203-postcard.jpg">
 </div>
 
 </div>
@@ -31,8 +31,9 @@ The design of the 1203 W. Green was inspired by Christ Church College where John
 </p>
 
 
-<audio controls>
-  <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Wesley_Foundations.mp3" type="audio/mpeg">
-   Your browser does not support the audio elet.men
-</audio>
+    <h3>Audio Tour</h3>
+    <audio controls>
+      <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Wesley_Foundations.mp3" type="audio/mpeg">
+         Your browser does not support the audio elet.men
+    </audio>
 

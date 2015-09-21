@@ -2,15 +2,15 @@
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/vermont-w-613.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/vermont-w-613.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/folkedovring-613vermont.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/folkedovring-613vermont.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/kirkwood-613vermont.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/kirkwood-613vermont.jpg">
 </div>
 
 </div>
@@ -24,8 +24,9 @@
     <p>Built in 1941 for UIUC Professor and head of the campus ROTC program, Robert G. Kirkwood, 613 W. Vermont is perhaps best known as the Dovring House, named for its long-time residents Folke and Karin Dovring.</p>
 
 
-<audio controls>
-  <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Dovring_House.mp3" type="audio/mpeg">
-   Your browser does not support the audio elet.men
-</audio>
+    <h3>Audio Tour</h3>
+    <audio controls>
+      <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Dovring_House.mp3" type="audio/mpeg">
+         Your browser does not support the audio elet.men
+    </audio>
 

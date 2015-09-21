@@ -2,15 +2,15 @@
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-701-11.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/busey-s-701-11.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-701-2.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/busey-s-701-2.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-701-7.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/busey-s-701-7.jpg">
 </div>
 
 </div>
@@ -24,8 +24,9 @@
     <p>The mother-in-law cottage, also known as the Danely Cottage, inspired Ella Danley to write The Fairy Book, a collection of children&#39;s stories. By the middle of the 20th century, it was tradition for Leal School kindergarten students to visit the house. Over the course of the year, The Fairy Book would be read to students and afterward they would be taken to the house to see the setting for the stories.</p>
 
 
-<audio controls>
-  <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Mother_In_Law.mp3" type="audio/mpeg">
-   Your browser does not support the audio elet.men
-</audio>
+    <h3>Audio Tour</h3>
+    <audio controls>
+      <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Mother_In_Law.mp3" type="audio/mpeg">
+         Your browser does not support the audio elet.men
+    </audio>
 

@@ -65,7 +65,10 @@ html, body, #map-canvas { height: 100%; }
 }
 .modal-content {
     background-color: #FFFFDD;
-    overflow: scroll;
+    overflow: auto;
+}
+.modal-header h2 {
+    text-align: left;
 }
 .modal-link {
     display: table;
@@ -80,6 +83,10 @@ html, body, #map-canvas { height: 100%; }
     left: 20%;
 }
 
+.slide img {
+    height: 300px;
+    margin: auto;
+}
 table #tooltip {
     font-size: 12pt;
 }

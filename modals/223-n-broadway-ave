@@ -2,7 +2,7 @@
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/broadway-n-223-4.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/broadway-n-223-4.jpg">
 </div>
 
 </div>
@@ -13,8 +13,9 @@
 
 
 
-<audio controls>
-  <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Station_Theatre.mp3" type="audio/mpeg">
-   Your browser does not support the audio elet.men
-</audio>
+    <h3>Audio Tour</h3>
+    <audio controls>
+      <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Station_Theatre.mp3" type="audio/mpeg">
+         Your browser does not support the audio elet.men
+    </audio>
 

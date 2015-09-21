@@ -2,7 +2,7 @@
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-505.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-505.jpg">
 </div>
 
 </div>
@@ -16,8 +16,9 @@
     <p>Clark R. Griggs was born in North Adams, MA in 1824 and came to Champaign County in 1859. He settled on a farm in Philo, which developed into one of the most productive farms in the state. His hog raising skills were legendary. He was mayor of Urbana from 1866 to 1867. In 1867 he was elected to the state legislature. As a legislator, he was instrumental in persuading the legislature to locate the University of Illinois in Urbana.  After the end of his term, he actively dedicated himself to the construction of the Indianapolis, Bloomington and Western Railroad, which was key in the develoment of the region. 505 W. Main was built as a wedding gift for his son, Albert C. Griggs. The house was then owned by the Rea family from 1888 until 1987. In 1979, the Griggs house was placed on the National Register of Historic Places.</p>
 
 
-<audio controls>
-  <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Griggs_House.mp3" type="audio/mpeg">
-   Your browser does not support the audio elet.men
-</audio>
+    <h3>Audio Tour</h3>
+    <audio controls>
+      <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Griggs_House.mp3" type="audio/mpeg">
+         Your browser does not support the audio elet.men
+    </audio>
 

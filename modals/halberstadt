@@ -2,11 +2,11 @@
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/central-n-104-2.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/central-n-104-2.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/central-n-104-halb1.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/central-n-104-halb1.jpg">
 </div>
 
 </div>
@@ -20,8 +20,9 @@
     <p>Eli Halberstadt, prominent miller and four-term mayor of Urbana, was born in Frederick County, Maryland on September 15, 1820, and was one of three children. His family soon moved to Darke County, Ohio where his father died in 1829. Returning to Maryland, his mother soon died, leaving the children orphans. Eli was apprenticed to a tailor in Maryland for three years and worked at this trade before moving to Urbana in 1855. On October 29, 1842, he married Rebecca Legore of Hanover, Pennsylvania. They had five children.</p>
 
 
-<audio controls>
-  <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Halberstadt_House.mp3" type="audio/mpeg">
-   Your browser does not support the audio elet.men
-</audio>
+    <h3>Audio Tour</h3>
+    <audio controls>
+      <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Halberstadt_House.mp3" type="audio/mpeg">
+         Your browser does not support the audio elet.men
+    </audio>
 

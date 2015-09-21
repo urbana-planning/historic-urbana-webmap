@@ -2,11 +2,11 @@
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pleasant-s-1806.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/pleasant-s-1806.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/1806pleasant-drawing.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/1806pleasant-drawing.jpg">
 </div>
 
 </div>
@@ -20,8 +20,9 @@
     <p>In addition to being a well known and highly respected Judge, Fred Green was a University of Illinois Law School graduate and was on the basketball team as an undergrad. He was a four year letter winner at UIUC and during his senior year, Illinois won the Big Ten Championship and was nationally ranked and finished third in the NCAA tournament. It was the first time that Illinois reached the Final Four.</p>
 
 
-<audio controls>
-  <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Green_Home.mp3" type="audio/mpeg">
-   Your browser does not support the audio elet.men
-</audio>
+    <h3>Audio Tour</h3>
+    <audio controls>
+      <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Green_Home.mp3" type="audio/mpeg">
+         Your browser does not support the audio elet.men
+    </audio>
 

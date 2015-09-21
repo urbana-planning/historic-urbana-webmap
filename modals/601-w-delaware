@@ -2,19 +2,19 @@
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-601.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/delaware-w-601.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-601-drawing.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/delaware-w-601-drawing.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-601-5.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/delaware-w-601-5.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-601-8.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/delaware-w-601-8.jpg">
 </div>
 
 </div>
@@ -35,8 +35,9 @@ Irving L. Peterson was the Landscape Architect for the property, specifying 70 v
     <p>Frank DeWolf was recognized as a pioneer in the development of modern industrial geology. Frank and Fanny were married on December 26, 1904 and began their married life in Washington, D.C. where Frank was a geologic aid and assistant geologist with the U.S. Geological Survey from 1904 - 1908. He came to the newly organized State Geological Survey in Urbana as assistant geologist in 1908. He was Director of the Survey from 1911 - 1923. From August, 1917 to February, 1918, DeWolf also served as assistant director of the U.S. Bureau of Mines. The DeWolfs relocated to Houston, Texas in 1923, when Frank became chief geologist of the Humphries Corporation. He was vice president and general manager of the Louisiana Land and Exploration Company, oil producers, from 1927 to 1931. The family returned to Urbana where Frank served as head of the university’s geology department from 1931 until his retirement in 1946.</p>
 
 
-<audio controls>
-  <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/DeWolf_House.mp3" type="audio/mpeg">
-   Your browser does not support the audio elet.men
-</audio>
+    <h3>Audio Tour</h3>
+    <audio controls>
+      <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/DeWolf_House.mp3" type="audio/mpeg">
+         Your browser does not support the audio elet.men
+    </audio>
 

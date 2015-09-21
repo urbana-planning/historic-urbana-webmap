@@ -2,19 +2,19 @@
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-312-17.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-312-17.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-312-8_0.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-312-8_0.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-312-21.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-312-21.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-312-96.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-312-96.jpg">
 </div>
 
 </div>
@@ -28,8 +28,9 @@
     <p>Lindley House was built for Dr. Austin M. Lindley, an Urbana surgeon and physician, and his family. Dr. Lindley was the son of Dr. Mahlon and Salome Lindley. The elder of Dr. Lindley’s offices was at 119 West Main Street, which is in the center of the downtown development, and their family home was at 401 South Race Street. His wife’s, Minnie Hubbard Lindley, relatives were among the first settlers In Urbana. Thomas Hubbard, Mrs. Lindley’s father, was recognized for his role as Urbana businessman, alderman, and the first attempt at banking (“Chuck Flynn’s First Column”). Minnie Hubbard Lindley’s father, Thomas, was honored as an Urbana pioneer and recognized for his role as Urbana business, alderman, and the first attempt at banking (“Chuck Flynn’s First Column” Champaign-Urbana News Gazette June 18, 1978). Minnie Hubbard Lindley left Lindley House to her niece, Ida Hibbard Fisher and her husband Guy in 1922. The Lindley’s lived at 312 West Green Street from 1895 until 1922. Other occupants included the Conservatory of Central Illinois, Crossroads Realty Company, and it is currently occupied by Lindley House Bed and Breakfast.</p>
 
 
-<audio controls>
-  <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Lindley_House.mp3" type="audio/mpeg">
-   Your browser does not support the audio elet.men
-</audio>
+    <h3>Audio Tour</h3>
+    <audio controls>
+      <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Lindley_House.mp3" type="audio/mpeg">
+         Your browser does not support the audio elet.men
+    </audio>
 

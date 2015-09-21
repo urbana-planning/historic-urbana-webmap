@@ -2,15 +2,15 @@
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-612-6.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-612-6.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-612-18.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-612-18.jpg">
 </div>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-612-12.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-612-12.jpg">
 </div>
 
 </div>
@@ -29,8 +29,9 @@ Even following a complete renovation by PACA, the Nathan C. Ricker House retains
     <p>Nathan Ricker was a pioneer in the area of architectural education, an active and well-respected citizen of Urbana, and the architect of his home. As the first graduate of an architecture progrma in the United States, Nathan Clifford Ricker has had a profound and lasting effect on the practice of architecture on Illinois, as well as the architectural education program at the University of Illinois. He used his European experience to develop an innovative instruction format and incorporated the use of modern materials and technology into both his lesson plans and his building designs. Ricker’s combination of educational and practical knowledge guided him as he established the architectural program at the University of Illinois. His program, which emphasized technology, building design, construction, and historic, is still utilized.</p>
 
 
-<audio controls>
-  <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Ricker_House.mp3" type="audio/mpeg">
-   Your browser does not support the audio elet.men
-</audio>
+    <h3>Audio Tour</h3>
+    <audio controls>
+      <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Ricker_House.mp3" type="audio/mpeg">
+         Your browser does not support the audio elet.men
+    </audio>
 

@@ -2,7 +2,7 @@
 <div class='slider'>
 
 <div class='slide'>
-  <img src="http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-w-710.jpg" height="159">
+  <img src="http://urbanaillinois.us/sites/default/files/imagecache/large/images/pennsylvania-w-710.jpg">
 </div>
 
 </div>
@@ -16,8 +16,9 @@
     <p>Robert Heironymous came to the University of Illinos in 1914 after having served as president of Eureka College. In his role as advisor to the newly created Arts Extension program, &quot;Better Communities, Heironymous played a pivotal role in the creation of what later became the Illinois State Park system. Along with his close friend, Lorado Taft, Hieronymous directed the commission to promote community beautification efforts and organized trips to scenic locales across the state.</p>
 
 
-<audio controls>
-  <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Hieronymous_House.mp3" type="audio/mpeg">
-   Your browser does not support the audio elet.men
-</audio>
+    <h3>Audio Tour</h3>
+    <audio controls>
+      <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Hieronymous_House.mp3" type="audio/mpeg">
+         Your browser does not support the audio elet.men
+    </audio>
 
