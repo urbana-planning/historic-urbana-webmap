@@ -70,7 +70,7 @@ html, body, #map-canvas { height: 100%; }
     text-align: left;
 }
 .modal-body {
-    max-height:200px;
+    max-height: 100%;
     overflow-y: auto;
 }
 .modal-link {

@@ -116,6 +116,15 @@ $(document).ready( function () {
             }
         });
     });
+
+    var bodyheight = $(document).height();
+    $(".modal-body").css('height', bodyheight*0.7);
+
 }); // end of ready()
    
+// for the window resize
+$(window).resize(function() {
+    var bodyheight = $(document).height();
+    $(".modal-body").css('height', bodyheight*0.7);
 
+});
