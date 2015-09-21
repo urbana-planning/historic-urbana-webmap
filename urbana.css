@@ -65,10 +65,13 @@ html, body, #map-canvas { height: 100%; }
 }
 .modal-content {
     background-color: #FFFFDD;
-    overflow: auto;
 }
 .modal-header h2 {
     text-align: left;
+}
+.modal-body {
+    max-height:200px;
+    overflow-y: auto;
 }
 .modal-link {
     display: table;
