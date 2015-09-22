@@ -74,6 +74,7 @@ html, body, #map-canvas { height: 100%; }
 .modal-body {
     max-height: 100%;
     overflow-y: auto;
+    padding-top: 0px;
 }
 .modal-link {
     display: table;
@@ -97,6 +98,7 @@ html, body, #map-canvas { height: 100%; }
 .slide img {
     height: 300px;
     margin: auto;
+    padding: 3px;
 }
 .slick-next::before, .slick-prev::before {
     color: green;

@@ -105,12 +105,8 @@ $(document).ready( function () {
             item.append(link);
             
             item.append('<p>' + prop.style + '<p>'); 
-            //var link = listing.append('<Child(document.createElement('a'));
-            //link.href = '#';
-            //link.className = 'title';
-            //link.innerHTML = prop.title;
+
             link.click( function() {
-                alert("item clicked!");
                 map.setView(locale.getLatLng(), 16);
                 locale.openPopup();
             });
