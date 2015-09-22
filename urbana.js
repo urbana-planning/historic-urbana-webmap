@@ -32,7 +32,7 @@ function updateModal(feature) {
              slidesToShow: 1,
              variableWidth: true,
              centerMode: true,
-             arrows: false,
+             //arrows: false,
              //adaptaveHeight: true
         });
     });
