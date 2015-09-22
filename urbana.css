@@ -148,13 +148,17 @@ section.active
     background-color: #f7f5e8;
     color: black;
 }
-.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+.leaflet-popup-content-wrapper {
     background-color: #f7f5e8;
     width: 300px;
     border-radius: 10px;
     box-shadow: 0em 0em 1em 0em #202020;
 }
+.leaflet-popup-tip {
+    border-top: 10px solid #f7f5e8;
+}
 .leaflet-container img {
+    /*max-height:200px;*/
 }
 .listings {
   height:100%;
@@ -164,7 +168,7 @@ section.active
 .listings .item {
   display:block;
   border-bottom:1px solid #eee;
-  padding:10px;
+  padding:5px;
   text-decoration:none;
   color: #78c679;
 }
@@ -198,9 +202,11 @@ section.active
   .arrow-down {
       margin-top:5px;
   }
+  .listings {
+    display:none;
+  }
   h1 {
-      margin-top: 1.5em;
-      font-size: 1.5em;
+      font-size:14pt;
       padding:5px 0px;
       text-align: center;
   }

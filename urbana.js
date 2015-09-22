@@ -8,14 +8,13 @@ function makeTip( feature ) {
     // modal code
     // tooltip code
     var html = "<img class='sepia page-curl shadow-bottom' src=" + feature.properties.images[0] + ">" + 
-        "<br/>" + 
+        "<br/>" +
             "<h2>" + feature.properties.title + "</h2>" +
             "<table id='tooltip'> <tr> <th>Architect:</th> <td>" + feature.properties.architect + "</td> </tr>" +
             "<tr> <th>Year Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
             "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>" +
             "</table>"+
             "<a align='center' class='modal-link' data-toggle='modal' data-target='#myModal' href='#myModal'>- More info -</a>";
-   
     return html; 
 }
 
@@ -43,13 +42,13 @@ function onEachFeature( feature, layer) {
         click: updateModal
     });
 }
-var greenIcon = L.icon({
+var pushpinIcon = L.icon({
         iconUrl: 'img/pushpin2.svg',
         iconSize: [35,33] //   [18, 18]
 });
 
 function pointToLayer(feature, latlng) {
-    var marker = L.marker(latlng, {icon: greenIcon});
+    var marker = L.marker(latlng, {icon: pushpinIcon});
     marker.bindPopup(makeTip(feature)); 
     return marker;
 }
@@ -102,14 +101,19 @@ $(document).ready( function () {
                           .children()
                           .last("div")
                           .addClass('item')
-            item.text(prop.title); 
+            var link = $('<a href=#>' + prop.title + '</a>')
+            item.append(link);
             
             item.append('<p>' + prop.style + '<p>'); 
             //var link = listing.append('<Child(document.createElement('a'));
             //link.href = '#';
             //link.className = 'title';
             //link.innerHTML = prop.title;
-
+            link.click( function() {
+                alert("item clicked!");
+                map.setView(locale.getLatLng(), 16);
+                locale.openPopup();
+            });
 
             if (prop.phone) {
                 details.innerHTML += ' &middot; ' + prop.phoneFormatted;
