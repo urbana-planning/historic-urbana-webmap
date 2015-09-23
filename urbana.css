@@ -5,22 +5,21 @@ header, body {
 }
 
 h2 {
-    /*font-family: 'Raleway', sans-serif;*/
-    /*font-family: 'Special Elite', cursive;*/
     font-family: 'Rokkitt', serif;
     text-transform: uppercase;
 
 }
 h1 {
-    font-size: 14pt;
+    font-size: 12pt;
     text-align: center;
     padding-left: 20px;
     margin-top: 0px;
     margin-bottom: 0px;
-    padding-bottom: 5px;
-    padding-top: 10px;
-    border-top: solid thin;
+    padding-bottom: 10px;
+    padding-top: 5px;
     background-color: #530c00;
+    font-family: "Times New Roman", Times, serif;
+    text-transform: uppercase;
     color: white;
 }
 a#site-name {
@@ -31,17 +30,17 @@ a#site-name {
 h2 {
     text-align: right;
     font-size: 18pt;
-    border-bottom: thin solid #555;
+    border-bottom: thin solid #ddd;
     padding-bottom: 5px;
     margin: 5px;
     color: #31a354;
 }
 table {
-    font-family: 'Rokkit', serif;
-    width: 100%;
-    font-size:12pt;
+    font-size:10pt;
     width: 90%;
     margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 td {
     text-align:right;
@@ -84,11 +83,12 @@ html, body, #map-canvas { height: 100%; }
     overflow-y: auto;
     padding-top: 0px;
 }
-.modal-link {
+a.modal-link {
     display: table;
     margin: 0 auto;
-    font-size: medium;
-    padding-top: 20px;
+    font-size: 10pt;
+    padding-top: 5px;
+    color: #31a354;
 }
 #map-canvas {
     position: fixed;
@@ -114,19 +114,8 @@ html, body, #map-canvas { height: 100%; }
 table #tooltip {
     font-size: 12pt;
 }
-scroll_section {
-    width: 200px;
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    color: white;
-    margin: 0px;
-    padding: 20px;
-    padding-top: 0px;
-    height: 200px;
-    overflow-y: scroll;
-    overflow-x: hidden;
-    transition: opacity .7s ease-in-out;
+.tooltip-footer {
+    border-top: thin solid #ddd;
 }
 
 .sepia 
@@ -164,6 +153,15 @@ section.active
     border-radius: 10px;
     box-shadow: 0em 0em 1em 0em #202020;
 }
+.leaflet-popup-content {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.leaflet-popup-content img {
+    max-height: 300px;
+    display: block;
+    margin: auto;
+}
 .leaflet-popup-tip {
     border-top: 10px solid #f7f5e8;
 }
@@ -180,11 +178,12 @@ section.active
 }
 .listings .item {
   display:block;
-  border-bottom:1px solid #eee;
-  padding:3px;
+  border-bottom:1px double #ddd;
+  padding:2px;
   padding-left: 20px;
+  padding-right: 5px;
   text-decoration:none;
-  color: #78c679;
+  font-size: 10pt;
 }
 .listings .item:last-child { border-bottom:none; }
 
@@ -193,7 +192,7 @@ section.active
 }
 
 ::-webkit-scrollbar {
-  width:5px;
+  width:7px;
   height:3px;
   border-left:0;
   border-radius:5px;
@@ -203,8 +202,8 @@ section.active
   background:none;
 }
 ::-webkit-scrollbar-thumb {
-  background:#00853e;
-  border-radius:5px;
+  background: rgb(166, 152, 119);;
+  border-radius:7px;
 }
 
 .listings .item:hover {

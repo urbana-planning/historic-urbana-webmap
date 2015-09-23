@@ -7,11 +7,11 @@ function makeTip( feature ) {
     var title = feature.title;
     // modal code
     // tooltip code
-    var html = "<img class='sepia page-curl shadow-bottom' src=" + feature.properties.image + ">" + 
+    var html = "<img class='sepia page-curl shadow-bottom' src=" + feature.properties.images[0] + ">" + 
         "<br/>" +
             "<h2>" + feature.properties.title + "</h2>" +
             "<table id='tooltip'> <tr> <th>Architect:</th> <td>" + feature.properties.architect + "</td> </tr>" +
-            "<tr> <th>Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
+            "<tr> <th>Year Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
             "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>" +
             "</table> <div class='tooltip-footer'>" +
             "<a align='center' class='modal-link' data-toggle='modal' data-target='#myModal' href='#myModal'>- More info -</a>" +
@@ -32,6 +32,8 @@ function updateModal(feature) {
              slidesToShow: 1,
              variableWidth: true,
              centerMode: true,
+             //arrows: false,
+             //adaptaveHeight: true
         });
     });
 }
@@ -42,9 +44,15 @@ function onEachFeature( feature, layer) {
     });
 }
 var pushpinIcon = L.icon({
-        iconUrl: 'img/pushpin2.svg',//'img/pushpin2.svg',
-        iconSize: [22, 22],
+        iconUrl: 'img/buidling-24.svg',//'img/pushpin2.svg',
+        iconSize: [18, 18],
 });
+
+function pointToLayer(feature, latlng) {
+    var marker = L.marker(latlng, {icon: pushpinIcon});
+    marker.bindPopup(makeTip(feature)); 
+    return marker;
+}
 
 /******************************************************************************/   
 /*window.onload = function () {*/
@@ -67,7 +75,10 @@ $(document).ready( function () {
     featureLayer.on('layeradd', function(e) {
         var marker = e.layer,
         feature = marker.feature;
-        marker.setIcon(pushpinIcon)
+        marker.setIcon(L.icon({
+            iconUrl: 'img/pushpin2.svg',
+            iconSize: [18,18],
+            }));
         
         //marker.setIcon(L.icon(feature.properties.icon));
         var content = makeTip(feature); 
@@ -99,7 +110,6 @@ $(document).ready( function () {
             link.click( function() {
                 map.setView(locale.getLatLng(), 16);
                 locale.openPopup();
-                updateModal(locale.feature);
             });
 
             if (prop.phone) {
