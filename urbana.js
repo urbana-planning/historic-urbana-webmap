@@ -43,8 +43,8 @@ function onEachFeature( feature, layer) {
     });
 }
 var pushpinIcon = L.icon({
-        iconUrl: 'img/pushpin2.svg',
-        iconSize: [35,33] //   [18, 18]
+        iconUrl: 'img/buidling-24.svg',//'img/pushpin2.svg',
+        iconSize: [18, 18],
 });
 
 function pointToLayer(feature, latlng) {
@@ -76,7 +76,7 @@ $(document).ready( function () {
         feature = marker.feature;
         marker.setIcon(L.icon({
             iconUrl: 'img/pushpin2.svg',
-            iconSize: [35,33] 
+            iconSize: [18,18],
             }));
         
         //marker.setIcon(L.icon(feature.properties.icon));
@@ -101,7 +101,7 @@ $(document).ready( function () {
                           .children()
                           .last("div")
                           .addClass('item')
-            var link = $('<a href=#>' + prop.title + '</a>')
+            var link = $('<a href=#>' + prop.title + '</a>').addClass('addr')
             item.append(link);
             
             item.append('<p>' + prop.style + '<p>'); 
