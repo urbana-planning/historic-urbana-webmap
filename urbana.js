@@ -57,7 +57,9 @@ $(document).ready( function () {
     var map = L.mapbox.map('map-canvas', 'tohodson.55f8ddb6', {
         // the options here prevent mouse wheel or trackpad scrolling
         zoom: 15,
-	    center: [40.1097, -88.2042]
+	    center: [40.1097, -88.2042],
+        minZoom: 15,
+        maxZoom: 19,
     });//                 }).setView([38.8906,-77.01313], 12);
 
     var featureLayer = L.mapbox.featureLayer()
@@ -94,7 +96,7 @@ $(document).ready( function () {
             var link = $('<a href=#>' + prop.title + '</a>').addClass('addr')
             item.append(link);
             
-            item.append('<p>' + prop.style + '<p>'); 
+            //item.append('<p>' + prop.style + '<p>'); 
 
             link.click( function() {
                 map.setView(locale.getLatLng(), 16);
@@ -102,9 +104,6 @@ $(document).ready( function () {
                 updateModal(locale.feature);
             });
 
-            if (prop.phone) {
-                details.innerHTML += ' &middot; ' + prop.phoneFormatted;
-            }
         });
     });
 

@@ -11,7 +11,7 @@ h2 {
 }
 h1 {
     font-size: 12pt;
-    text-align: center;
+    text-align: left;
     padding-left: 20px;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -31,9 +31,11 @@ h2 {
     text-align: right;
     font-size: 18pt;
     border-bottom: thin solid #ddd;
+    border-bottom: thin solid #A5BC96;
     padding-bottom: 5px;
     margin: 5px;
     color: #31a354;
+    color: #346634;
 }
 table {
     font-size:10pt;
@@ -54,8 +56,6 @@ html, body, #map-canvas { height: 100%; }
     width: 20%;
     height:100%;
     background-color: #f7f5e8;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
     padding-left: 1em;
     padding-right: 1em;
     padding: 0px;
@@ -64,8 +64,7 @@ html, body, #map-canvas { height: 100%; }
 }
 .modal-header, .modal-footer {
     border: 0px;
-   } 
-
+} 
 .modal {
     max-height:100%;
 }
@@ -110,12 +109,13 @@ a.modal-link {
 }
 .slick-next::before, .slick-prev::before {
     color: green;
+    color:#A5BC96;
 }
 table #tooltip {
     font-size: 12pt;
 }
 .tooltip-footer {
-    border-top: thin solid #ddd;
+    border-top: thin solid #A5BC96;
 }
 
 .sepia 
@@ -196,13 +196,13 @@ section.active
   height:3px;
   border-left:0;
   border-radius:5px;
-  background:rgba(0,0,0,0.1);
+  background:rgba(0,0,0,0);
 }
 ::-webkit-scrollbar-track {
   background:none;
 }
 ::-webkit-scrollbar-thumb {
-  background: rgb(166, 152, 119);;
+  background: #A5BC96;
   border-radius:7px;
 }
 
@@ -221,6 +221,11 @@ a:hover {
 a.addr {
     color: rgb(51,51,51);
 }
+a.addr:focus {
+  text-decoration: none;
+  color: #559c09;
+  font-weight: bold;
+}
 
 @media (min-resolution: 150dpi) and (max-width:1400px) , (max-width: 680px) {
   .arrow-down {
@@ -231,8 +236,6 @@ a.addr {
   }
   h1 {
       font-size:14pt;
-      padding:5px 0px;
-      text-align: center;
   }
   
   h2 {
