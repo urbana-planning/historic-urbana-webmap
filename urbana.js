@@ -46,6 +46,30 @@ var pushpinIcon = L.icon({
         iconSize: [22, 22],
 });
 
+function genListings(map,featureLayer) {
+        var listings = $('#listings');
+        listings.empty();
+        featureLayer.eachLayer(function(locale) {
+            
+            var prop = locale.feature.properties;
+            item = $('#listings').append(document.createElement("div"))
+                          .children()
+                          .last("div")
+                          .addClass('item')
+            var link = $('<a href=#>' + prop.title + '</a>').addClass('addr')
+            item.append(link);
+            
+            //item.append('<p>' + prop.style + '<p>'); 
+
+            link.click( function() {
+                map.setView(locale.getLatLng(), 16);
+                locale.openPopup();
+                updateModal(locale.feature);
+            });
+
+        });
+    }
+
 /******************************************************************************/   
 /*window.onload = function () {*/
 $(document).ready( function () {
@@ -75,6 +99,8 @@ $(document).ready( function () {
         var content = makeTip(feature); 
         marker.bindPopup(content);
     });
+
+    $('#search').keyup(search);
 
     featureLayer.on('click', function(e) {
         var feature = e.layer.feature;
@@ -106,6 +132,22 @@ $(document).ready( function () {
 
         });
     });
+
+function search() {
+    // get the value of the search input field
+    var searchString = $('#search').val().toLowerCase();
+
+    featureLayer.setFilter(searchTitle)
+    genListings(map,featureLayer); 
+    // here we're simply comparing the 'state' property of each marker
+    // to the search string, seeing whether the former contains the latter.
+    function searchTitle(feature) {
+        var title = feature.properties.title.toLowerCase().indexOf(searchString) !== -1;
+        var arch = feature.properties.architect.toLowerCase().indexOf(searchString) !== -1;
+        var style = feature.properties.style.toLowerCase().indexOf(searchString) !== -1;
+        return (arch || title || style)
+    }
+}
 
     var bodyheight = $(document).height();
     $(".modal-body").css('height', bodyheight*0.7);
