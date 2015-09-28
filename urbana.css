@@ -23,17 +23,23 @@ h1 {
 
 }
 #banner {
-    height:60px;
     background-color: #530c00;
+    height:60px;
+    background-color
 }
+#header {
+    background-color: #530c00;
+    padding-bottom: 5px;
+}
+
 #page-menu {
     background-color: rgb(239, 232, 216);
+    background-color: #530c00;
 }
 #search {
-    margin-left: 30px;
     width: 85%;
-    margin: 4px 0 4px 4px;
     border-radius: 4px;
+    margin: 5px auto;
 }
 #urbana-logo {
     height:60px;
@@ -202,7 +208,7 @@ section.active
 }
 .listings .item {
   display:block;
-  border-bottom:1px double #ddd;
+  border-bottom:1px solid #ddd;
   padding:2px;
   padding-left: 20px;
   padding-right: 5px;
@@ -227,6 +233,9 @@ section.active
 }
 ::-webkit-scrollbar-thumb {
   background: #A5BC96;
+  background: #530c00;
+  background: #986D66;
+  background: #C6C4BA;
   border-radius:7px;
 }
 
