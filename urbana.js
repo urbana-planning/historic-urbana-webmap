@@ -43,7 +43,7 @@ function onEachFeature( feature, layer) {
 }
 var pushpinIcon = L.icon({
         iconUrl: 'img/pushpin2.svg',//'img/pushpin2.svg',
-        iconSize: [22, 22],
+        iconSize: [20, 20],
 });
 
 function genListings(map,featureLayer) {
