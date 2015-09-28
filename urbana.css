@@ -263,6 +263,9 @@ a.addr:focus {
   .arrow-down {
       margin-top:5px;
   }
+  #page-menu {
+      display:none;
+  }
   .listings {
     display:none;
   }
