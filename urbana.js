@@ -148,15 +148,16 @@ function search() {
         return (arch || title || style)
     }
 }
-
+    var tabheight = $('.tab-content').height();
     var bodyheight = $(document).height();
     $(".modal-body").css('height', bodyheight*0.7);
-
+    //$(".tab-pane").css('height',tabheight*0.8);
 }); // end of ready()
    
 // for the window resize
 $(window).resize(function() {
+    var tabheight = $('.tab-content').height();
     var bodyheight = $(document).height();
     $(".modal-body").css('height', bodyheight*0.7);
-
+    //$(".tab-pane").css('height', tabheight*0.8);
 });

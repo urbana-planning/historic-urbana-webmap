@@ -213,7 +213,7 @@ section.active
     box-shadow: 0em 0em 1em 0em #202020;
 }
 #listings {
-  max-height:80%;
+  max-height: 80%;
   overflow:auto;
   padding-bottom:10px;
   padding-top: 10px;
@@ -261,7 +261,7 @@ section.active
     font-size: 20px;
 }
 .navbar-toggle {
-    border: 0px;
+    border: 0px ;
 }
 a, .leaflet-container a {
     color: rgb(0, 104, 55);
@@ -305,6 +305,29 @@ div.container-fluid {
 }
 ul.navbar-nav {
     !width: 100%;
+}
+ul.nav-tabs {
+    padding: 5px 5px 0px 5px;
+    background-color: #C8B1A2;
+    background-color: #D5C3B4;
+    background-color: #E1D4C4;
+}
+.nav-tabs li.active a{
+
+    background-color: rgb(239, 232, 216);
+}
+.nav-tabs li.active a:focus {
+    background-color: rgb(239, 232, 216);
+}
+.nav-tabs li a {
+    color: #555;
+}
+.tab-pane {
+    height: 100% !important;
+    overflow-y: scroll;
+}
+div.tab-content {
+    height: 80%;
 }
 @media (min-resolution: 150dpi) and (max-width:1400px) , (max-width: 767px) {
   .arrow-down {
