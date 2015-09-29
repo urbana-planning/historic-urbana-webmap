@@ -30,8 +30,18 @@ h1 {
 #header {
     background-color: #530c00;
     padding-bottom: 5px;
+    margin-bottom: 0px;
+    border: none;
 }
-
+.well {
+    margin: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+div.container-fluid {
+    padding: 0px;
+    background-color: #530c00;
+}
 #page-menu {
     background-color: rgb(239, 232, 216);
     background-color: #530c00;
@@ -80,6 +90,7 @@ html, body, #map-canvas { height: 100%; }
     top:0%;
     left:0%;
     width: 20%;
+    width: 250px;
     height:100%;
     background-color: #f7f5e8;
     background-color: rgb(239, 232, 216);
@@ -119,8 +130,10 @@ a.modal-link {
 #map-canvas {
     position: fixed;
     height: 100%;
-    width: 80%;
+    /*width: 80%;*/
     left: 20%;
+    left: 250px;
+    right: 0px;
 }
 
 .slider {
@@ -196,27 +209,28 @@ section.active
     /*max-height:200px;*/
 }
 .leaflet-control-zoom {
+    background-color: rgba(255,255,255,0.3);
     box-shadow: 0em 0em 1em 0em #202020;
 }
-.listings {
+#listings {
   max-height:80%;
   overflow:auto;
   padding-bottom:10px;
   padding-top: 10px;
   background-color: #f7f5e8;
 }
-.listings .item {
+#listings .item {
   display:block;
   border-bottom:1px solid #ddd;
   padding:2px;
-  padding-left: 20px;
+  padding-left: 5px;
   padding-right: 5px;
   text-decoration:none;
   font-size: 10pt;
 }
-.listings .item:last-child { border-bottom:none; }
+#listings .item:last-child { border-bottom:none; }
 
-.listings .item.active {
+#listings .item.active {
   background-color:#f8f8f8;
 }
 
@@ -238,11 +252,17 @@ section.active
   border-radius:7px;
 }
 
-.listings .item:hover {
+#listings .item:hover {
     background-color:#FFFFDD;
     color: black;
 }
-
+.glyphicon {
+    color: white;
+    font-size: 20px;
+}
+.navbar-toggle {
+    border: 0px;
+}
 a, .leaflet-container a {
     color: rgb(0, 104, 55);
 }
@@ -258,16 +278,46 @@ a.addr:focus {
   color: #559c09;
   font-weight: bold;
 }
-
-@media (min-resolution: 150dpi) and (max-width:1400px) , (max-width: 680px) {
+div.navbar-brand {
+    padding: 0px;
+    margin-left: 0px !important;;
+}
+div.navbar-header{
+    margin: 0px !important;
+}
+nav#header {
+    padding: 0px;
+}
+#navbar-collapse-1 {
+    padding: 0px;
+    border: 0px;
+}
+ul.navbar-right {
+    width: 100%;
+    padding: 10px 5px;
+    margin: 0px;
+}
+ul.navbar-right li {
+    width: 100%;
+}
+div.container-fluid {
+    width: 100%;
+}
+ul.navbar-nav {
+    !width: 100%;
+}
+@media (min-resolution: 150dpi) and (max-width:1400px) , (max-width: 767px) {
   .arrow-down {
       margin-top:5px;
   }
   #page-menu {
       display:none;
   }
-  .listings {
+  #listings {
     display:none;
+  }
+  .navbar-header {
+      height: 60px;
   }
   h1 {
       font-size:14pt;
