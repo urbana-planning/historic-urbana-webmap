@@ -337,7 +337,7 @@ div.tab-content {
   #page-menu {
       display:none;
   }
-  #listings {
+  #listings, #styles, .nav-tabs {
     display:none;
   }
   .navbar-header {
