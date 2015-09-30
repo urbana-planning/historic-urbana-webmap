@@ -212,7 +212,7 @@ section.active
     background-color: rgba(255,255,255,0.3);
     box-shadow: 0em 0em 1em 0em #202020;
 }
-#listings {
+#listings, #styles {
   max-height: 80%;
   width: 90%;
   overflow:auto;

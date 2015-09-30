@@ -55,11 +55,10 @@ function genListings(map,featureLayer) {
             item = $('#listings').append(document.createElement("div"))
                           .children()
                           .last("div")
-                          .addClass('item')
-            var link = $('<a href=#>' + prop.title + '</a>').addClass('addr')
+                          .addClass('item');
+            var link = $('<a href=#>' + prop.title + '</a>').addClass('addr');
             item.append(link);
             
-            //item.append('<p>' + prop.style + '<p>'); 
 
             link.click( function() {
                 map.setView(locale.getLatLng(), 16);
@@ -69,6 +68,26 @@ function genListings(map,featureLayer) {
 
         });
     }
+function genStyles(featureLayer) {
+
+    var listings = $('#styles');
+    listings.empty();
+    var styles = [];
+
+    featureLayer.eachLayer(function(locale) {
+        var prop = locale.feature.properties;
+        if (styles.indexOf(prop.style) == -1) {
+            styles.push(prop.style);
+        item = $('#styles').append(document.createElement("div"))
+                          .children()
+                          .last("div")
+                          .addClass('item');
+        var link = $(prop.style).addClass('addr');
+        item.append(link);
+        } 
+    });
+}
+
 
 /******************************************************************************/   
 /*window.onload = function () {*/
@@ -110,27 +129,8 @@ $(document).ready( function () {
     });
 
     featureLayer.on('ready', function() {
-        var listings = $('#listings');
-
-        featureLayer.eachLayer(function(locale) {
-            
-            var prop = locale.feature.properties;
-            item = $('#listings').append(document.createElement("div"))
-                          .children()
-                          .last("div")
-                          .addClass('item')
-            var link = $('<a href=#>' + prop.title + '</a>').addClass('addr')
-            item.append(link);
-            
-            //item.append('<p>' + prop.style + '<p>'); 
-
-            link.click( function() {
-                map.setView(locale.getLatLng(), 16);
-                locale.openPopup();
-                updateModal(locale.feature);
-            });
-
-        });
+        genListings(map,featureLayer);
+        genStyles(featureLayer);
     });
 
 function search() {
@@ -139,6 +139,7 @@ function search() {
 
     featureLayer.setFilter(searchTitle)
     genListings(map,featureLayer); 
+    genStyles(featureLayer);
     // here we're simply comparing the 'state' property of each marker
     // to the search string, seeing whether the former contains the latter.
     function searchTitle(feature) {
