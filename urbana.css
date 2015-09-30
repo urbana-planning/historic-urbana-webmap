@@ -214,6 +214,7 @@ section.active
 }
 #listings {
   max-height: 80%;
+  width: 90%;
   overflow:auto;
   padding-bottom:10px;
   padding-top: 10px;
