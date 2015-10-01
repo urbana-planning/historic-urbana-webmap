@@ -154,9 +154,10 @@ $(document).ready( function () {
     });
 
     featureLayer.on('ready', function() {
+
+        genTours(featureLayer);
         genListings(map,featureLayer);
         genStyles(featureLayer);
-        genTours(featureLayer);
     });
 
 function search(string) {
@@ -172,7 +173,6 @@ function search(string) {
     featureLayer.setFilter(searchTitle)
     genListings(map,featureLayer); 
     genStyles(featureLayer);
-    genTours(featureLayer);
     // here we're simply comparing the 'state' property of each marker
     // to the search string, seeing whether the former contains the latter.
     function searchTitle(feature) {
