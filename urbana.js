@@ -88,6 +88,25 @@ function genStyles(featureLayer) {
     });
 }
 
+function genTours(featureLayer) {
+
+    var listings = $('#tours');
+    listings.empty();
+    var tours = [];
+
+    featureLayer.eachLayer(function(locale) {
+        var prop = locale.feature.properties;
+        if (prop.tour && tours.indexOf(prop.tour) == -1) {
+            tours.push(prop.tour);
+        item = $('#tours').append(document.createElement("div"))
+                          .children()
+                          .last("div")
+                          .addClass('item')
+                          .text(prop.tour);
+        } 
+    });
+}
+
 
 /******************************************************************************/   
 /*window.onload = function () {*/
@@ -131,6 +150,7 @@ $(document).ready( function () {
     featureLayer.on('ready', function() {
         genListings(map,featureLayer);
         genStyles(featureLayer);
+        genTours(featureLayer);
     });
 
 function search() {
@@ -140,13 +160,15 @@ function search() {
     featureLayer.setFilter(searchTitle)
     genListings(map,featureLayer); 
     genStyles(featureLayer);
+    genTours(featureLayer);
     // here we're simply comparing the 'state' property of each marker
     // to the search string, seeing whether the former contains the latter.
     function searchTitle(feature) {
         var title = feature.properties.title.toLowerCase().indexOf(searchString) !== -1;
         var arch = feature.properties.architect.toLowerCase().indexOf(searchString) !== -1;
         var style = feature.properties.style.toLowerCase().indexOf(searchString) !== -1;
-        return (arch || title || style)
+        var tour = feature.properties.tour.toLowerCase().indexOf(searchString) !== -1;
+        return (arch || title || style || tour)
     }
 }
     var tabheight = $('.tab-content').height();

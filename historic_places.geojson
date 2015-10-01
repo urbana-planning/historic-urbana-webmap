@@ -5,684 +5,20 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.20815,40.1148085 ]
+       "coordinates":  [ -88.206217,40.1119904 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"Unknown",
-    "built":"1923",
-    "title":"223 N. Broadway Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/broadway-n-223-4.jpg",
-    "architect":"Unknown",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Station_Theatre.mp3",
-    "id":"223-n-broadway-ave"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.207087,40.121543 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
+    "street":"Main",
+    "id":"101EMain",
+    "title":"101 E. Main St., Champaign County Courthouse",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-e-101-14.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/richardsonian\">Richardsonian Romanesque</a></h3>",
     "built":"1901",
-    "title":"910 N. Broadway Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/broadway-n-910.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"910-n-broadway"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.20683629999999,40.1114134 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival\">Classical Revival</a></h3>",
-    "built":"1914",
-    "title":"202 S. Broadway Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/broadway-s-202.jpg",
-    "architect":"Oscar Wendroth",
-    "podcast":"",
-    "id":"202-s-broadway"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2147744,40.1119412 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/spanish-colonial-reviv\">Spanish Revival</a></h3>",
-    "built":"1925",
-    "title":"Buena Vista Court",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/buena-vista-court-5.jpg",
-    "architect":"John Carpenter and Garrett H. Baker",
-    "podcast":"",
-    "id":"buenavista"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.206262,40.093016 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/contemporary\">Contemporary</a></h3>",
-    "built":"1954",
-    "title":"2016 Burlison, The Garvey House",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/burlison-s-2016-11.jpg",
-    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/architects/goff\">Bruce Goff</a>",
-    "podcast":"",
-    "id":"2016burlison"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.218068,40.106912 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/english-domestic\">English Dometstic</a></h3>",
-    "built":"1923",
-    "title":"701 S. Busey Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-701-11.jpg",
-    "architect":"Joseph Royer",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Mother_In_Law.mp3",
-    "id":"701-s-busey-ave"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21745500000002,40.1067449 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/prairie\">Prairie</a></h3>",
-    "built":"1920",
-    "title":"708 S. Busey Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-708-3.jpg",
-    "architect":"Unknown",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/DeWolf_708.mp3",
-    "id":"708SBussey"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2117449,40.101064 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/english-domestic\">English Dometstic</a></h3>",
-    "built":"1927",
-    "title":"1306 S Carle",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/carle-s-1306-13.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"1306-s-carle"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.210106,40.111027 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
-    "built":"1872",
-    "title":"206 S. Cedar St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/cedar-206.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"206-cedar"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.211147,40.113396 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a> and <a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/stick\">Stick/Eastlake</a></h3>",
-    "built":"1875",
-    "title":"104 N. Central Ave., The Halberstadt House",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/central-n-104-2.jpg",
-    "architect":"Unknown",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Halberstadt_House.mp3",
-    "id":"halberstadt"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21593899999999,40.118583 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/folk\">Mission Style</a></h3>",
-    "built":"1920",
-    "title":"701 N. Coler, Sears Osborn House",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/coler-n-701-3.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"701NColer"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2158023,40.1095774 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/capecod\">Cape Cod</a></h3>",
-    "built":"1940",
-    "title":"402 S. Coler Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/coler-s-402.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"402-s-coler"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.215755,40.1067961 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/georgianrevival\">Georgian Revival Influence</a></h3>",
-    "built":"1927",
-    "title":"706 S. Coler Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/coler-s-706.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"706-s-coler"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.210674,40.098839 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/english-domestic\">English Domestic</a></h3>",
-    "built":"1940",
-    "title":"209 W. Delaware Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-209-2.jpg",
-    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/zook\">R. Harold Zook</a>",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Zook_House.mp3",
-    "id":"209WDelaware"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.214646,40.098805 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/french-revival\">French Revival</a></h3>",
-    "built":"1933",
-    "title":"601 W. Delaware Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-601.jpg",
-    "architect":"Thomas Berger ",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/DeWolf_House.mp3",
-    "id":"601-w-delaware"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.215992,40.099277 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
-    "built":"1932",
-    "title":"702 W. Delaware Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-702-1.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"702-w-delaware"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.217271,40.098782 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/frencheclectic\">French Eclectic</a></h3>",
-    "built":"1927",
-    "title":"715 W Delaware Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-715-7.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"715-w-delaware"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.213577,40.10337 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
-    "built":"1920",
-    "title":"1105 S. Douglas Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/douglas-s-1105-3.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"1105-s-douglas"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21117199999999,40.111296 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
-    "built":"Unknown",
-    "title":"307 W. Elm St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-307-4.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"307-w-elm"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.211607,40.111289 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a>",
-    "built":"1856",
-    "title":"311 W. Elm St., The William Park Residence",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-311.jpg",
-    "architect":"Unknown",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Park_Residence.mp3",
-    "id":"311-w-elm"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21347100000001,40.111784 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
-    "built":"1889",
-    "title":"502 W. Elm St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-502-2.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"502-w-elm"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2160901,40.0982042 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/georgian-revival\">Georgian Revival</a></h3>",
-    "built":"1925",
-    "title":"711 W. Florida Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/florida-w-711.jpg",
-    "architect":"Charles A Platt",
-    "podcast":"",
-    "id":"711-w-florida-ave"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.19307599999999,40.11215 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/lustron\">Lustron House</a></h3>",
-    "built":"1943",
-    "title":"110 S. Glover Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/glover-s-110-3.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"110-s-glover"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2099575,40.1104427 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
-    "built":"1899",
-    "title":"209 W. Green St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-209-3.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"209-w-green"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.209475,40.110843 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival\">Classical Revival</a></h3>",
-    "built":"1917",
-    "title":"210 W. Green St., The Urbana Free Library",
-    "image":"http://urbanaillinois.us/sites/default/files/resize/images/urbana-free-library-222x126.jpg",
-    "architect":"Joseph Royer",
-    "podcast":"",
-    "id":"210-w-green"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2112508,40.1104195 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a></h3>",
-    "built":"1913",
-    "title":"309 W. Green St., The Unitarian-Universalist Church",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-309.jpg",
-    "architect":"Joseph Royer",
-    "podcast":"",
-    "id":"309-w-green"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2115951,40.1108637 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
-    "built":"1895",
-    "title":"312 W. Green St., The Lindley House",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-312-17.jpg",
-    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/gill\">Rudolph Zerses Gill</a>",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Lindley_House.mp3",
-    "id":"312WGreen"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.213369,40.110414 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
-    "built":"1894",
-    "title":"501 W Green St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-501-3.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"501-w-green"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.215776,40.110881 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/queenanne\">Queen Anne</a></h3>",
-    "built":"1892",
-    "title":"612 W. Green St., The Nathan C. Ricker House",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-612-6.jpg",
-    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/ricker\">Nathan C. Ricker</a>",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Ricker_House.mp3",
-    "id":"612WGreen"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2251216,40.110336 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a></h3>",
-    "built":"1921",
-    "title":"1203 W. Green St., Wesley Foundation",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-1203.jpg",
-    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/hollabird\">Holabird and Roche</a>",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Wesley_Foundations.mp3",
-    "id":"1203WGreen"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21009459999999,40.1101146 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
-    "built":"1850",
-    "title":"212 W. High St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-212-15.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"212-w-high-st"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21192599999999,40.109608 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/hall-and-parlor\">Hall and Parlor</a></h3>",
-    "built":"1880",
-    "title":"401 W. High St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-401-9.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"401-w-high-st"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.213994,40.110069 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/arts-and-crafts\">Arts and Crafts</a></h3>",
-    "built":"1910",
-    "title":"510 W High St",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-510-27.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"510-w-high-st"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.214744,40.109598 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/hall-and-parlor\">Hall and Parlor</a></h3>",
-    "built":"1870",
-    "title":"601 W. High St",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-601-15.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"601-w-high-st"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.212144,40.10933 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/preciv\">Pre-Civil War Vernacular</a></h3>",
-    "built":"1850",
-    "title":"404 W. Illinois St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/illinois-w-404-1.jpg",
-    "architect":"Unknown",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Boyden_House.mp3",
-    "id":"404-w-illinois"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.212338,40.109328 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
-    "built":"1925",
-    "title":"406 W. Illinois Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/illinois-w-406-1.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"406-w-illinois"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.218487,40.108795 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
-    "built":"1890",
-    "title":"805 W. Illinois Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/illinois-w-805-2.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"805-w-illinois"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2109399,40.102585 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/tudorrevival\">Tudor Revival</a></h3>",
-    "built":"",
-    "title":"301 W. Indiana Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/indiana-w-301-3.jpg",
-    "architect":"Unknown",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Plan_Book_House.mp3",
-    "id":"301WIndiana"
+    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Courthouse.mp3",
+    "tour":"Historic Urbana"
     }
   },
   {
@@ -694,445 +30,95 @@
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/international\">International Style</a></h3>",
-    "built":"1964",
+    "street":"Indiana",
+    "id":"303WIndiana",
     "title":"303 W. Indiana Ave., Erlanger House",
     "image":"http://urbanaillinois.us/sites/default/files/resize/imagecache/large/images/indiana-w-303-200x144.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/international\">International Style</a></h3>",
+    "built":"1964",
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/baker\">Jack Baker</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Erlanger_House.mp3",
-    "id":"303WIndiana"
+    "tour":"At the Turn of the Century"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.21297799999999,40.102568 ]
+       "coordinates":  [ -88.2115951,40.1108637 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/prairie\">Prairie Style</a></h3>",
-    "built":"1909",
-    "title":"411 W. Indiana Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/indiana-w-411-4.jpg",
-    "architect":"Unknown",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Ortiz_House.mp3",
-    "id":"411WIndiana"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21010799999999,40.104861 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-moderne\">Art Moderne</a></h3>",
-    "built":"1937",
-    "title":"204 W Iowa St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/iowa-w-204-2.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"204-w-iowa"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2276541,40.1026847 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
-    "built":"1870",
-    "title":"1403 W. Lorado Taft Drive, The Mumford House",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lorado-taft-w-1403-3.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"1403-w-lorado-taft-drive"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.206217,40.1119904 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/richardsonian\">Richardsonian Romanesque</a></h3>",
-    "built":"1901",
-    "title":"101 E. Main St., Champaign County Courthouse",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-e-101-14.jpg",
-    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/royer\">Joseph Royer</a>",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Courthouse.mp3",
-    "id":"101EMain"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.200333,40.1126099 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
-    "built":"1875",
-    "title":"607 E. Main St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-e-607.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"607-e-main"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.20772219999999,40.1127464 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
-    "built":"1880",
-    "title":"102-106 W. Main St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-102-106-4.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"102-106-w-main"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2080393,40.1122506 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival\">Classical Revival</a></h3>",
-    "built":"1871",
-    "title":"115 W. Main St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-115-14.jpg",
-    "architect":"Altered by Royer",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Tiernans_Hall.mp3",
-    "id":"115-w-main"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2084132,40.1124479 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-deco\">Art Deco</a></h3>",
-    "built":"1870",
-    "title":"120 W. Main St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-120-124-13.jpg",
-    "architect":"Unknown",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Princess_Theater.mp3",
-    "id":"120-124-w-main-st"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.20877290000001,40.11219 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
-    "built":"1927",
-    "title":"135 W. Main St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-135-15.jpg",
-    "architect":"Joseph Royer",
-    "podcast":"",
-    "id":"135-w-main"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2087221,40.1126047 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival\">Classical Revival</a></h3>",
-    "built":"1907",
-    "title":"136 W. Main St., The Cohen Building",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-136-13.jpg",
-    "architect":"Joseph Royer",
-    "podcast":"",
-    "id":"136-w-main"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2106608,40.1125866 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/spanish-colonial-reviv\">Spanish Revival</a></h3>",
-    "built":"1925",
-    "title":"303 W. Main St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-303.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"303-w-main"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.211767,40.113385 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/craftsman\">Craftsman</a></h3>",
-    "built":"1909",
-    "title":"402 W. Main St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-402-50.jpg",
-    "architect":"Joseph Royer",
-    "podcast":"",
-    "id":"402-w-main"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.213784,40.113459 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
-    "built":"1874",
-    "title":"505 W. Main St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-505.jpg",
-    "architect":"Unknown",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Griggs_House.mp3",
-    "id":"505-w-main"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.213813,40.11417000000001 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
+    "street":"Green",
+    "id":"312WGreen",
+    "title":"312 W. Green St., The Lindley House",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-312-17.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
+    "built":"1895",
+    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/gill\">Rudolph Zerses Gill</a>",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Lindley_House.mp3",
+    "tour":"Style Inventory"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2251216,40.110336 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Green",
+    "id":"1203WGreen",
+    "title":"1203 W. Green St., Wesley Foundation",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-1203.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a></h3>",
+    "built":"1921",
+    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/hollabird\">Holabird and Roche</a>",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Wesley_Foundations.mp3",
+    "tour":"Style Inventory"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.206207,40.095792 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Pleasant",
+    "id":"1806Pleasant",
+    "title":"1806 Pleasant Circle",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pleasant-s-1806.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/mcm\">Mid-Century Modern</a></h3>",
+    "built":"1958",
+    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/laz\">Donald Laz</a>",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Green_Home.mp3",
+    "tour":"Style Inventory"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.215776,40.110881 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Green",
+    "id":"612WGreen",
+    "title":"612 W. Green St., The Nathan C. Ricker House",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-612-6.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/queenanne\">Queen Anne</a></h3>",
     "built":"1892",
-    "title":"506 W. Main St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-506.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"506-w-main"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21399799999999,40.11349999999999 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/gothicrevival\">Gothic Revival</a></h3>",
-    "built":"1880",
-    "title":"507 W. Main St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-507.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"507-w-main"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.214421,40.114254 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
-    "built":"1892",
-    "title":"510 W. Main St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-510-10.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"510-w-main"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.215109,40.113649 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
-    "built":"1890",
-    "title":"605 W. Main St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-605-3.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"605-w-main"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.217173,40.114683 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/gothicrevival\">Gothic Revival</a></h3>",
-    "built":"1901",
-    "title":"710 W Main St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-710-2.jpg",
-    "architect":"George P. Standuhar",
-    "podcast":"",
-    "id":"710-w-main"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.217901,40.114082 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/swiss-revival\">Swiss Revival</a></h3>",
-    "built":"1904",
-    "title":"803 W. Main St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-803.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"803-w-main"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21783599999999,40.114783 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
-    "built":"1875",
-    "title":"804 W Main",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-804.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"804-w-main"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21145,40.101596 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/spanish-colonial-reviv\">Spanish Revival</a></h3>",
-    "built":"1928",
-    "title":"305 W. Michigan Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/michigan-w-305-3.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"305-w-michigan"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.211753,40.101594 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/italianrevival\">Italian Renaissance Revival</a></h3>",
-    "built":"1925",
-    "title":"309 W. Michigan Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/michigan-w-309-4.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"309-w-michigan"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.214361,40.106817 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/georgian-revival\">Georgian Revival</a></h3>",
-    "built":"1925",
-    "title":"512 W. Nevada St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-512.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"512-w-nevada"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21834299999999,40.106162 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/arts-and-crafts\">Arts and Crafts</a></h3>",
-    "built":"1919",
-    "title":"805 W. Nevada St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-805-4.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"805-w-nevada"
+    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/ricker\">Nathan C. Ricker</a>",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Ricker_House.mp3",
+    "tour":"Historic Urbana"
     }
   },
   {
@@ -1144,571 +130,95 @@
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/mission\">Mission</a>",
-    "built":"1905",
+    "street":"Oregon",
+    "id":"801EOregon",
     "title":"801 W. Oregon St.",
     "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-801-10.jpg",
-    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/royer\">Joseph Royer</a>",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/mission\">Mission</a>",
+    "built":"1905",
+    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Royer_House.mp3",
-    "id":"801EOregon"
+    "tour":"Style Inventory"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.2236271,40.1068074 ]
+       "coordinates":  [ -88.210674,40.098839 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/mission\">Mission</a></h3>",
-    "built":"1920",
-    "title":"1117 W. Oregon St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-1117-1.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"1117-w-oregon-st"
+    "street":"Delaware",
+    "id":"209WDelaware",
+    "title":"209 W. Delaware Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-209-2.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/english-domestic\">English Domestic</a></h3>",
+    "built":"1940",
+    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/zook\">R. Harold Zook</a>",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Zook_House.mp3",
+    "tour":"At the Turn of the Century"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.210454,40.10734 ]
+       "coordinates":  [ -88.206262,40.093016 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival\">Colonial Revival</a></h3>",
-    "built":"1903",
-    "title":"301 W. Oregon St, The Frank A. Somers House",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-301-2.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"301-w-oregon-st"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21087700000001,40.10728 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/prairie\">Prairie</a></h3>",
-    "built":"1917",
-    "title":"305 W Oregon St",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-305-4.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"305-w-oregon-st"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2111259,40.107276 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/greekrevival\">Greek Revival</a></h3>",
-    "built":"1875",
-    "title":"307 W. Oregon St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-307-2.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"307-w-oregon-st"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2110557,40.1080931 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-deco\">Art Deco</a></h3>",
-    "built":"1936",
-    "title":"312 W. Oregon St., Leal Elementary School",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregeon-w-312-2.jpg",
-    "architect":"Joseph Royer",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Leal_School.mp3",
-    "id":"312-w-oregon-st"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21512,40.107193 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/dutch-colonial-revival\">Dutch Colonial Revival</a></h3>",
-    "built":"1920",
-    "title":"605 W. Oregon St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-605-8.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"605-w-oregon-st"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21520799999999,40.10039500000001 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
-    "built":"1927",
-    "title":"607 W. Pennsylvania Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-w-607-3.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"607-w-pennsylvania-ave"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21592,40.101031 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/dutch\">Dutch Colonial Revival</a></h3>",
-    "built":"1919",
-    "title":"702 W. Pennsylvania Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-w-710.jpg",
-    "architect":"Joseph Royer",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Hieronymous_House.mp3",
-    "id":"702-w-pennsylvania-ave"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.218217,40.101012 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
-    "built":"1925",
-    "title":"804 W Pennsylvania Ave",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-w-806.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"804-w-pennsylvania-ave"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21853999999999,40.10101 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
-    "built":"1925",
-    "title":"806 W. Pennsylvania Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-w-806-3b.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"806-w-pennsylvania-ave"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.20598799999999,40.096567 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
+    "street":"Burlison",
+    "id":"2016burlison",
+    "title":"2016 Burlison, The Garvey House",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/burlison-s-2016-11.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/contemporary\">Contemporary</a></h3>",
-    "built":"1957",
-    "title":"1802 Pleasant Circle",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pleasant-s-1802-1.jpg",
-    "architect":"Jack Baker and John Replinger",
+    "built":"1954",
+    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/architects/goff\">Bruce Goff</a>",
     "podcast":"",
-    "id":"1802-pleasant-circle"
+    "tour":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.20937889999999,40.1129418 ]
+       "coordinates":  [ -88.2080393,40.1122506 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/commercial\">Commercial</a></h3>",
-    "built":"1910",
-    "title":"111 N. Race St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-n-111.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"111-n-race"
+    "street":"Main",
+    "id":"115-w-main",
+    "title":"115 W. Main St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-115-14.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival\">Classical Revival</a></h3>",
+    "built":"1871",
+    "architect":"Altered by Royer",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Tiernans_Hall.mp3",
+    "tour":"Historic Urbana"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.2083968,40.110339 ]
+       "coordinates":  [ -88.2160901,40.0982042 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a></h3>",
-    "built":"1926",
-    "title":"304 S Race St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-304-11.jpg",
-    "architect":"W. W. Maxwell",
-    "podcast":"",
-    "id":"304-s-race"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.20911699999999,40.109648 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
-    "built":"1870",
-    "title":"401 S. Race St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-401-6.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"401-s-race"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.208539,40.109723 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
-    "built":"1920",
-    "title":"402 S. Race St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-402-3.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"402-s-race"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.20941789999999,40.1053779 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
-    "built":"1926",
-    "title":"900 S. Race St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-900-5.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"900-s-race"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.20887719999999,40.1039107 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/jacobean\">Jacobean</a></h3>",
-    "built":"1914",
-    "title":"1002 S. Race St. Urbana High School",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-1002.jpg",
-    "architect":"Royer and Smith, Kratz, &amp; Strong",
-    "podcast":"",
-    "id":"1002-s-race"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2252589,40.1129887 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a></h3>",
-    "built":"1917",
-    "title":"1212 W. Springfield Ave., University High School",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/springfield-w-1212-9.jpg",
-    "architect":"Hollabird and Roche",
-    "podcast":"",
-    "id":"1212-w-springfield"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.20165399999999,40.1176131 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-deco\">Art Deco</a></h3>",
-    "built":"1939",
-    "title":"600 E. University Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/university-e-600-10.jpg",
-    "architect":"Royer and Hilton",
-    "podcast":"",
-    "id":"600-e-university"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21137619999999,40.115868 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
-    "built":"1952",
-    "title":"403 W. University Ave., The Lincoln Lodge Motel",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/university-w-403-5.jpg",
-    "architect":"Joseph Royer",
-    "podcast":"",
-    "id":"403-w-university"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.204016,40.10830199999999 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
-    "built":"1910",
-    "title":"601 S. Urbana Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/urbana-s-601.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"601-s-urbana"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.215622,40.099595 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-moderne\">Art Moderne</a></h3>",
-    "built":"1941",
-    "title":"613 W. Vermont Ave., The Dovring House",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/vermont-w-613.jpg",
-    "architect":"Unknown",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Dovring_House.mp3",
-    "id":"613WVermont"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.203222,40.10588 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/spanish-colonial-reviv\">Spanish Revival</a></h3>",
-    "built":"1927",
-    "title":"404 E. Washington St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/washington-e-404.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"404-e-washington"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.211292,40.105877 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/folk\">American Folk</a></h3>",
-    "built":"1906",
-    "title":"310 W. Washington St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/washington-w-310-4.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"310WWashington"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21706999999999,40.105262 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/arts-and-crafts\">Arts and Crafts</a></h3>",
-    "built":"1914",
-    "title":"711 W. Washington St.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/washington-w-711-3.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"711-w-washington"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.19878399999999,40.113679 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/gothicrevival\">Gothic Revival</a></h3>",
-    "built":"1850",
-    "title":"108 N. Weber Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/webber-n-108.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"108-n-weber"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.218839,40.10413 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/mediterranean\">Mediterranean</a></h3>",
-    "built":"1924",
-    "title":"1004 S Lincoln Ave",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1004.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"1004-s-lincoln"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.22175299999999,40.1002269 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
+    "street":"Florida",
+    "id":"711-w-florida-ave",
+    "title":"711 W. Florida Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/florida-w-711.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/georgian-revival\">Georgian Revival</a></h3>",
     "built":"1925",
-    "title":"1009 W Pennsylvania Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-1009-10.jpg",
-    "architect":"Unknown",
+    "architect":"Charles A Platt",
     "podcast":"",
-    "id":"1009-w-pennsylvania-ave"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.222464,40.1001669 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/georgian-revival\">Georgian Revival</a></h3>",
-    "built":"1927",
-    "title":"1101 W Pennsylvania Ave",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-1101.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"1101-w-pennsylvania-ave"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.22198499999999,40.106267 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/jacobean\">Jacobean</a></h3>",
-    "built":"1933",
-    "title":"1104 W Nevada",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-1104.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"1104-w-nevada"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.22275359999999,40.1062079 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival\">Colonial Revival</a></h3>",
-    "built":"1929",
-    "title":"1110 W. Nevada",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-1110-7.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"1110-w-nevada"
+    "tour":""
     }
   },
   {
@@ -1720,355 +230,675 @@
     "properties": {
     "altitude":"",
     "geometry":"Point",
+    "street":"Nevada",
+    "id":"1202-w-nevada",
+    "title":"1202 W. Nevada St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-1202.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/frenchclectic\">French Eclectic</a></h3>",
     "built":"1926",
-    "title":"1202 W. Nevada",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-1202.jpg",
     "architect":"Clare-Alban W. Coen Company",
     "podcast":"",
-    "id":"1202-w-nevada"
+    "tour":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.218796,40.10251700000001 ]
+       "coordinates":  [ -88.217173,40.114683 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
+    "street":"Main",
+    "id":"710-w-main",
+    "title":"710 W. Main St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-710-2.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/gothicrevival\">Gothic Revival</a></h3>",
+    "built":"1901",
+    "architect":"George P. Standuhar",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2252589,40.1129887 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Springfield",
+    "id":"1212-w-springfield",
+    "title":"1212 W. Springfield Ave., University High School",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/springfield-w-1212-9.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a></h3>",
+    "built":"1917",
+    "architect":"Hollabird and Roche",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.205988,40.096567 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Pleasant",
+    "id":"1802-pleasant-circle",
+    "title":"1802 Pleasant Circle",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pleasant-s-1802-1.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/contemporary\">Contemporary</a></h3>",
+    "built":"1957",
+    "architect":"Jack Baker and John Replinger",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2147744,40.1119412 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Buena Vista",
+    "id":"buenavista",
+    "title":"Buena Vista Court",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/buena-vista-court-5.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/spanish-colonial-reviv\">Spanish Revival</a></h3>",
+    "built":"1925",
+    "architect":"John Carpenter and Garrett H. Baker",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.218068,40.106912 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Busey",
+    "id":"701-s-busey-ave",
+    "title":"701 S. Busey Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-701-11.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/english-domestic\">English Dometstic</a></h3>",
+    "built":"1923",
+    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Mother_In_Law.mp3",
+    "tour":"At the Turn of the Century"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.209475,40.110843 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Green",
+    "id":"210-w-green",
+    "title":"210 W. Green St., The Urbana Free Library",
+    "image":"http://urbanaillinois.us/sites/default/files/resize/images/urbana-free-library-222x126.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival\">Classical Revival</a></h3>",
+    "built":"1917",
+    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2112508,40.1104195 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Green",
+    "id":"309-w-green",
+    "title":"309 W. Green St., The Unitarian-Universalist Church",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-309.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a></h3>",
+    "built":"1913",
+    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2087729,40.11219 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Main",
+    "id":"135-w-main",
+    "title":"135 W. Main St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-135-15.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
-    "built":"1930",
-    "title":"1204 S Lincoln Ave",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1204.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"1204-s-lincoln"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.225144,40.105675 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival\">Colonial Revival</a></h3>",
     "built":"1927",
-    "title":"1207 W Nevada",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-1207.jpg",
-    "architect":"Unknown",
+    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"",
-    "id":"1207-w-nevada"
+    "tour":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.217833,40.101513 ]
+       "coordinates":  [ -88.2087221,40.1126047 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival\">Colonial Revival</a></h3>",
-    "built":"1922",
-    "title":"1301 S Busey Ave",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-1301.jpg",
-    "architect":"Unknown",
+    "street":"Main",
+    "id":"136-w-main",
+    "title":"136 W. Main St., The Cohen Building",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-136-13.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival\">Classical Revival</a></h3>",
+    "built":"1907",
+    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"",
-    "id":"1301-s-busey-ave"
+    "tour":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.21914579999999,40.1005578 ]
+       "coordinates":  [ -88.211767,40.113385 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/french-chateauesque-18\">French Chateauesque</a></h3>",
-    "built":"1928",
+    "street":"Main",
+    "id":"402-w-main",
+    "title":"402 W. Main St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-402-50.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/craftsman\">Craftsman</a></h3>",
+    "built":"1909",
+    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2110557,40.1080931 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Oregon",
+    "id":"312-w-oregon-st",
+    "title":"312 W. Oregon St., Leal Elementary School",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregeon-w-312-2.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-deco\">Art Deco</a></h3>",
+    "built":"1936",
+    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Leal_School.mp3",
+    "tour":"Style Inventory"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.21592,40.101031 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Pennsylvania",
+    "id":"702-w-pennsylvania-ave",
+    "title":"702 W. Pennsylvania Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-w-710.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/dutch\">Dutch Colonial Revival</a></h3>",
+    "built":"1919",
+    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Hieronymous_House.mp3",
+    "tour":"At the Turn of the Century"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2113762,40.115868 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"University",
+    "id":"403-w-university",
+    "title":"403 W. University Ave., The Lincoln Lodge Motel",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/university-w-403-5.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
+    "built":"1952",
+    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2068363,40.1114134 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Broadway",
+    "id":"202-s-broadway",
+    "title":"202 S. Broadway Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/broadway-s-202.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival\">Classical Revival</a></h3>",
+    "built":"1914",
+    "architect":"Oscar Wendroth",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.201654,40.1176131 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"University",
+    "id":"600-e-university",
+    "title":"600 E. University Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/university-e-600-10.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-deco\">Art Deco</a></h3>",
+    "built":"1939",
+    "architect":"Royer and Hilton",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2088772,40.1039107 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Race",
+    "id":"1002-s-race",
+    "title":"1002 S. Race St. Urbana High School",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-1002.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/jacobean\">Jacobean</a></h3>",
+    "built":"1914",
+    "architect":"Royer and Smith, Kratz, and Strong",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2191458,40.1005578 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Lincoln",
+    "id":"1404-s-lincoln",
     "title":"1404 S Lincoln",
     "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1404-6.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/french-chateauesque-18\">French Chateauesque</a></h3>",
+    "built":"1928",
     "architect":"Royer, Danely, and Smith",
     "podcast":"",
-    "id":"1404-s-lincoln"
+    "tour":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.215169,40.103993 ]
+       "coordinates":  [ -88.214646,40.098805 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/gothicrevival\">Gothic Revival</a></h3>",
-    "built":"1935",
-    "title":"606 W Ohio",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/ohio-w-606-14.jpg",
+    "street":"Delaware",
+    "id":"601-w-delaware",
+    "title":"601 W. Delaware Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-601.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/french-revival\">French Revival</a></h3>",
+    "built":"1933",
+    "architect":"Thomas Berger ",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/DeWolf_House.mp3",
+    "tour":"At the Turn of the Century"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.20815,40.1148085 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Broadway",
+    "id":"223-n-broadway-ave",
+    "title":"223 N. Broadway Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/broadway-n-223-4.jpg",
+    "style":"Unknown",
+    "built":"1923",
+    "architect":"Unknown",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Station_Theatre.mp3",
+    "tour":"Historic Urbana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.207087,40.121543 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Broadway",
+    "id":"910-n-broadway",
+    "title":"910 N. Broadway Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/broadway-n-910.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
+    "built":"1901",
     "architect":"Unknown",
     "podcast":"",
-    "id":"606-w-ohio"
+    "tour":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.2251859,40.106369 ]
+       "coordinates":  [ -88.217455,40.1067449 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
-    "built":"1925",
-    "title":"706 S Mathews Ave",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/mathews-s-706-1.jpg",
+    "street":"Busey",
+    "id":"708SBussey",
+    "title":"708 S. Busey Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-708-3.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/prairie\">Prairie</a></h3>",
+    "built":"1920",
+    "architect":"Unknown",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/DeWolf_708.mp3",
+    "tour":"Style Inventory"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2117449,40.101064 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Carle",
+    "id":"1306-s-carle",
+    "title":"1306 S. Carle Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/carle-s-1306-13.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/english-domestic\">English Dometstic</a></h3>",
+    "built":"1927",
     "architect":"Unknown",
     "podcast":"",
-    "id":"706-s-mathews-ave"
+    "tour":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.216348,40.103986 ]
+       "coordinates":  [ -88.210106,40.111027 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/spanisheclectic\">Spanish Eclectic</a></h3>",
-    "built":"1928",
-    "title":"706 W. Ohio",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/ohio-w-706-5.jpg",
+    "street":"Cedar",
+    "id":"206-cedar",
+    "title":"206 S. Cedar St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/cedar-206.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
+    "built":"1872",
     "architect":"Unknown",
     "podcast":"",
-    "id":"706-w-ohio"
+    "tour":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.216732,40.1039462 ]
+       "coordinates":  [ -88.211147,40.113396 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
-    "built":"1928",
-    "title":"710 W. Ohio",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/ohio-w-710.jpg",
-    "architect":"unknown",
-    "podcast":"",
-    "id":"710-w-ohio"
+    "street":"Central",
+    "id":"halberstadt",
+    "title":"104 N. Central Ave., The Halberstadt House",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/central-n-104-2.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a> and <a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/stick\">Stick/Eastlake</a></h3>",
+    "built":"1875",
+    "architect":"Unknown",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Halberstadt_House.mp3",
+    "tour":"Historic Urbana"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.2172554,40.1034619 ]
+       "coordinates":  [ -88.215939,40.118583 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a></h3>",
-    "built":"1928",
-    "title":"713 W Ohio",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/ohio-w-713.jpg",
+    "street":"Coler",
+    "id":"701NColer",
+    "title":"701 N. Coler, Sears Osborn House",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/coler-n-701-3.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/folk\">Mission Style</a></h3>",
+    "built":"1920",
     "architect":"Unknown",
     "podcast":"",
-    "id":"713-w-ohio"
+    "tour":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.21721099999999,40.101513 ]
+       "coordinates":  [ -88.2158023,40.1095774 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
-    "built":"1915",
-    "title":"715 W. Michigan Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/michigan-w-715.jpg",
-    "architect":"unknown",
-    "podcast":"",
-    "id":"715-w-michigan-ave"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.218188,40.107157 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
-    "built":"1925",
-    "title":"803 W Oregon St",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-803.jpg",
+    "street":"Coler",
+    "id":"402-s-coler",
+    "title":"402 S. Coler Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/coler-s-402.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/capecod\">Cape Cod</a></h3>",
+    "built":"1940",
     "architect":"Unknown",
     "podcast":"",
-    "id":"803-w-oregon-st"
+    "tour":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.2181227,40.1004118 ]
+       "coordinates":  [ -88.215755,40.1067961 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
+    "street":"Coler",
+    "id":"706-s-coler",
+    "title":"706 S. Coler Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/coler-s-706.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/georgianrevival\">Georgian Revival Influence</a></h3>",
+    "built":"1927",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.215992,40.099277 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Delaware",
+    "id":"702-w-delaware",
+    "title":"702 W. Delaware Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-702-1.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
     "built":"1932",
-    "title":"805 W Pennsylvania Ave",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-805-3.jpg",
     "architect":"Unknown",
     "podcast":"",
-    "id":"805-w-pennsylvania-ave"
+    "tour":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.2184252,40.1034232 ]
+       "coordinates":  [ -88.217271,40.098782 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"unknown</h3>",
-    "built":"1961",
-    "title":"805 W. Ohio",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/ohio-w-805.jpg",
-    "architect":"unknown",
-    "podcast":"",
-    "id":"805-w-ohio"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.2186985,40.1003159 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival\">Colonial Revival</a></h3>",
-    "built":"1923",
-    "title":"809 W. Pennsylvania Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-809-12.jpg",
-    "architect":"unknown",
-    "podcast":"",
-    "id":"809-w-pennsylvania-a"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.218672,40.105147 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/colonialrevival\">Colonial Revival</a></h3>",
+    "street":"Delaware",
+    "id":"715-w-delaware",
+    "title":"715 W. Delaware Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-715-7.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/frencheclectic\">French Eclectic</a></h3>",
     "built":"1927",
-    "title":"904 S Lincoln Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-904.jpg",
     "architect":"Unknown",
     "podcast":"",
-    "id":"904-s-lincoln"
+    "tour":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.218842,40.104406 ]
+       "coordinates":  [ -88.213577,40.10337 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival\">Colonial Revival</a></h3>",
-    "built":"Unknown",
-    "title":"1002 S Lincoln",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1102-9.jpg",
-    "architect":"Unknown",
-    "podcast":"",
-    "id":"1002-s-lincoln"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.21882699999999,40.1034719 ]
-    },
-    "properties": {
-    "altitude":"",
-    "geometry":"Point",
+    "street":"Douglas",
+    "id":"1105-s-douglas",
+    "title":"1105 S. Douglas Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/douglas-s-1105-3.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
-    "built":"Unknown",
-    "title":"1102 S Lincoln",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1102.jpg",
+    "built":"1920",
     "architect":"Unknown",
     "podcast":"",
-    "id":"1102-s-lincoln"
+    "tour":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.21882099999999,40.103192 ]
+       "coordinates":  [ -88.211172,40.111296 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/french-chateauesque-18\">French Chateauesque</a></h3>",
+    "street":"Elm",
+    "id":"307-w-elm",
+    "title":"307 W. Elm St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-307-4.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
     "built":"Unknown",
-    "title":"1106 S. Lincoln Ave.",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1106-1.jpg",
     "architect":"Unknown",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Alpha_Gamma_House.mp3",
-    "id":"1106-s-lincoln"
+    "podcast":"",
+    "tour":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.20620699999999,40.095792 ]
+       "coordinates":  [ -88.211607,40.111289 ]
     },
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/mcm\">Mid-Century Modern</a></h3>",
-    "built":"1958",
-    "title":"1806 Pleasant Circle",
-    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pleasant-s-1806.jpg",
-    "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/laz\">Donald Laz</a>",
-    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Green_Home.mp3",
-    "id":"1806Pleasant"
+    "street":"Elm",
+    "id":"311-w-elm",
+    "title":"311 W. Elm St., The William Park Residence",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-311.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a>",
+    "built":"1856",
+    "architect":"Unknown",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Park_Residence.mp3",
+    "tour":"Style Inventory"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213471,40.111784 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Elm",
+    "id":"502-w-elm",
+    "title":"502 W. Elm St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-502-2.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
+    "built":"1889",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
     }
   },
   {
@@ -2080,13 +910,1415 @@
     "properties": {
     "altitude":"",
     "geometry":"Point",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/capecod\">Cape Cod</a></h3>",
-    "built":"1936",
+    "street":"Florida",
+    "id":"210-w-florida",
     "title":"210 W. Florida Ave.",
     "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/florida-w-210-1.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/capecod\">Cape Cod</a></h3>",
+    "built":"1936",
     "architect":"Unknown",
     "podcast":"",
-    "id":"210-w-florida"
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.193076,40.11215 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Glover",
+    "id":"110-s-glover",
+    "title":"110 S. Glover Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/glover-s-110-3.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/lustron\">Lustron House</a></h3>",
+    "built":"1943",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2099575,40.1104427 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Green",
+    "id":"209-w-green",
+    "title":"209 W. Green St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-209-3.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
+    "built":"1899",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213369,40.110414 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Green",
+    "id":"501-w-green",
+    "title":"501 W. Green St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-501-3.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
+    "built":"1894",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2100946,40.1101146 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"High",
+    "id":"212-w-high-st",
+    "title":"212 W. High St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-212-15.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
+    "built":"1850",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.211926,40.109608 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"High",
+    "id":"401-w-high-st",
+    "title":"401 W. High St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-401-9.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/hall-and-parlor\">Hall and Parlor</a></h3>",
+    "built":"1880",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213994,40.110069 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"High",
+    "id":"510-w-high-st",
+    "title":"510 W. High St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-510-27.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/arts-and-crafts\">Arts and Crafts</a></h3>",
+    "built":"1910",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.214744,40.109598 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"High",
+    "id":"601-w-high-st",
+    "title":"601 W. High St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-601-15.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/hall-and-parlor\">Hall and Parlor</a></h3>",
+    "built":"1870",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.212144,40.10933 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Illinois",
+    "id":"404-w-illinois",
+    "title":"404 W. Illinois St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/illinois-w-404-1.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/preciv\">Pre-Civil War Vernacular</a></h3>",
+    "built":"1850",
+    "architect":"Unknown",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Boyden_House.mp3",
+    "tour":"Historic Urbana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.212338,40.109328 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Illinois",
+    "id":"406-w-illinois",
+    "title":"406 W. Illinois Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/illinois-w-406-1.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
+    "built":"1925",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.218487,40.108795 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Illinois",
+    "id":"805-w-illinois",
+    "title":"805 W. Illinois Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/illinois-w-805-2.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
+    "built":"1890",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2109399,40.102585 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Indiana",
+    "id":"301WIndiana",
+    "title":"301 W. Indiana Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/indiana-w-301-3.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/tudorrevival\">Tudor Revival</a></h3>",
+    "built":"",
+    "architect":"Unknown",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Plan_Book_House.mp3",
+    "tour":"At the Turn of the Century"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.212978,40.102568 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Indiana",
+    "id":"411WIndiana",
+    "title":"411 W. Indiana Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/indiana-w-411-4.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/prairie\">Prairie Style</a></h3>",
+    "built":"1909",
+    "architect":"Unknown",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Ortiz_House.mp3",
+    "tour":"At the Turn of the Century"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.210108,40.104861 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Iowa",
+    "id":"204-w-iowa",
+    "title":"204 W. Iowa St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/iowa-w-204-2.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-moderne\">Art Moderne</a></h3>",
+    "built":"1937",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2276541,40.1026847 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Lorado Taft",
+    "id":"1403-w-lorado-taft-drive",
+    "title":"1403 W. Lorado Taft Drive, The Mumford House",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lorado-taft-w-1403-3.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
+    "built":"1870",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.200333,40.1126099 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Main",
+    "id":"607-e-main",
+    "title":"607 E. Main St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-e-607.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
+    "built":"1875",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2077222,40.1127464 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Main",
+    "id":"102-106-w-main",
+    "title":"102-106 W. Main St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-102-106-4.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
+    "built":"1880",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2084132,40.1124479 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Main",
+    "id":"120-124-w-main-st",
+    "title":"120 W. Main St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-120-124-13.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-deco\">Art Deco</a></h3>",
+    "built":"1870",
+    "architect":"Unknown",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Princess_Theater.mp3",
+    "tour":"Historic Urbana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2106608,40.1125866 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Main",
+    "id":"303-w-main",
+    "title":"303 W. Main St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-303.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/spanish-colonial-reviv\">Spanish Revival</a></h3>",
+    "built":"1925",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213784,40.113459 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Main",
+    "id":"505-w-main",
+    "title":"505 W. Main St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-505.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
+    "built":"1874",
+    "architect":"Unknown",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Griggs_House.mp3",
+    "tour":"Historic Urbana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213813,40.11417 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Main",
+    "id":"506-w-main",
+    "title":"506 W. Main St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-506.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
+    "built":"1892",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.213998,40.1135 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Main",
+    "id":"507-w-main",
+    "title":"507 W. Main St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-507.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/gothicrevival\">Gothic Revival</a></h3>",
+    "built":"1880",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.214421,40.114254 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Main",
+    "id":"510-w-main",
+    "title":"510 W. Main St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-510-10.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
+    "built":"1892",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.215109,40.113649 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Main",
+    "id":"605-w-main",
+    "title":"605 W. Main St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-605-3.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
+    "built":"1890",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.217901,40.114082 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Main",
+    "id":"803-w-main",
+    "title":"803 W. Main St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-803.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/swiss-revival\">Swiss Revival</a></h3>",
+    "built":"1904",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.217836,40.114783 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Main",
+    "id":"804-w-main",
+    "title":"804 W. Main St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-804.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
+    "built":"1875",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.21145,40.101596 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Michigan",
+    "id":"305-w-michigan",
+    "title":"305 W. Michigan Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/michigan-w-305-3.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/spanish-colonial-reviv\">Spanish Revival</a></h3>",
+    "built":"1928",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.211753,40.101594 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Michigan",
+    "id":"309-w-michigan",
+    "title":"309 W. Michigan Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/michigan-w-309-4.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/italianrevival\">Italian Renaissance Revival</a></h3>",
+    "built":"1925",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.214361,40.106817 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Nevada",
+    "id":"512-w-nevada",
+    "title":"512 W. Nevada St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-512.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/georgian-revival\">Georgian Revival</a></h3>",
+    "built":"1925",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.218343,40.106162 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Nevada",
+    "id":"805-w-nevada",
+    "title":"805 W. Nevada St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-805-4.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/arts-and-crafts\">Arts and Crafts</a></h3>",
+    "built":"1919",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2236271,40.1068074 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Oregon",
+    "id":"1117-w-oregon-st",
+    "title":"1117 W. Oregon St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-1117-1.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/mission\">Mission</a></h3>",
+    "built":"1920",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.210454,40.10734 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Oregon",
+    "id":"301-w-oregon-st",
+    "title":"301 W. Oregon St, The Frank A. Somers House",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-301-2.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival\">Colonial Revival</a></h3>",
+    "built":"1903",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.210877,40.10728 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Oregon",
+    "id":"305-w-oregon-st",
+    "title":"305 W. Oregon St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-305-4.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/prairie\">Prairie</a></h3>",
+    "built":"1917",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2111259,40.107276 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Oregon",
+    "id":"307-w-oregon-st",
+    "title":"307 W. Oregon St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-307-2.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/greekrevival\">Greek Revival</a></h3>",
+    "built":"1875",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.21512,40.107193 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Oregon",
+    "id":"605-w-oregon-st",
+    "title":"605 W. Oregon St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-605-8.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/dutch-colonial-revival\">Dutch Colonial Revival</a></h3>",
+    "built":"1920",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.215208,40.100395 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Pennsylvania",
+    "id":"607-w-pennsylvania-ave",
+    "title":"607 W. Pennsylvania Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-w-607-3.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
+    "built":"1927",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.218217,40.101012 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Pennsylvania",
+    "id":"804-w-pennsylvania-ave",
+    "title":"804 W. Pennsylvania Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-w-806.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
+    "built":"1925",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.21854,40.10101 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Pennsylvania",
+    "id":"806-w-pennsylvania-ave",
+    "title":"806 W. Pennsylvania Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-w-806-3b.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
+    "built":"1925",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2093789,40.1129418 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Race",
+    "id":"111-n-race",
+    "title":"111 N. Race St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-n-111.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/commercial\">Commercial</a></h3>",
+    "built":"1910",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.209117,40.109648 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Race",
+    "id":"401-s-race",
+    "title":"401 S. Race St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-401-6.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a></h3>",
+    "built":"1870",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.208539,40.109723 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Race",
+    "id":"402-s-race",
+    "title":"402 S. Race St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-402-3.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
+    "built":"1920",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2094179,40.1053779 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Race",
+    "id":"900-s-race",
+    "title":"900 S. Race St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-900-5.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
+    "built":"1926",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.204016,40.108302 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Urbana",
+    "id":"601-s-urbana",
+    "title":"601 S. Urbana Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/urbana-s-601.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a></h3>",
+    "built":"1910",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.215622,40.099595 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Vermont",
+    "id":"613WVermont",
+    "title":"613 W. Vermont Ave., The Dovring House",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/vermont-w-613.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-moderne\">Art Moderne</a></h3>",
+    "built":"1941",
+    "architect":"Unknown",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Dovring_House.mp3",
+    "tour":"Style Inventory"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.203222,40.10588 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Washington",
+    "id":"404-e-washington",
+    "title":"404 E. Washington St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/washington-e-404.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/spanish-colonial-reviv\">Spanish Revival</a></h3>",
+    "built":"1927",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.211292,40.105877 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Washington",
+    "id":"310WWashington",
+    "title":"310 W. Washington St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/washington-w-310-4.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/folk\">American Folk</a></h3>",
+    "built":"1906",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.21707,40.105262 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Washington",
+    "id":"711-w-washington",
+    "title":"711 W. Washington St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/washington-w-711-3.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/arts-and-crafts\">Arts and Crafts</a></h3>",
+    "built":"1914",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.198784,40.113679 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Weber",
+    "id":"108-n-weber",
+    "title":"108 N. Weber Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/webber-n-108.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/gothicrevival\">Gothic Revival</a></h3>",
+    "built":"1850",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.218842,40.104406 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Lincoln",
+    "id":"1002-s-lincoln",
+    "title":"1002 S. Lincoln Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1102-9.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival\">Colonial Revival</a></h3>",
+    "built":"Unknown",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.218839,40.10413 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Lincoln",
+    "id":"1004-s-lincoln",
+    "title":"1004 S. Lincoln Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1004.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/mediterranean\">Mediterranean</a></h3>",
+    "built":"1924",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.221753,40.1002269 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Pennsylvania",
+    "id":"1009-w-pennsylvania-ave",
+    "title":"1009 W. Pennsylvania Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-1009-10.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/georgian-revival\">Georgian Revival</a></h3>",
+    "built":"1925",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.222464,40.1001669 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Pennsylvania",
+    "id":"1101-w-pennsylvania-ave",
+    "title":"1101 W. Pennsylvania Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-1101.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/georgian-revival\">Georgian Revival</a></h3>",
+    "built":"1927",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.218827,40.1034719 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Lincoln",
+    "id":"1102-s-lincoln",
+    "title":"1102 S. Lincoln Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1102.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
+    "built":"Unknown",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.221985,40.106267 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Nevada",
+    "id":"1104-w-nevada",
+    "title":"1104 W. Nevada St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-1104.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/jacobean\">Jacobean</a></h3>",
+    "built":"1933",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.218821,40.103192 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Lincoln",
+    "id":"1106-s-lincoln",
+    "title":"1106 S. Lincoln Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1106-1.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/french-chateauesque-18\">French Chateauesque</a></h3>",
+    "built":"Unknown",
+    "architect":"Unknown",
+    "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Alpha_Gamma_House.mp3",
+    "tour":"Style Inventory"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2227536,40.1062079 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Nevada",
+    "id":"1110-w-nevada",
+    "title":"1110 W. Nevada St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-1110-7.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival\">Colonial Revival</a></h3>",
+    "built":"1929",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.218796,40.102517 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Lincoln",
+    "id":"1204-s-lincoln",
+    "title":"1204 S. Lincoln Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1204.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
+    "built":"1930",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.225144,40.105675 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Nevada",
+    "id":"1207-w-nevada",
+    "title":"1207 W. Nevada St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-1207.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival\">Colonial Revival</a></h3>",
+    "built":"1927",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.217833,40.101513 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Busey",
+    "id":"1301-s-busey-ave",
+    "title":"1301 S. Busey Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-1301.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival\">Colonial Revival</a></h3>",
+    "built":"1922",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.215169,40.103993 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Ohio",
+    "id":"606-w-ohio",
+    "title":"606 W. Ohio St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/ohio-w-606-14.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/gothicrevival\">Gothic Revival</a></h3>",
+    "built":"1935",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2251859,40.106369 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Mathews",
+    "id":"706-s-mathews-ave",
+    "title":"706 S. Mathews Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/mathews-s-706-1.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
+    "built":"1925",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.216348,40.103986 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Ohio",
+    "id":"706-w-ohio",
+    "title":"706 W. Ohio St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/ohio-w-706-5.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/spanisheclectic\">Spanish Eclectic</a></h3>",
+    "built":"1928",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.216732,40.1039462 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Ohio",
+    "id":"710-w-ohio",
+    "title":"710 W. Ohio St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/ohio-w-710.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
+    "built":"1928",
+    "architect":"unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2172554,40.1034619 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Ohio",
+    "id":"713-w-ohio",
+    "title":"713 W. Ohio St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/ohio-w-713.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a></h3>",
+    "built":"1928",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.217211,40.101513 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Michigan",
+    "id":"715-w-michigan-ave",
+    "title":"715 W. Michigan Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/michigan-w-715.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
+    "built":"1915",
+    "architect":"unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.218188,40.107157 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Oregon",
+    "id":"803-w-oregon-st",
+    "title":"803 W. Oregon St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-803.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
+    "built":"1925",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2181227,40.1004118 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Pennsylvania",
+    "id":"805-w-pennsylvania-ave",
+    "title":"805 W. Pennsylvania Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-805-3.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a></h3>",
+    "built":"1932",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2184252,40.1034232 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Ohio",
+    "id":"805-w-ohio",
+    "title":"805 W. Ohio St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/ohio-w-805.jpg",
+    "style":"unknown</h3>",
+    "built":"1961",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2186985,40.1003159 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Pennsylvania",
+    "id":"809-w-pennsylvania-a",
+    "title":"809 W. Pennsylvania Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-809-12.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival\">Colonial Revival</a></h3>",
+    "built":"1923",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.218672,40.105147 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Lincoln",
+    "id":"904-s-lincoln",
+    "title":"904 S. Lincoln Ave.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-904.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/colonialrevival\">Colonial Revival</a></h3>",
+    "built":"1927",
+    "architect":"Unknown",
+    "podcast":"",
+    "tour":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2083968,40.110339 ]
+    },
+    "properties": {
+    "altitude":"",
+    "geometry":"Point",
+    "street":"Race",
+    "id":"304-s-race",
+    "title":"304 S Race St.",
+    "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-304-11.jpg",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a></h3>",
+    "built":"1926",
+    "architect":"W. W. Maxwell",
+    "podcast":"",
+    "tour":""
     }
   }
 ]
