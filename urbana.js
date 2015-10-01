@@ -138,7 +138,13 @@ $(document).ready( function () {
         marker.bindPopup(content);
     });
 
-    $('#search').keyup(search);
+    $('#search').keyup( function () {
+        search();
+    });
+ 
+    $( ".well" ).on( "click", ".item", function() {
+      search( $(this).text());
+    });
 
     featureLayer.on('click', function(e) {
         var feature = e.layer.feature;
@@ -153,9 +159,15 @@ $(document).ready( function () {
         genTours(featureLayer);
     });
 
-function search() {
+function search(string) {
     // get the value of the search input field
-    var searchString = $('#search').val().toLowerCase();
+    if (string) {
+        searchString = string.toLowerCase();
+        $('#search').val(string);
+    }
+    else {
+        var searchString = $('#search').val().toLowerCase();
+    }
 
     featureLayer.setFilter(searchTitle)
     genListings(map,featureLayer); 
@@ -171,6 +183,7 @@ function search() {
         return (arch || title || style || tour)
     }
 }
+
     var tabheight = $('.tab-content').height();
     var bodyheight = $(document).height();
     $(".modal-body").css('height', bodyheight*0.7);
