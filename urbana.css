@@ -220,7 +220,7 @@ section.active
   padding-top: 10px;
   background-color: #f7f5e8;
 }
-#listings .item {
+.item {
   display:block;
   border-bottom:1px solid #ddd;
   padding:2px;
@@ -229,9 +229,9 @@ section.active
   text-decoration:none;
   font-size: 10pt;
 }
-#listings .item:last-child { border-bottom:none; }
+.item:last-child { border-bottom:none; }
 
-#listings .item.active {
+.item.active {
   background-color:#f8f8f8;
 }
 
@@ -253,7 +253,7 @@ section.active
   border-radius:7px;
 }
 
-#listings .item:hover {
+.item:hover {
     background-color:#FFFFDD;
     color: black;
 }
