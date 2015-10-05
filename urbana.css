@@ -100,6 +100,9 @@ html, body, #map-canvas { height: 100%; }
     box-shadow: 0em 0em 1em 0em #202020;
     z-index: 1;
 }
+input.filter {
+    margin-right: 5px;
+}
 .modal-header, .modal-footer {
     border: 0px;
 } 
@@ -220,7 +223,7 @@ section.active
   padding-top: 10px;
   background-color: #f7f5e8;
 }
-.item {
+div.item, div.tour {
   display:block;
   border-bottom:1px solid #ddd;
   padding:2px;
@@ -229,9 +232,9 @@ section.active
   text-decoration:none;
   font-size: 10pt;
 }
-.item:last-child { border-bottom:none; }
+.item:last-child, .tour:last-child { border-bottom:none; }
 
-.item.active {
+.item.active{
   background-color:#f8f8f8;
 }
 

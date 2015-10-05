@@ -103,11 +103,32 @@ function genTours(featureLayer) {
                           .last("div")
                           .addClass('item')
                           .text(prop.tour);
+    tours.empty();
         } 
     });
 }
 
+function genChecks(featureLayer) {
+    $('#tours').empty();
+    var tours = []
+    featureLayer.eachLayer(function(locale) {
+        var prop = locale.feature.properties;
+        if (prop.tour && tours.indexOf(prop.tour) == -1) {
+            tours.push(prop.tour)
+            tourID = prop.tour.replace(" ", "-").toLowerCase();
+            $('#tours').append(document.createElement("div"))
+                    .children()
+                    .last('div')
+                    .addClass('tour')
+                    .html("<input type='checkbox' checked=checked class='filter' name='filter' "+
+                        "id='" + tourID +"' value='" + tourID + "'/>" +
+                        "<label for='" + tourID + "'>"+ prop.tour + "</label>");
 
+
+        }
+    });
+
+}
 /******************************************************************************/   
 /*window.onload = function () {*/
 $(document).ready( function () {
@@ -155,7 +176,7 @@ $(document).ready( function () {
 
     featureLayer.on('ready', function() {
 
-        genTours(featureLayer);
+        genChecks(featureLayer);
         genListings(map,featureLayer);
         genStyles(featureLayer);
     });
@@ -183,6 +204,25 @@ function search(string) {
         return (arch || title || style || tour)
     }
 }
+
+function checked() {
+    // Find all checkboxes that are checked and build a list of their values
+    checkboxes = $('#tours .filter')
+    var on = [];
+    for (var i = 0; i < checkboxes.length; i++) {
+        if (checkboxes[i].checked) on.push(checkboxes[i].value);
+    }
+    // The filter function takes a GeoJSON feature object
+    // and returns true to show it or false to hide it.
+    map.featureLayer.setFilter(function (f) {
+        // check each marker's symbol to see if its value is in the list
+        // of symbols that should be on, stored in the 'on' array
+        return on.indexOf(f.properties['marker-symbol']) !== -1;
+    });
+    return false;
+}
+
+$('#tours').change( checked );
 
     var tabheight = $('.tab-content').height();
     var bodyheight = $(document).height();
