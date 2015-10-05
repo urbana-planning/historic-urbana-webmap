@@ -33,6 +33,9 @@ h1 {
     margin-bottom: 0px;
     border: none;
 }
+.tab-content {
+    background-color: rgb(239, 232, 216);
+}
 .well {
     margin: 15px;
     padding-left: 5px;
@@ -216,7 +219,7 @@ section.active
     background-color: rgba(255,255,255,0.3);
     box-shadow: 0em 0em 1em 0em #202020;
 }
-#listings, #styles {
+#listings, #styles, #tours {
   max-height: 80%;
   width: 90%;
   overflow:auto;
@@ -312,7 +315,7 @@ div.container-fluid {
     width: 100%;
 }
 ul.navbar-nav {
-    !width: 100%;
+    width: 100%;
 }
 ul.nav-tabs {
     padding: 5px 5px 0px 5px;
@@ -331,21 +334,34 @@ ul.nav-tabs {
     color: #555;
 }
 .tab-pane {
-    height: 100% !important;
+    height: 80% !important;
     overflow-y: scroll;
 }
 div.tab-content {
     height: 80%;
 }
+#tab-collapse-1 {
+    height: 100% !important;
+}
 @media (min-resolution: 150dpi) and (max-width:1400px) , (max-width: 767px) {
   .arrow-down {
       margin-top:5px;
   }
+  .tab-pane {
+  }
+  .well {
+    max-height: 200px !important;
+    overflow: auto;
+  }
+  #listings, #styles, #tours {
+    max-height: 80%;
+    overflow: auto;
+  }
+  #tab-collapse-1 {
+    max-height: 80%;
+  }
   #page-menu {
       display:none;
-  }
-  #listings, #styles, .nav-tabs {
-    display:none;
   }
   .navbar-header {
       height: 60px;
