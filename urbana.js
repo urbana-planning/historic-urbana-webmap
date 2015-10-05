@@ -141,11 +141,11 @@ $(document).ready( function () {
     $('#search').keyup( function () {
         search();
     });
- 
+/* 
     $( ".well" ).on( "click", ".item", function() {
       search( $(this).text());
     });
-
+*/
     featureLayer.on('click', function(e) {
         var feature = e.layer.feature;
         map.setView(e.latlng);
