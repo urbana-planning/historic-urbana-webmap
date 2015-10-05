@@ -102,6 +102,7 @@ html, body, #map-canvas { height: 100%; }
 }
 input.filter {
     margin-right: 5px;
+    margin-top: 0px;
 }
 .modal-header, .modal-footer {
     border: 0px;
@@ -223,7 +224,7 @@ section.active
   padding-top: 10px;
   background-color: #f7f5e8;
 }
-div.item, div.tour {
+div.item, div.tour, div.style {
   display:block;
   border-bottom:1px solid #ddd;
   padding:2px;
@@ -231,6 +232,9 @@ div.item, div.tour {
   padding-right: 5px;
   text-decoration:none;
   font-size: 10pt;
+}
+label {
+    margin: 0px;
 }
 .item:last-child, .tour:last-child { border-bottom:none; }
 

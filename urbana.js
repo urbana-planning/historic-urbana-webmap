@@ -72,51 +72,14 @@ function genListings(map,featureLayer) {
 
         });
     }
-function genStyles(featureLayer) {
-
-    var listings = $('#styles');
-    listings.empty();
-    var styles = [];
-
-    featureLayer.eachLayer(function(locale) {
-        var prop = locale.feature.properties;
-        if (styles.indexOf(prop.style) == -1) {
-            styles.push(prop.style);
-        item = $('#styles').append(document.createElement("div"))
-                          .children()
-                          .last("div")
-                          .addClass('item');
-        var link = $(prop.style).addClass('addr');
-        item.append(link);
-        } 
-    });
-}
-
-function genTours(featureLayer) {
-
-    var listings = $('#tours');
-    listings.empty();
-    var tours = [];
-
-    featureLayer.eachLayer(function(locale) {
-        var prop = locale.feature.properties;
-        if (prop.tour && tours.indexOf(prop.tour) == -1) {
-            tours.push(prop.tour);
-        item = $('#tours').append(document.createElement("div"))
-                          .children()
-                          .last("div")
-                          .addClass('item')
-                          .text(prop.tour);
-    tours.empty();
-        } 
-    });
-}
-
 function genChecks(featureLayer) {
     $('#tours').empty();
-    var tours = []
+    $('#styles').empty();
+    var tours = [];
+    var styles = []
     featureLayer.eachLayer(function(locale) {
         var prop = locale.feature.properties;
+        styleID = $(prop.style).text().replace(' ','-').toLowerCase();
         if (prop.tour && tours.indexOf(prop.tour) == -1) {
             tours.push(prop.tour)
             tourID = prop.tour.replace(" ", "-").toLowerCase();
@@ -127,6 +90,19 @@ function genChecks(featureLayer) {
                     .html("<input type='checkbox' class='filter' name='filter' "+
                         "id='" + tourID +"' value='" + tourID + "'/>" +
                         "<label for='" + tourID + "'>"+ prop.tour + "</label>");
+
+
+        }
+        if (styleID && styles.indexOf(styleID) == -1) {
+            
+            styles.push(styleID);
+            $('#styles').append(document.createElement("div"))
+                    .children()
+                    .last('div')
+                    .addClass('style')
+                    .html("<input type='checkbox' class='filter' name='filter' "+
+                        "id='" + styleID +"' value='" + styleID + "'/>" +
+                        "<label for='" + styleID + "'>"+ prop.style + "</label>");
 
 
         }
@@ -165,6 +141,7 @@ $(document).ready( function () {
 
     $('#search').keyup( function () {
         search();
+        $('.filter').removeAttr('checked') 
     });
 /* 
     $( ".well" ).on( "click", ".item", function() {
@@ -182,7 +159,6 @@ $(document).ready( function () {
 
         genChecks(featureLayer);
         genListings(map,featureLayer);
-        genStyles(featureLayer);
     });
 
 function search(string) {
@@ -197,7 +173,6 @@ function search(string) {
 
     featureLayer.setFilter(searchTitle)
     genListings(map,featureLayer); 
-    genStyles(featureLayer);
     // here we're simply comparing the 'state' property of each marker
     // to the search string, seeing whether the former contains the latter.
     function searchTitle(feature) {
@@ -211,7 +186,7 @@ function search(string) {
 
 function checked() {
     // Find all checkboxes that are checked and build a list of their values
-    checkboxes = $('#tours .filter')
+    checkboxes = $('.filter')
     var on = [];
     for (var i = 0; i < checkboxes.length; i++) {
         if (checkboxes[i].checked) on.push(checkboxes[i].value);
@@ -227,19 +202,23 @@ function checked() {
     function filter(feature) {
         // check each marker's symbol to see if its value is in the list
         // of symbols that should be on, stored in the 'on' array
-        tour = feature.properties.tour.replace(' ','-').toLowerCase();
-        return on.indexOf(tour) !== -1;
+        var tour = on.indexOf(feature.properties.tour.replace(' ','-')
+            .toLowerCase()) !== -1;
+
+        style = on.indexOf($(feature.properties.style).text().replace(' ','-').toLowerCase()) !==-1;
+        return (style || tour);
     }
     
     return false;
 }
 
+// monitor for changes in checkboxes
 $('#tours').change( checked );
+$('#styles').change( checked );
 
     var tabheight = $('.tab-content').height();
     var bodyheight = $(document).height();
     $(".modal-body").css('height', bodyheight*0.7);
-    //$(".tab-pane").css('height',tabheight*0.8);
 }); // end of ready()
    
 // for the window resize
@@ -247,5 +226,4 @@ $(window).resize(function() {
     var tabheight = $('.tab-content').height();
     var bodyheight = $(document).height();
     $(".modal-body").css('height', bodyheight*0.7);
-    //$(".tab-pane").css('height', tabheight*0.8);
 });
