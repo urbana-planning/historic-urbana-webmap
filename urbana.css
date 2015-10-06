@@ -283,7 +283,11 @@ label {
     border: 0px ;
 }
 .navbar-toggle:focus {
-    background-color: red !important;
+    background-color: #753D33 !important;
+}
+
+.navbar-toggle:hover {
+    background-color: none;
 }
 a, .leaflet-container a {
     color: rgb(0, 104, 55);
@@ -292,10 +296,10 @@ a:hover {
     text-decoration: none;
     color: rgb(120, 198, 121);
 }
-a.addr {
+a.addr, .style a {
     color: rgb(51,51,51);
 }
-a.addr:focus {
+a.addr:focus, .style a:focus {
   text-decoration: none;
   color: #559c09;
   font-weight: bold;
