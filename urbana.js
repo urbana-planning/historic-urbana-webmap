@@ -66,6 +66,7 @@ function genListings(map,featureLayer) {
 
             link.click( function() {
                 map.setView(locale.getLatLng(), 16);
+                $('#tab-collapse-1').removeClass('in');
                 locale.openPopup();
                 updateModal(locale.feature);
             });
@@ -212,6 +213,9 @@ function checked() {
     return false;
 }
 
+map.on('mouseover', function() {
+    $('#tab-collapse-1').removeClass('in');
+});
 // monitor for changes in checkboxes
 $('#tours').change( checked );
 $('#styles').change( checked );

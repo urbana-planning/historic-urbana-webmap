@@ -41,9 +41,7 @@
 
 <body>
 
-<div id="sidebar">
-<nav id="header" class="navbar navbar-default">
-  <div class="container-fluid">
+<nav id="header" class="sidebar navbar navbar-default">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#tab-collapse-1" aria-expanded="false">
@@ -51,7 +49,7 @@
         <span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span>
       </button>
 
-      <div class="navbar-brand">
+      <div>
         <a href='http://urbanaillinois.us/'>
             <img id='urbana-logo' src='img/CityofUrbana_white2.png'>
         </a>
@@ -61,21 +59,23 @@
 
     </div>
 
+
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="tab-collapse-1">
-        <ul class="nav nav-tabs">
+        <input id='search' class='search-ui form-control' placeholder='Search...' />
+        <div id='clear'>
+            <a href='#'>Clear filters</a>
+        </div>
+    <ul class="nav nav-tabs">
       <li class="active"><a data-toggle="tab" href="#home">Address</a></li>
       <li><a data-toggle="tab" href="#styles-tab">Style</a></li>
       <li><a data-toggle="tab" href="#tours-tab">Tours</a></li>
     </ul>
 
     <div class="tab-content">
+        
         <div id="home" class="tab-pane fade in active">
-            <div> 
-               <input id='search' class='search-ui form-control' placeholder='Search...' />
-            </div>
-
-
+            
             <div id='listings' class='well'></div>
       </div>
       <div id="styles-tab" class="tab-pane fade">
@@ -83,15 +83,13 @@
       </div>
       <div id="tours-tab" class="tab-pane fade">
         <div id='tours' class='well'></div>
-      </div>
     </div>
+
+  </div>
 </div> <!-- tab collapse -->
     
-
-  </div><!-- /.container-fluid -->
   </nav>
 
- </div> <!-- sidebar --> 
 <!-- Modal this should go under template section --> 
 <div id="myModal" class="modal" role="dialog">
   <div class="modal-dialog">
