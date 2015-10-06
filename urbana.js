@@ -174,6 +174,7 @@ function search(string) {
 
     featureLayer.setFilter(searchTitle)
     genListings(map,featureLayer); 
+    genChecks(featureLayer); // testing XXX
     // here we're simply comparing the 'state' property of each marker
     // to the search string, seeing whether the former contains the latter.
     function searchTitle(feature) {
@@ -185,20 +186,37 @@ function search(string) {
     }
 }
 
+
 function checked() {
+    // the following code is redundant with previous and should be merged
+    var searchString = $('#search').val().toLowerCase();
+    function searchTitle(feature) {
+        var title = feature.properties.title.toLowerCase().indexOf(searchString) !== -1;
+        var arch = feature.properties.architect.toLowerCase().indexOf(searchString) !== -1;
+        var style = feature.properties.style.toLowerCase().indexOf(searchString) !== -1;
+        var tour = feature.properties.tour.toLowerCase().indexOf(searchString) !== -1;
+        return (arch || title || style || tour)
+    }
+
+    // end of hack
+
     // Find all checkboxes that are checked and build a list of their values
     checkboxes = $('.filter')
     var on = [];
     for (var i = 0; i < checkboxes.length; i++) {
         if (checkboxes[i].checked) on.push(checkboxes[i].value);
     }
+    
+ 
     if (on.length) {
     // The filter function takes a GeoJSON feature object
     // and returns true to show it or false to hide it.
-    featureLayer.setFilter(filter);
+    //featureLayer.setFilter(filter );
+    featureLayer.setFilter(testing);
     } 
     else {
-       featureLayer.setFilter( function() {return true;}); 
+       //featureLayer.setFilter( function() {return true;}); 
+       featureLayer.setFilter( function () {search()} );
     }   
     function filter(feature) {
         // check each marker's symbol to see if its value is in the list
@@ -209,7 +227,11 @@ function checked() {
         style = on.indexOf($(feature.properties.style).text().replace(' ','-').toLowerCase()) !==-1;
         return (style || tour);
     }
-    
+    function testing(feature) {
+        checksResult = filter(feature);
+        searchResult = searchTitle(feature);
+        return (searchResult & checksResult);
+    }   
     return false;
 }
 
