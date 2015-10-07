@@ -285,7 +285,10 @@ label {
 .navbar-toggle:focus {
     background-color: #753D33 !important;
 }
-
+:focus { 
+    outline: none !important;
+    text-decoration: none !important;
+}
 .navbar-toggle:hover {
     background-color: none;
 }

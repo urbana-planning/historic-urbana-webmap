@@ -173,7 +173,8 @@ function search(string) {
     }
 
     featureLayer.setFilter(searchTitle)
-    genListings(map,featureLayer); 
+    genListings(map,featureLayer);
+    map.fitBounds(featureLayer.getBounds()); // testing XXXX  
     genChecks(featureLayer); // testing XXX
     // here we're simply comparing the 'state' property of each marker
     // to the search string, seeing whether the former contains the latter.
@@ -213,6 +214,7 @@ function checked() {
     // and returns true to show it or false to hide it.
     //featureLayer.setFilter(filter );
     featureLayer.setFilter(testing);
+    map.fitBounds(featureLayer.getBounds()); //testing XXX
     genListings(map,featureLayer); //testing XXX
     } 
     else {
