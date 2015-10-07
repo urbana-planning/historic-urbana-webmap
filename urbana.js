@@ -213,6 +213,7 @@ function checked() {
     // and returns true to show it or false to hide it.
     //featureLayer.setFilter(filter );
     featureLayer.setFilter(testing);
+    genListings(map,featureLayer); //testing XXX
     } 
     else {
        //featureLayer.setFilter( function() {return true;}); 
