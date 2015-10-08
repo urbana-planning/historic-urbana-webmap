@@ -123,7 +123,7 @@ $(document).ready( function () {
         zoom: 15,
 	    center: [40.1097, -88.2042],
         minZoom: 15,
-        maxZoom: 19,
+        maxZoom: 18,
     });//                 }).setView([38.8906,-77.01313], 12);
 
     var featureLayer = L.mapbox.featureLayer()
