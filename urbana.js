@@ -42,7 +42,7 @@ function onEachFeature( feature, layer) {
     });
 }
 var pushpinIcon = L.icon({
-        iconUrl: 'img/pushpin2.svg',//'img/pushpin2.svg',
+        iconUrl: 'img/pushpin2.png',//'img/pushpin2.svg',
         iconSize: [20, 20],
 });
 
@@ -108,7 +108,12 @@ function genChecks(featureLayer) {
 
         }
     });
-
+    // sort styles in alphabetical order
+    $('#styles .style').sort(function(a,b) { 
+        la = $(a).find('input').attr('id');
+        lb = $(b).find('input').attr('id');
+        return la.localeCompare(lb)
+    }).appendTo('#styles');
 }
 /******************************************************************************/   
 /*windowon () {*/
