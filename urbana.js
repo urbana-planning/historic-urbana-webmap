@@ -246,6 +246,9 @@ function checked() {
 map.on('mouseover', function() {
     $('#tab-collapse-1').removeClass('in');
 });
+map.on('click', function () {
+    $('#tab-collapse-1').removeClass('in');
+});
 // monitor for changes in checkboxes
 $('#tours').change( checked );
 $('#styles').change( checked );
