@@ -2,6 +2,10 @@
  * Historic Urbana Map 
  * Author: Timothy Hodson
  ******************************************************************************/   
+L.mapbox.accessToken = 
+    'pk.eyJ1IjoidG9ob2Rzb24iLCJhIjoiY2llcHE3aGIwMDAwdmE1a3Q1ZzhiNTBwYiJ9.0_l-zvcvr0SrwNDwhoyl8w';
+
+
 function makeTip( feature ) {
 
     var title = feature.title;
@@ -70,6 +74,7 @@ function genListings(map,featureLayer) {
                 locale.openPopup();
                 updateModal(locale.feature);
             });
+            
 
         });
     }
@@ -138,8 +143,10 @@ $(document).ready( function () {
     featureLayer.on('layeradd', function(e) {
         var marker = e.layer,
         feature = marker.feature;
-        marker.setIcon(pushpinIcon)
-        
+        if (feature.properties.category == 'building') {
+
+            marker.setIcon(pushpinIcon);
+        }
         //marker.setIcon(L.icon(feature.properties.icon));
         var content = makeTip(feature); 
         marker.bindPopup(content);
