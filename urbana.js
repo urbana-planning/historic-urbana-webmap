@@ -42,7 +42,7 @@ function onEachFeature( feature, layer) {
     });
 }
 var pushpinIcon = L.icon({
-        iconUrl: 'img/pushpin2.png',//'img/pushpin2.svg',
+        iconUrl: 'img/pushpin2.svg',//'img/pushpin2.svg',
         iconSize: [20, 20],
 });
 
