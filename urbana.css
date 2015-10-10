@@ -270,7 +270,13 @@ label {
   background: #C6C4BA;
   border-radius:7px;
 }
-
+.menu-info {
+    padding: 20px;
+    text-align: center;
+    font-size: 10pt;
+    border-bottom: 1px solid;
+    border-color: rgb(213,202,178);
+}
 .item:hover {
     background-color:#FFFFDD;
     color: black;
