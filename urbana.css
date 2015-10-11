@@ -381,6 +381,15 @@ ul.nav-tabs {
     background-color: #530c00;
     margin-bottom: 10px;
 }
+.map-icon {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    border-radius: 100%;
+    color: blue;
+    background: #3ca0d3;
+}
+
 @media (min-resolution: 150dpi) and (max-width:1400px) , (max-width: 767px) {
   .arrow-down {
       margin-top:5px;
@@ -400,7 +409,7 @@ ul.nav-tabs {
   #page-menu {
       display:none;
   }
-  #tab-collapse-1 {
+    #tab-collapse-1 {
     height: 400px !important;
     overflow: hidden;
   }

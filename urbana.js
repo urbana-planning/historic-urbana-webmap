@@ -50,6 +50,36 @@ var pushpinIcon = L.icon({
         iconSize: [20, 20],
 });
 
+var buildingIcon = L.divIcon({
+                        'className': 'map-icon',
+                        "html": "&#9733;",
+                        'iconSize': 'null'
+                        //'marker-symbol': 'building',
+                    });
+var buildingIcon = L.mapbox.marker.icon({
+                        'marker-symbol': 'building',
+                        'marker-color': '#ff3333',
+                        'marker-size': 'small'
+                    });
+var publicIcon = L.mapbox.marker.icon({
+                        'marker-symbol': 'town-hall',
+                        'marker-color': '#ff3333',
+                        'marker-size': 'small'
+                    });
+var churchIcon = L.mapbox.marker.icon({
+                        'marker-symbol': 'religious-christian',
+                        'marker-color': '#ff3333',
+                        'marker-size': 'small'
+                    });
+var commercialIcon = L.mapbox.marker.icon({
+                        'marker-symbol': 'commercial',
+                        'marker-color': '#ff3333',
+                        'marker-size': 'small'
+                    });
+
+
+
+
 String.prototype.capitalize = function(){
        return this.replace( /(^|\s)([a-z])/g , function(m,p1,p2){ return p1+p2.toUpperCase(); } );
       };
@@ -143,10 +173,21 @@ $(document).ready( function () {
     featureLayer.on('layeradd', function(e) {
         var marker = e.layer,
         feature = marker.feature;
-        if (feature.properties.category == 'building') {
+        if (feature.properties.category == 'house') {
 
-            marker.setIcon(pushpinIcon);
+            marker.setIcon(buildingIcon);
         }
+        else if (feature.properties.category == 'public') {
+
+            marker.setIcon(publicIcon);
+        }
+        else if (feature.properties.category == 'church') {
+
+            marker.setIcon(churchIcon);
+        } else if (feature.properties.category == 'commercial') {
+
+            marker.setIcon(commercialIcon);
+        } 
         //marker.setIcon(L.icon(feature.properties.icon));
         var content = makeTip(feature); 
         marker.bindPopup(content);

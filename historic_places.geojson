@@ -19,7 +19,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Courthouse.mp3",
     "tour":"Historic Urbana",
-    "category":"building"
+    "category":"public"
     }
   },
   {
@@ -40,7 +40,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/baker\">Jack Baker</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Erlanger_House.mp3",
     "tour":"At the Turn of the Century",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -61,7 +61,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/gill\">Rudolph Zerses Gill</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Lindley_House.mp3",
     "tour":"Style Inventory",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -82,7 +82,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/hollabird\">Holabird and Roche</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Wesley_Foundations.mp3",
     "tour":"Style Inventory",
-    "category":"building"
+    "category":"church"
     }
   },
   {
@@ -103,7 +103,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/laz\">Donald Laz</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Green_Home.mp3",
     "tour":"Style Inventory",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -124,7 +124,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/ricker\">Nathan C. Ricker</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Ricker_House.mp3",
     "tour":"Historic Urbana",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -145,7 +145,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Royer_House.mp3",
     "tour":"Style Inventory",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -166,7 +166,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/zook\">R. Harold Zook</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Zook_House.mp3",
     "tour":"At the Turn of the Century",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -187,7 +187,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/architects/goff\">Bruce Goff</a>",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -208,7 +208,7 @@
     "architect":"Altered by Royer",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Tiernans_Hall.mp3",
     "tour":"Historic Urbana",
-    "category":"building"
+    "category":"commercial"
     }
   },
   {
@@ -229,7 +229,7 @@
     "architect":"Charles A Platt",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -250,7 +250,7 @@
     "architect":"Clare-Alban W. Coen Company",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -271,7 +271,7 @@
     "architect":"George P. Standuhar",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"church"
     }
   },
   {
@@ -292,7 +292,7 @@
     "architect":"Hollabird and Roche",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"public"
     }
   },
   {
@@ -313,7 +313,7 @@
     "architect":"Jack Baker and John Replinger",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -334,7 +334,7 @@
     "architect":"John Carpenter and Garrett H. Baker",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -355,7 +355,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Mother_In_Law.mp3",
     "tour":"At the Turn of the Century",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -376,7 +376,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"public"
     }
   },
   {
@@ -397,7 +397,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"church"
     }
   },
   {
@@ -418,7 +418,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"commercial"
     }
   },
   {
@@ -439,7 +439,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"commercial"
     }
   },
   {
@@ -460,7 +460,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"church"
     }
   },
   {
@@ -481,7 +481,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Leal_School.mp3",
     "tour":"Style Inventory",
-    "category":"building"
+    "category":"public"
     }
   },
   {
@@ -502,7 +502,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Hieronymous_House.mp3",
     "tour":"At the Turn of the Century",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -523,7 +523,7 @@
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"commercial"
     }
   },
   {
@@ -544,7 +544,7 @@
     "architect":"Oscar Wendroth",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"public"
     }
   },
   {
@@ -565,7 +565,7 @@
     "architect":"Royer and Hilton",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"public"
     }
   },
   {
@@ -586,7 +586,7 @@
     "architect":"Royer and Smith, Kratz, and Strong",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"public"
     }
   },
   {
@@ -607,7 +607,7 @@
     "architect":"Royer, Danely, and Smith",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -628,7 +628,7 @@
     "architect":"Thomas Berger ",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/DeWolf_House.mp3",
     "tour":"At the Turn of the Century",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -649,7 +649,7 @@
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Station_Theatre.mp3",
     "tour":"Historic Urbana",
-    "category":"building"
+    "category":"commercial"
     }
   },
   {
@@ -670,7 +670,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -691,7 +691,7 @@
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/DeWolf_708.mp3",
     "tour":"Style Inventory",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -712,7 +712,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -733,7 +733,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -754,7 +754,7 @@
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Halberstadt_House.mp3",
     "tour":"Historic Urbana",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -775,7 +775,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -796,7 +796,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -817,7 +817,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -838,7 +838,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -859,7 +859,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -880,7 +880,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -901,7 +901,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -922,7 +922,7 @@
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Park_Residence.mp3",
     "tour":"Style Inventory",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -943,7 +943,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -964,7 +964,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -985,7 +985,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1006,7 +1006,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1027,7 +1027,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1048,7 +1048,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1069,7 +1069,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1090,7 +1090,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1111,7 +1111,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1132,7 +1132,7 @@
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Boyden_House.mp3",
     "tour":"Historic Urbana",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1153,7 +1153,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1174,7 +1174,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1195,7 +1195,7 @@
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Plan_Book_House.mp3",
     "tour":"At the Turn of the Century",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1216,7 +1216,7 @@
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Ortiz_House.mp3",
     "tour":"At the Turn of the Century",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1237,7 +1237,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1258,7 +1258,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1279,7 +1279,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1300,7 +1300,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"commercial"
     }
   },
   {
@@ -1321,7 +1321,7 @@
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Princess_Theater.mp3",
     "tour":"Historic Urbana",
-    "category":"building"
+    "category":"commercial"
     }
   },
   {
@@ -1342,7 +1342,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"commercial"
     }
   },
   {
@@ -1363,7 +1363,7 @@
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Griggs_House.mp3",
     "tour":"Historic Urbana",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1384,7 +1384,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1405,7 +1405,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1426,7 +1426,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1447,7 +1447,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1468,7 +1468,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1489,7 +1489,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1510,7 +1510,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1531,7 +1531,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1552,7 +1552,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1573,7 +1573,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1594,7 +1594,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"commercial"
     }
   },
   {
@@ -1615,7 +1615,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1636,7 +1636,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1657,7 +1657,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1678,7 +1678,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1699,7 +1699,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1720,7 +1720,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1741,7 +1741,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1762,7 +1762,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"commercial"
     }
   },
   {
@@ -1783,7 +1783,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1804,7 +1804,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1825,7 +1825,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1846,7 +1846,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1867,7 +1867,7 @@
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Dovring_House.mp3",
     "tour":"Style Inventory",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1888,7 +1888,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1909,7 +1909,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1930,7 +1930,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1951,7 +1951,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1972,7 +1972,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -1993,7 +1993,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2014,7 +2014,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2035,7 +2035,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2056,7 +2056,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2077,7 +2077,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2098,7 +2098,7 @@
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Alpha_Gamma_House.mp3",
     "tour":"Style Inventory",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2119,7 +2119,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2140,7 +2140,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2161,7 +2161,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2182,7 +2182,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2203,7 +2203,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2224,7 +2224,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2245,7 +2245,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2266,7 +2266,7 @@
     "architect":"unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2287,7 +2287,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2308,7 +2308,7 @@
     "architect":"unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2329,7 +2329,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2350,7 +2350,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2371,7 +2371,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2392,7 +2392,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2413,7 +2413,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"house"
     }
   },
   {
@@ -2427,14 +2427,14 @@
     "geometry":"Point",
     "street":"Race",
     "id":"304-s-race",
-    "title":"304 S Race St.",
+    "title":"304 S. Race St.",
     "image":"http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-304-11.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a>",
     "built":"1926",
     "architect":"W. W. Maxwell",
     "podcast":"",
     "tour":"",
-    "category":"building"
+    "category":"church"
     }
   }
 ]
