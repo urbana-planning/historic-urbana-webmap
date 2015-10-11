@@ -173,22 +173,21 @@ $(document).ready( function () {
     featureLayer.on('layeradd', function(e) {
         var marker = e.layer,
         feature = marker.feature;
-        if (feature.properties.category == 'house') {
-
-            marker.setIcon(buildingIcon);
-        }
-        else if (feature.properties.category == 'public') {
-
-            marker.setIcon(publicIcon);
-        }
-        else if (feature.properties.category == 'church') {
-
-            marker.setIcon(churchIcon);
-        } else if (feature.properties.category == 'commercial') {
-
-            marker.setIcon(commercialIcon);
-        } 
-        //marker.setIcon(L.icon(feature.properties.icon));
+        switch(feature.properties.category) {
+            case 'house':
+                marker.setIcon(buildingIcon);
+                break;
+            case 'public':
+                marker.setIcon(publicIcon);
+                break;
+            case 'church':
+                marker.setIcon(churchIcon);
+                break;
+            case 'commercial':
+                marker.setIcon(commercialIcon);
+                break;
+        }  
+         
         var content = makeTip(feature); 
         marker.bindPopup(content);
     });
@@ -227,8 +226,8 @@ function search(string) {
 
     featureLayer.setFilter(searchTitle)
     genListings(map,featureLayer);
-    map.fitBounds(featureLayer.getBounds()); // testing XXXX  
-    genChecks(featureLayer); // testing XXX
+    map.fitBounds(featureLayer.getBounds()); 
+    genChecks(featureLayer); 
     // here we're simply comparing the 'state' property of each marker
     // to the search string, seeing whether the former contains the latter.
     function searchTitle(feature) {
@@ -291,24 +290,29 @@ function checked() {
     return false;
 }
 
-map.on('mouseover', function() {
+// 
+function tabCollapse() {
     $('#tab-collapse-1').removeClass('in');
+}
+
+map.on({
+    'mouseover' : tabCollapse,
+    'click'     : tabCollapse
 });
-map.on('click', function () {
-    $('#tab-collapse-1').removeClass('in');
-});
+
 // monitor for changes in checkboxes
-$('#tours').change( checked );
-$('#styles').change( checked );
+$('#tours, #styles').change( checked );
+
 
     var tabheight = $('.tab-content').height();
     var bodyheight = $(document).height();
     $(".modal-body").css('height', bodyheight*0.7);
-}); // end of ready()
+
+    }); // end of ready()
    
-// for the window resize
+// resize certain elements when the window is resized
 $(window).resize(function() {
-    var tabheight = $('.tab-content').height();
+    var tabheight = $('.tab-content').height(); // no effect 
     var bodyheight = $(document).height();
     $(".modal-body").css('height', bodyheight*0.7);
 });
