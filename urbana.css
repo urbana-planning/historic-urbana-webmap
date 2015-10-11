@@ -310,7 +310,7 @@ a.addr, .style a {
 }
 a.addr:focus, .style a:focus {
   text-decoration: none;
-  color: #559c09;
+  color: #a30c00;
   font-weight: bold;
 }
 div.navbar-brand {
