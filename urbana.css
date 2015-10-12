@@ -165,7 +165,6 @@ table #tooltip {
 .tooltip-footer {
     border-top: thin solid #A5BC96;
 }
-
 .sepia 
 {
     -webkit-filter:sepia(0.4) saturate(2.5) hue-rotate(-30deg) contrast(0.67);
