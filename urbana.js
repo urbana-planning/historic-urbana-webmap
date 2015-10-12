@@ -203,7 +203,7 @@ $(document).ready( function () {
 */
     featureLayer.on('click', function(e) {
         var feature = e.layer.feature;
-        map.setView(e.latlng);
+        //map.setView(e.latlng);
         updateModal(feature);
 
     });
@@ -301,6 +301,15 @@ function tabCollapse() {
 map.on({
     'mouseover' : tabCollapse,
     'click'     : tabCollapse
+});
+
+// when popups open pan the map as to not cut them off
+map.on('popupopen', function(e) {
+        var px = map.project(e.popup._latlng); // find the pixel location on the map where the popup anchor is
+            px.y -= e.popup._container.clientHeight/2 + 100 // 100 is testing XXX 
+            // find the height of the popup container, divide by 2, subtract from the Y axis of marker location
+        map.panTo(map.unproject(px),{animate: true}); // pan to new center
+        console.log('test');
 });
 
 // monitor for changes in checkboxes
