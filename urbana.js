@@ -226,7 +226,10 @@ function search(string) {
 
     featureLayer.setFilter(searchTitle)
     genListings(map,featureLayer);
-    map.fitBounds(featureLayer.getBounds()); 
+    
+    if (( bounds = featureLayer.getBounds()).isValid()) {// if bounds exist
+        map.fitBounds(bounds); 
+    }
     genChecks(featureLayer); 
     // here we're simply comparing the 'state' property of each marker
     // to the search string, seeing whether the former contains the latter.
