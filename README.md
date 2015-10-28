@@ -1,2 +1,3 @@
 # historic-urbana-webmap
-Webmap of historic buildings in Urbana, IL
+Webmap of historic buildings in Urbana, IL.
+

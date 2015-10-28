@@ -107,6 +107,7 @@ function genListings(map,featureLayer) {
             
 
         });
+        
     }
 function genChecks(featureLayer) {
     $('#tours').empty();
