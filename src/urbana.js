@@ -157,7 +157,7 @@ $(document).ready( function () {
 
     if (window.location.protocol=="file:") {alert("must load page via http");}
     L.mapbox.accessToken = 
-    'pk.eyJ1IjoidG9ob2Rzb24iLCJhIjoiY2llcHE3aGIwMDAwdmE1a3Q1ZzhiNTBwYiJ9.0_l-zvcvr0SrwNDwhoyl8w';
+    'pk.eyJ1IjoiY2l0eS1vZi11cmJhbmEiLCJhIjoiY2lnbXFneXl6MDAyeG5ra29nNDR1NzhlMyJ9.LnLnxgCECdz936gdFy_ttg';
 
     var map = L.mapbox.map('map-canvas', 'tohodson.55f8ddb6', {
         // the options here prevent mouse wheel or trackpad scrolling
