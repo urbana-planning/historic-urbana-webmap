@@ -168,7 +168,7 @@ $(document).ready( function () {
     });//                 }).setView([38.8906,-77.01313], 12);
 
     var featureLayer = L.mapbox.featureLayer()
-        .loadURL('historic_places.geojson')
+        .loadURL('historic_places.txt')
         .addTo(map);
 
     featureLayer.on('layeradd', function(e) {
