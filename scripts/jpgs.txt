@@ -1,116 +1,204 @@
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/broadway-s-202.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival"">Classical Revival</a>",1914,Oscar Wendroth,,,p
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/broadway-n-223-4.jpg,Unknown,1923,Unknown,https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Station_Theatre.mp3,Historic Urbana,comme
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/broadway-n-910.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne"">Queen Anne</a>",1901,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/buena-vista-court-5.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/spanish-colonial-reviv"">Spanish Revival</a>",1925,John Carpenter and Garrett H. Baker,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/burlison-s-2016-11.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/contemporary"">Contemporary</a>",1954,"<a href=""http://urbanaillinois.us/residents/historic-urbana/top100/architects/goff"">Bruce Goff</a>",,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-1301.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival"">Colonial Revival</a>",1922,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-701-11.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/english-domestic"">English Domestic</a>",1923,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer"">Joseph Royer</a>",https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Mother_In_Law.mp3,At the Turn of the Century,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/busey-s-708-3.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/prairie"">Prairie</a>",1920,Unknown,https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/DeWolf_708.mp3,Style Inventory,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/carle-s-1306-13.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/english-domestic"">English Domestic</a>",1927,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/cedar-206.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate"">Italianate</a>",1872,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/central-n-104-2.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate"">Italianate</a> and <a href=""http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/stick"">Stick/Eastlake</a>",1875,Unknown,https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Halberstadt_House.mp3,Historic Urbana,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/coler-s-402.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/capecod"">Cape Cod</a>",1940,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/coler-n-701-3.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/mission"">Mission</a>",1920,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/coler-s-706.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/georgianrevival"">Georgian Revival Influence</a>",1927,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-209-2.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/english-domestic"">English Domestic</a>",1940,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/architects/zook"">R. Harold Zook</a>",https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Zook_House.mp3,At the Turn of the Century,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-601.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/french-revival"">French Revival</a>",1933,Thomas Berger ,https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/DeWolf_House.mp3,At the Turn of the Century,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-702-1.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",1932,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/delaware-w-715-7.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/frenchclectic"">French Eclectic</a>",1927,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/douglas-s-1105-3.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",1920,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-307-4.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate"">Italianate</a>",Unknown,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-311.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate"">Italianate</a>",1856,Unknown,https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Park_Residence.mp3,Style Inventory,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/elm-w-502-2.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne"">Queen Anne</a>",1889,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/florida-w-210-1.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/capecod"">Cape Cod</a>",1936,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/florida-w-711.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/georgian-revival"">Georgian Revival</a>",1925,Charles A Platt,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/glover-s-110-3.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/lustron"">Lustron House</a>",1943,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-1203.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival"">Late Gothic Revival</a>",1921,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/architects/hollabird"">Holabird and Roche</a>",https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Wesley_Foundations.mp3,Style Inve
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-209-3.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne"">Queen Anne</a>",1899,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/resize/images/urbana-free-library-222x126.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival"">Classical Revival</a>",1917,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer"">Joseph Royer</a>",,,p
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-309.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival"">Late Gothic Revival</a>",1913,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer"">Joseph Roye
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-312-17.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne"">Queen Anne</a>",1895,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/architects/gill"">Rudolph Zerses Gill</a>",https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Lindley_House.mp3,Style Inventory,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-501-3.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne"">Queen Anne</a>",1894,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/green-w-612-6.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne"">Queen Anne</a>",1892,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/architects/ricker"">Nathan C. Ricker</a>",https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Ricker_House.mp3,Historic Urbana,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-212-15.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate"">Italianate</a>",1850,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-401-9.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/hall-and-parlor"">Hall and Parlor</a>",1880,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-510-27.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/arts-and-crafts"">Arts and Crafts</a>",1910,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/high-w-601-15.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/hall-and-parlor"">Hall and Parlor</a>",1870,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/illinois-w-404-1.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/preciv"">Pre-Civil War Vernacular</a>",1850,Unknown,https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Boyden_House.mp3,Historic Urbana,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/illinois-w-406-1.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",1925,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/illinois-w-805-2.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne"">Queen Anne</a>",1890,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/indiana-w-301-3.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",,Unknown,https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Plan_Book_House.mp3,At the Turn of the Century,house
-http://urbanaillinois.us/sites/default/files/resize/imagecache/large/images/indiana-w-303-200x144.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/international"">International Style</a>",1964,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/architects/baker"">Jack Baker</a>",https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Erlanger_House.mp3,At the Turn of the Century,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/indiana-w-411-4.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/prairie"">Prairie</a>",1909,Unknown,https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Ortiz_House.mp3,At the Turn of the Century,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/iowa-w-204-2.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-moderne"">Art Moderne</a>",1937,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1102-9.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival"">Colonial Revival</a>",Unknown,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1004.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/mediterranean"">Mediterranean</a>",1924,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1102.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",Unknown,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1106-1.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/french-chateauesque-18"">French Chateauesque</a>",Unknown,Unknown,https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Alpha_Gamma_House.mp3,Style Inventory,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1204.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",1930,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-1404-6.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/french-chateauesque-18"">French Chateauesque</a>",1928,"Royer, Danely, and Smith",,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lincoln-s-904.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival"">Colonial Revival</a>",1927,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/lorado-taft-w-1403-3.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate"">Italianate</a>",1870,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-e-101-14.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/richardsonian"">Richardsonian Romanesque</a>",1901,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer"">Joseph Royer</a>",https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Courthouse.mp3,Historic Urbana,p
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-102-106-4.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate"">Italianate</a>",1880,Unknown,,,comme
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-115-14.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival"">Classical Revival</a>",1871,Altered by Royer,https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Tiernans_Hall.mp3,Historic Urbana,comme
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-120-124-13.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-deco"">Art Deco</a>",1870,Unknown,https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Princess_Theater.mp3,Historic Urbana,comme
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-135-15.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",1927,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer"">Joseph Royer</a>",,,comme
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-136-13.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival"">Classical Revival</a>",1907,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer"">Joseph Royer</a>",,,comme
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-303.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/spanish-colonial-reviv"">Spanish Revival</a>",1925,Unknown,,,comme
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-402-50.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/craftsman"">Craftsman</a>",1909,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer"">Joseph Roye
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-505.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate"">Italianate</a>",1874,Unknown,https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Griggs_House.mp3,Historic Urbana,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-506.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne"">Queen Anne</a>",1892,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-507.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival"">Late Gothic Revival</a>",1880,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-510-10.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne"">Queen Anne</a>",1892,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-605-3.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne"">Queen Anne</a>",1890,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-e-607.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate"">Italianate</a>",1875,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-710-2.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival"">Late Gothic Revival</a>",1901,George P.
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-803.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/swiss-revival"">Swiss Revival</a>",1904,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/main-w-804.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate"">Italianate</a>",1875,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/mathews-s-706-1.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",1925,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/michigan-w-305-3.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/spanish-colonial-reviv"">Spanish Revival</a>",1928,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/michigan-w-309-4.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/italianrevival"">Italian Renaissance Revival</a>",1925,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/michigan-w-715.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",1915,unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-1104.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/jacobean"">Jacobean</a>",1933,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-1110-7.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival"">Colonial Revival</a>",1929,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-1202.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/frenchclectic"">French Eclectic</a>",1926,Clare-Alban W. Coen Company,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-1207.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival"">Colonial Revival</a>",1927,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-512.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/georgian-revival"">Georgian Revival</a>",1925,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/nevada-w-805-4.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/arts-and-crafts"">Arts and Crafts</a>",1919,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/ohio-w-606-14.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival"">Late Gothic Revival</a>",1935,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/ohio-w-706-5.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/spanisheclectic"">Spanish Eclectic</a>",1928,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/ohio-w-710.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",1928,unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/ohio-w-713.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival"">Late Gothic Revival</a>",1928,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/ohio-w-805.jpg,Unknown,1961,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-1117-1.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/mission"">Mission</a>",1920,Unknown,,,comme
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-301-2.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival"">Colonial Revival</a>",1903,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-305-4.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/prairie"">Prairie</a>",1917,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-307-2.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/greekrevival"">Greek Revival</a>",1875,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregeon-w-312-2.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-deco"">Art Deco</a>",1936,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer"">Joseph Royer</a>",https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Leal_School.mp3,Style Inventory,p
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-605-8.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/dutch-colonial-revival"">Dutch Colonial Revival</a>",1920,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-801-10.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/mission"">Mission</a>",1905,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer"">Joseph Royer</a>",https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Royer_House.mp3,Style Inventory,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/oregon-w-803.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",1925,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-1009-10.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/georgian-revival"">Georgian Revival</a>",1925,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-1101.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/georgian-revival"">Georgian Revival</a>",1927,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-w-607-3.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",1927,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-w-710.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/dutch-colonial-revival"">Dutch Colonial</a>",1919,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer"">Joseph Royer</a>",https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Hieronymous_House.mp3,At the Turn of the Century,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-w-806.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",1925,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-805-3.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",1932,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-w-806-3b.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",1925,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pennsylvania-809-12.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival"">Colonial Revival</a>",1923,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pleasant-s-1802-1.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/contemporary"">Contemporary</a>",1957,Jack Baker and John Replinger,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/pleasant-s-1806.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/mcm"">Mid-Century Modern</a>",1958,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/architects/laz"">Donald Laz</a>",https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Green_Home.mp3,Style Inventory,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-1002.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/jacobean"">Jacobean</a>",1914,"Royer and Smith, Kratz, and Strong",,,p
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-n-111.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/commercial"">Commercial</a>",1910,Unknown,,,comme
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-304-11.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival"">Late Gothic Revival</a>",1926,W. W. Maxwe
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-401-6.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate"">Italianate</a>",1870,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-402-3.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",1920,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/race-s-900-5.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",1926,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/springfield-w-1212-9.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival"">Late Gothic Revival</a>",1917,Hollabird and Roche,,,p
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/university-w-403-5.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival"">Tudor Revival</a>",1952,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer"">Joseph Royer</a>",,,comme
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/university-e-600-10.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-deco"">Art Deco</a>",1939,Royer and Hilton,,,p
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/urbana-s-601.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne"">Queen Anne</a>",1910,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/vermont-w-613.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-moderne"">Art Moderne</a>",1941,Unknown,https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Dovring_House.mp3,Style Inventory,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/washington-w-310-4.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/folk"">American Folk</a>",1906,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/washington-e-404.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/spanish-colonial-reviv"">Spanish Revival</a>",1927,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/washington-w-711-3.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/arts-and-crafts"">Arts and Crafts</a>",1914,Unknown,,,house
-http://urbanaillinois.us/sites/default/files/imagecache/medium/images/webber-n-108.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival"">Late Gothic Revival</a>",1850,Unknown,,,house
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/lincoln-s-1102-9.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/race-s-1002.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/lincoln-s-1004.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/pennsylvania-1009-10.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-e-101-14.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-e-101-12.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/courthouse-original.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/courthouse-lightning.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-102-106-4.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/webber-n-108.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/webber-n-108-10.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/glover-s-110-3.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/pennsylvania-1101.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/lincoln-s-1102.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/nevada-w-1104.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/douglas-s-1105-3.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/douglas-s-1105-9.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/lincoln-s-1106-1.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/lincoln-s-1106-3.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/race-n-111.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/nevada-w-1110-7.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/oregon-w-1117-1.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-115-14.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-115-52.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-120-124-13.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-120-124-51.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/nevada-w-1202.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-1203.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-1203-5.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-1203_0.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-1203-postcard.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/lincoln-s-1204.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/nevada-w-1207.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/springfield-w-1212-9.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/springfield-w-1212-12.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/busey-s-1301.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/carle-s-1306-13.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/carle-s-1306-16.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/carle-s-1306-7.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-135-15.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-135-19.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-135-40.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-136-13.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-136-60.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/lorado-taft-w-1403-3.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/lorado-taft-w-1403-2.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/lincoln-s-1404-6.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/pleasant-s-1802-1.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/dsc-2117.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/pleasant-s-1802-15.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/dsc-2120.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/pleasant-s-1806.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/1806pleasant-drawing.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/burlison-s-2016-11.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/garvey-inside.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/program2.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/broadway-s-202.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/iowa-w-204-2.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/iowa-w-204-3.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/cedar-206.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-209-3.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-209-21.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/delaware-w-209-2.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/delaware-w-209-downie.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/delaware-w-209-downie-1.jpg
+http://urbanaillinois.us/sites/default/files/resize/imagecache/small/images/delaware-w-209-3-75x75.jpg
+http://urbanaillinois.us/sites/default/files/resize/imagecache/small/images/delaware-w-209-10-75x75.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/florida-w-210-1.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/florida-w-210-4.jpg
+http://urbanaillinois.us/sites/default/files/resize/images/urbana-free-library-222x126.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-210.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/high-w-212-15.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/high-w-212-1.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/broadway-n-223-4.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/oregon-w-301-2.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/oregon-w-301.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/indiana-w-301-3.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/indiana-w-301-5.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-303.jpg
+http://urbanaillinois.us/sites/default/files/resize/imagecache/large/images/indiana-w-303-600x432.jpg
+http://urbanaillinois.us/sites/default/files/images/erlangerphoto1_0.jpg
+http://urbanaillinois.us/sites/default/files/images/erlangerphoto4_0.jpg
+http://urbanaillinois.us/sites/default/files/resize/images/erlangrcolorcrop_0-850x650.jpg
+http://urbanaillinois.us/sites/default/files/images/erlangerphoto2_0.jpg
+http://urbanaillinois.us/sites/default/files/images/erlangerphoto3_0.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/race-s-304-11.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/race-s-304-35.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/michigan-w-305-3.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/oregon-w-305-4.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/oregon-w-305-7.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/elm-w-307-4.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/elm-w-307-2.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/oregon-w-307-2.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-309.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/michigan-w-309-4.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/washington-w-310-4.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/washington-w-310-8.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/elm-w-311.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/elm-w-311-12.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/oregeon-w-312-2.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/oregeon-w-312.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-312-17.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-312-8_0.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-312-21.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-312-96.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/race-s-401-6.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/race-s-401-18.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/high-w-401-9.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/coler-s-402.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/coler-s-402-2.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/race-s-402-3.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-402-50.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-402-12.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/university-w-403-5.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/university-w-403-1.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/washington-e-404.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/illinois-w-404-1.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/illinois-w-404-6.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/illinois-w-406-1.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/indiana-w-411-4.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/indiana-w-411-2.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-501-3.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-501-35.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/elm-w-502-2.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/elm-w-502-6.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/elm-w-502-8.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-505.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-506.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-506-4.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-507.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/high-w-510-27.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/high-w-510-1.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-510-10.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-510-12.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/nevada-w-512.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/university-e-600-10.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/urbana-s-601.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/delaware-w-601.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/delaware-w-601-drawing.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/delaware-w-601-5.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/delaware-w-601-8.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/high-w-601-15.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/high-w-601-3.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-605-3.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/oregon-w-605-8.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/oregon-w-605-9.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/ohio-w-606-14.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-e-607.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/pennsylvania-w-607-3.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-612-6.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-612-18.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/green-w-612-12.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/vermont-w-613.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/folkedovring-613vermont.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/kirkwood-613vermont.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/busey-s-701-11.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/busey-s-701-2.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/busey-s-701-7.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/coler-n-701-3.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/coler-n-701-27.jpg
+http://urbanaillinois.us/sites/default/files/resize/imagecache/small/images/coler-n-708-advertisement-75x113.jpg
+http://urbanaillinois.us/sites/default/files/resize/imagecache/small/images/coler-n-708-blueprints-75x133.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/delaware-w-702-1.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/pennsylvania-w-710.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/coler-s-706.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/coler-s-706-1.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/mathews-s-706-1.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/ohio-w-706-5.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/busey-s-708-3.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/busey-s-708-7.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-710-2.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-710-4.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/ohio-w-710.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/florida-w-711.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/washington-w-711-3.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/washington-w-711-6.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/ohio-w-713.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/delaware-w-715-7.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/delaware-w-715-16.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/michigan-w-715.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/oregon-w-801-10.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/oregon-w-801-7.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-803.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-803-4.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/oregon-w-803.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/main-w-804.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/pennsylvania-w-806.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/illinois-w-805-2.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/nevada-w-805-4.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/ohio-w-805.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/pennsylvania-805-3.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/pennsylvania-w-806-3b.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/pennsylvania-w-806-4b.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/pennsylvania-809-12.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/race-s-900-5.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/race-s-900-8.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/lincoln-s-904.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/broadway-n-910.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/broadway-n-910-1.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/buena-vista-court-5.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/buena-vista-court-8.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/buena-vista-court-10.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/central-n-104-2.jpg
+http://urbanaillinois.us/sites/default/files/imagecache/large/images/central-n-104-halb1.jpg
