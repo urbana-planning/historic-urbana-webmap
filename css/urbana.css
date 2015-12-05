@@ -287,6 +287,14 @@ label {
     border-bottom: 1px solid;
     border-color: rgb(213,202,178);
 }
+.menu-info-lower {
+    padding: 20px;
+    text-align: center;
+    font-size: 10pt;
+    border-top: 1px solid;
+    border-color: rgb(213,202,178);
+}
+
 .item:hover {
     background-color:#FFFFDD;
     color: black;
@@ -379,6 +387,7 @@ ul.nav-tabs {
 .tab-pane {
     height: 80% !important;
     overflow-y: scroll;
+    overflow-y:hidden;
 }
 #tab-collapse-1 {
     
