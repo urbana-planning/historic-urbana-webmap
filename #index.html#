@@ -6,19 +6,6 @@
     Historic Urbana Map
   </title>
 
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-
-  <link href='https://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Playfair+Display+SC:700' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Raleway:400,500' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="css/curl.css"/> <!--Must follow leaflet stylesheet! -->
-
-  <script src="src/jquery-1.11.3.min.js"></script>
-
-  <script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.2/mapbox.js'></script>
-  <link href='https://api.tiles.mapbox.com/mapbox.js/v2.2.2/mapbox.css' rel='stylesheet' />
 
   <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
@@ -75,20 +62,19 @@
         <div id="home" class="tab-pane fade in active">
             
             <div id='listings' class='well'></div>
-        </div>
-        <div id="styles-tab" class="tab-pane fade">
+      </div>
+      <div id="styles-tab" class="tab-pane fade">
           <div id='styles' class='well'></div>
+      </div>
+      <div id="tours-tab" class="tab-pane fade">
+        <div class="menu-info">
+            <strong>Tours</strong> bring story and place together, providing images and podcasts from historic sites.
         </div>
-        <div id="tours-tab" class="tab-pane fade">
-            <div class="menu-info">
-                <strong>Tours</strong> bring story and place together, providing images and podcasts from historic sites.
-            </div>
-            <div id='tours' class='well'></div>
-        </div>
-
+        <div id='tours' class='well'></div>
     </div>
 
-    </div> <!-- tab collapse -->
+  </div>
+</div> <!-- tab collapse -->
     
   </nav>
 
@@ -119,7 +105,7 @@
   </div>
   
   <!-- Hidden  Templates -->
-  <div id="templates">
+  <div id="templates>
   
   </div>
 

@@ -90,7 +90,7 @@ function genListings(map,featureLayer) {
         featureLayer.eachLayer(function(locale) {
             
             var prop = locale.feature.properties;
-            item = $('#listings').append(document.createElement("div"))
+            var item = $('#listings').append(document.createElement("div"))
                           .children()
                           .last("div")
                           .addClass('item');
