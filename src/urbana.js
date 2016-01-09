@@ -124,7 +124,7 @@ function genChecks(featureLayer) {
                     .children()
                     .last('div')
                     .addClass('tour')
-                    .html("<input type='checkbox' class='filter' name='filter' "+
+                    .html("<input type='radio' class='filter' name='filter' "+
                         "id='" + tourID +"' value='" + tourID + "'/>" +
                         "<label for='" + tourID + "'>"+ prop.tour + "</label>");
 
@@ -137,7 +137,7 @@ function genChecks(featureLayer) {
                     .children()
                     .last('div')
                     .addClass('style')
-                    .html("<input type='checkbox' class='filter' name='filter' "+
+                    .html("<input type='radio' class='filter' name='filter' "+
                         "id='" + styleID +"' value='" + styleID + "'/>" +
                         "<label for='" + styleID + "'>"+ prop.style + "</label>");
 
@@ -158,8 +158,8 @@ $(document).ready( function () {
     if (window.location.protocol=="file:") {alert("must load page via http");}
     L.mapbox.accessToken = 
     'pk.eyJ1IjoiY2l0eS1vZi11cmJhbmEiLCJhIjoiY2lnbXFneXl6MDAyeG5ra29nNDR1NzhlMyJ9.LnLnxgCECdz936gdFy_ttg';
-
     var map = L.mapbox.map('map-canvas', 'tohodson.55f8ddb6', {
+    //var map = L.mapbox.map('map-canvas', 'city-of-urbana.c3f23b22', {
         // the options here prevent mouse wheel or trackpad scrolling
         zoom: 15,
 	    center: [40.1097, -88.2042],
@@ -222,7 +222,9 @@ function search(string) {
         $('#search').val(string);
     }
     else {
-        var searchString = $('#search').val().toLowerCase();
+        var searchString = $('#search').val()
+                                       .toLowerCase()
+                                       .replace(/\./g,"");
     }
 
     featureLayer.setFilter(searchTitle)
@@ -235,7 +237,7 @@ function search(string) {
     // here we're simply comparing the 'state' property of each marker
     // to the search string, seeing whether the former contains the latter.
     function searchTitle(feature) {
-        var title = feature.properties.title.toLowerCase().indexOf(searchString) !== -1;
+        var title = feature.properties.title.toLowerCase().replace(/\./g,"").indexOf(searchString) !== -1;
         var arch = feature.properties.architect.toLowerCase().indexOf(searchString) !== -1;
         var style = feature.properties.style.toLowerCase().indexOf(searchString) !== -1;
         var tour = feature.properties.tour.toLowerCase().indexOf(searchString) !== -1;
@@ -246,9 +248,12 @@ function search(string) {
 
 function checked() {
     // the following code is redundant with previous and should be merged
-    var searchString = $('#search').val().toLowerCase();
+    var searchString = $('#search').val()
+                                   .toLowerCase()
+                                   .replace(/\./g,"");
+    
     function searchTitle(feature) {
-        var title = feature.properties.title.toLowerCase().indexOf(searchString) !== -1;
+        var title = feature.properties.title.toLowerCase().replace(/\./g,"").indexOf(searchString) !== -1;
         var arch = feature.properties.architect.toLowerCase().indexOf(searchString) !== -1;
         var style = feature.properties.style.toLowerCase().indexOf(searchString) !== -1;
         var tour = feature.properties.tour.toLowerCase().indexOf(searchString) !== -1;
@@ -311,6 +316,21 @@ map.on('popupopen', function(e) {
             // find the height of the popup container, divide by 2, subtract from the Y axis of marker location
         map.panTo(map.unproject(px),{animate: true}); // pan to new center
         console.log('test');
+});
+
+// this block is not working XXX
+$('.filter').click(function() {
+    if(this.checked == true) {
+        this.checked = false;
+    }
+});
+// turn off audo when modal closes
+$('#myModal').on('hidden.bs.modal', function () {
+    var audioPlayer = $('audio')[0];
+    if(audioPlayer!=undefined) {
+        audioPlayer.pause();
+    }
+    else {alert('NA');}
 });
 
 // monitor for changes in checkboxes
