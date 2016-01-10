@@ -166,7 +166,8 @@ $(document).ready( function () {
         minZoom: 15,
         maxZoom: 18,
     });//                 }).setView([38.8906,-77.01313], 12);
-
+    var defaultBounds = map.getBounds();
+    map.setMaxBounds(defaultBounds);
     var featureLayer = L.mapbox.featureLayer()
         .loadURL('historic_places.txt')
         .addTo(map);
@@ -230,9 +231,10 @@ function search(string) {
     featureLayer.setFilter(searchTitle)
     genListings(map,featureLayer);
     
-    if (( bounds = featureLayer.getBounds()).isValid()) {// if bounds exist
-        map.fitBounds(bounds); 
-    }
+    //if (( bounds = featureLayer.getBounds()).isValid()) {// if bounds exist
+    //    map.fitBounds(bounds); 
+    ///}
+    map.fitBounds(defaultBounds);
     genChecks(featureLayer); 
     // here we're simply comparing the 'state' property of each marker
     // to the search string, seeing whether the former contains the latter.
@@ -275,7 +277,8 @@ function checked() {
     // and returns true to show it or false to hide it.
     //featureLayer.setFilter(filter );
     featureLayer.setFilter(testing);
-    map.fitBounds(featureLayer.getBounds()); //testing XXX
+    //map.fitBounds(featureLayer.getBounds()); //testing XXX
+    map.fitBounds(defaultBounds); //testing XXX
     genListings(map,featureLayer); //testing XXX
     } 
     else {
