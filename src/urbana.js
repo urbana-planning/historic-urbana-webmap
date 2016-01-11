@@ -124,7 +124,7 @@ function genChecks(featureLayer) {
                     .children()
                     .last('div')
                     .addClass('tour')
-                    .html("<input type='radio' class='filter' name='filter' "+
+                    .html("<input type='checkbox' class='filter' name='filter' "+
                         "id='" + tourID +"' value='" + tourID + "'/>" +
                         "<label for='" + tourID + "'>"+ prop.tour + "</label>");
 
@@ -137,7 +137,7 @@ function genChecks(featureLayer) {
                     .children()
                     .last('div')
                     .addClass('style')
-                    .html("<input type='radio' class='filter' name='filter' "+
+                    .html("<input type='checkbox' class='filter' name='filter' "+
                         "id='" + styleID +"' value='" + styleID + "'/>" +
                         "<label for='" + styleID + "'>"+ prop.style + "</label>");
 
