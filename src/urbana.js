@@ -151,6 +151,9 @@ function genChecks(featureLayer) {
         return la.localeCompare(lb)
     }).appendTo('#styles');
 }
+var southWest = L.latLng(40.08, -88.25),
+    northEast = L.latLng(40.14, -88.17),
+    bounds = L.latLngBounds(southWest, northEast);
 /******************************************************************************/   
 /*windowon () {*/
 $(document).ready( function () {
@@ -165,9 +168,10 @@ $(document).ready( function () {
 	    center: [40.1097, -88.2042],
         minZoom: 15,
         maxZoom: 18,
+        maxBounds: bounds,
     });//                 }).setView([38.8906,-77.01313], 12);
     var defaultBounds = map.getBounds();
-    map.setMaxBounds(defaultBounds);
+    // XXX map.setMaxBounds(defaultBounds);
     var featureLayer = L.mapbox.featureLayer()
         .loadURL('historic_places.txt')
         .addTo(map);
@@ -318,7 +322,6 @@ map.on('popupopen', function(e) {
             px.y -= e.popup._container.clientHeight/2 + 100 // 100 is testing XXX 
             // find the height of the popup container, divide by 2, subtract from the Y axis of marker location
         map.panTo(map.unproject(px),{animate: true}); // pan to new center
-        console.log('test');
 });
 // block controls style modals
 // NOT DONE XXX
@@ -339,7 +342,6 @@ $('#myModal').on('hidden.bs.modal', function () {
     if(audioPlayer!=undefined) {
         audioPlayer.pause();
     }
-    else {alert('NA');}
 });
 
 // monitor for changes in checkboxes
