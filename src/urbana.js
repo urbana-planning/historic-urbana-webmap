@@ -320,6 +320,12 @@ map.on('popupopen', function(e) {
         map.panTo(map.unproject(px),{animate: true}); // pan to new center
         console.log('test');
 });
+// block controls style modals
+// NOT DONE XXX
+
+$('.architect').click(function() {
+
+});
 
 // this block is not working XXX
 $('.filter').click(function() {
