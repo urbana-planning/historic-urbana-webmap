@@ -1696,11 +1696,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -88.198859,40.107505 ]
+       "coordinates":  [ -88.2186644,40.106731 ]
     },
     "properties": {
     "street":"Oregon",
-    "id":"801EOregon",
+    "id":"801WOregon",
     "title":"801 W. Oregon St.",
     "image":"historic_img/medium/oregon-w-801-10.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/mission\">Mission</a>",
