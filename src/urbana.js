@@ -170,7 +170,7 @@ $(document).ready( function () {
         maxZoom: 18,
         maxBounds: bounds,
     });
-
+    var defaultBounds = map.getBounds();
     var featureLayer = L.mapbox.featureLayer()
         .loadURL('historic_places.txt')
         .addTo(map);
