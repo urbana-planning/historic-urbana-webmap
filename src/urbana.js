@@ -142,6 +142,8 @@ function genChecks(featureLayer) {
                         "<label for='" + styleID + "'>"+ prop.style + "</label>");
 
 
+
+
         }
     });
     // sort styles in alphabetical order
@@ -150,6 +152,12 @@ function genChecks(featureLayer) {
         lb = $(b).find('input').attr('id');
         return la.localeCompare(lb)
     }).appendTo('#styles');
+
+    // XXX append target=_blank to each style link so that it opens in a new window
+    // XXX remove this if styles are migrated to local modal
+    //$('.style').each(function () {
+    //            $(this).find('a').attr('target','_blank');
+    //})
 }
 var southWest = L.latLng(40.08, -88.25),
     northEast = L.latLng(40.14, -88.17),
