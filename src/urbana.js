@@ -12,10 +12,9 @@ function makeTip( feature ) {
     // modal code
     // tooltip code
     var html = "<img class='sepia page-curl shadow-bottom' src=" + feature.properties.image + ">" + 
-        "<br/>" +
-            "<h2> <table style='width:100%'><tr> <td>" + feature.properties.title + 
-            "</td> <td>" + feature.properties.address +" </td> </tr> </table> </h2>" +
-            //"<h2>" + feature.properties.title + "</h2>" +
+            "<div class='tooltip-header'>" +
+            "<h2 style='text-align:right'>" + feature.properties.title + "</h2>" +
+            "<h2 style='text-align:right'>" + feature.properties.address + " </h2> </div>" +
             "<table id='tooltip'> <tr> <th>Architect:</th> <td>" + feature.properties.architect + "</td> </tr>" +
             "<tr> <th>Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
             "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>" +
@@ -27,8 +26,10 @@ function makeTip( feature ) {
 
 
 function updateModal(feature) {
-    // TODO add table
-    $('#myModal .modal-title').text(feature.properties.title);
+    $('#myModal .modal-title').text(feature.properties.address);
+    if (feature.properties.title) {
+        $('#myModal .modal-title').prepend(feature.properties.title + ', ');
+    }
     $('#myModal .modal-body').load('modals/' + feature.properties.id, function() {
         $('.slider').slick({
              dots: true,
@@ -47,10 +48,6 @@ function onEachFeature( feature, layer) {
         click: updateModal
     });
 }
-var pushpinIcon = L.icon({
-        iconUrl: 'img/pushpin2.svg',//'img/pushpin2.svg',
-        iconSize: [20, 20],
-});
 
 var buildingIcon = L.divIcon({
                         'className': 'map-icon',
