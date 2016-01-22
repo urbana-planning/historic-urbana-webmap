@@ -169,8 +169,9 @@ $(document).ready( function () {
     if (window.location.protocol=="file:") {alert("must load page via http");}
     L.mapbox.accessToken = 
     'pk.eyJ1IjoiY2l0eS1vZi11cmJhbmEiLCJhIjoiY2lnbXFneXl6MDAyeG5ra29nNDR1NzhlMyJ9.LnLnxgCECdz936gdFy_ttg';
-    var map = L.mapbox.map('map-canvas', 'tohodson.55f8ddb6', {
+    var map = L.mapbox.map('map-canvas', 'city-of-urbana.c3f23b22', {
     // other basemaps
+    // 'tohodson.55f8ddb6'
     // 'city-of-urbana.c3f23b22'
         zoom: 15,
 	    center: [40.1097, -88.2042],
