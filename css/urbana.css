@@ -334,7 +334,7 @@ a:hover {
     text-decoration: none;
     color: rgb(120, 198, 121);
 }
-a.addr, .style a {
+a.addr, .style a, .tour a {
     color: rgb(51,51,51);
 }
 a.addr:focus, .style a:focus {
