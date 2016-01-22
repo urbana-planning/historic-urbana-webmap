@@ -8,12 +8,14 @@ L.mapbox.accessToken =
 
 function makeTip( feature ) {
 
-    var title = feature.title;
+    //var title = feature.title;
     // modal code
     // tooltip code
     var html = "<img class='sepia page-curl shadow-bottom' src=" + feature.properties.image + ">" + 
         "<br/>" +
-            "<h2>" + feature.properties.title + "</h2>" +
+            "<h2> <table style='width:100%'><tr> <td>" + feature.properties.title + 
+            "</td> <td>" + feature.properties.address +" </td> </tr> </h2>" +
+            //"<h2>" + feature.properties.title + "</h2>" +
             "<table id='tooltip'> <tr> <th>Architect:</th> <td>" + feature.properties.architect + "</td> </tr>" +
             "<tr> <th>Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
             "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>" +
@@ -25,7 +27,7 @@ function makeTip( feature ) {
 
 
 function updateModal(feature) {
-
+    // TODO add table
     $('#myModal .modal-title').text(feature.properties.title);
     $('#myModal .modal-body').load('modals/' + feature.properties.id, function() {
         $('.slider').slick({
@@ -94,7 +96,7 @@ function genListings(map,featureLayer) {
                           .children()
                           .last("div")
                           .addClass('item');
-            var link = $('<a href=#>' + prop.title + '</a>').addClass('addr');
+            var link = $('<a href=#>' + prop.address + '</a>').addClass('addr');
             item.append(link);
             
 
@@ -252,10 +254,11 @@ function search(string) {
     // to the search string, seeing whether the former contains the latter.
     function searchTitle(feature) {
         var title = feature.properties.title.toLowerCase().replace(/\./g,"").indexOf(searchString) !== -1;
+        var address = feature.properties.address.toLowerCase().replace(/\./g,"").indexOf(searchString) !== -1;
         var arch = feature.properties.architect.toLowerCase().indexOf(searchString) !== -1;
         var style = feature.properties.style.toLowerCase().indexOf(searchString) !== -1;
         var tour = feature.properties.tour.toLowerCase().indexOf(searchString) !== -1;
-        return (arch || title || style || tour)
+        return (arch || title || style || tour || address)
     }
 }
 
@@ -268,10 +271,11 @@ function checked() {
     
     function searchTitle(feature) {
         var title = feature.properties.title.toLowerCase().replace(/\./g,"").indexOf(searchString) !== -1;
+        var address = feature.properties.address.toLowerCase().replace(/\./g,"").indexOf(searchString) !== -1;
         var arch = feature.properties.architect.toLowerCase().indexOf(searchString) !== -1;
         var style = feature.properties.style.toLowerCase().indexOf(searchString) !== -1;
         var tour = feature.properties.tour.toLowerCase().indexOf(searchString) !== -1;
-        return (arch || title || style || tour)
+        return (arch || title || style || tour || address)
     }
 
     // end of hack
