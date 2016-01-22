@@ -10,7 +10,8 @@
     "properties": {
     "street":"Broadway",
     "id":"202-s-broadway",
-    "title":"202 S. Broadway Ave.",
+    "address":"202 S. Broadway Ave.",
+    "title":"",
     "image":"historic_img/medium/broadway-s-202.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival\">Classical Revival</a>",
     "built":"1914",
@@ -29,7 +30,8 @@
     "properties": {
     "street":"Broadway",
     "id":"223-n-broadway-ave",
-    "title":"223 N. Broadway Ave.",
+    "address":"223 N. Broadway Ave.",
+    "title":"",
     "image":"historic_img/medium/broadway-n-223-4.jpg",
     "style":"Unknown",
     "built":"1923",
@@ -48,7 +50,8 @@
     "properties": {
     "street":"Broadway",
     "id":"910-n-broadway",
-    "title":"910 N. Broadway Ave.",
+    "address":"910 N. Broadway Ave.",
+    "title":"",
     "image":"historic_img/medium/broadway-n-910.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a>",
     "built":"1901",
@@ -67,6 +70,7 @@
     "properties": {
     "street":"Buena Vista",
     "id":"buenavista",
+    "address":"",
     "title":"Buena Vista Court",
     "image":"historic_img/medium/buena-vista-court-5.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/spanish-colonial-reviv\">Spanish Revival</a>",
@@ -86,7 +90,8 @@
     "properties": {
     "street":"Burlison",
     "id":"2016burlison",
-    "title":"2016 Burlison, The Garvey House",
+    "address":"2016 Burlison",
+    "title":"The Garvey House",
     "image":"historic_img/medium/burlison-s-2016-11.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/contemporary\">Contemporary</a>",
     "built":"1954",
@@ -105,7 +110,8 @@
     "properties": {
     "street":"Busey",
     "id":"1301-s-busey-ave",
-    "title":"1301 S. Busey Ave.",
+    "address":"1301 S. Busey Ave.",
+    "title":"",
     "image":"historic_img/medium/busey-s-1301.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival\">Colonial Revival</a>",
     "built":"1922",
@@ -124,7 +130,8 @@
     "properties": {
     "street":"Busey",
     "id":"701-s-busey-ave",
-    "title":"701 S. Busey Ave.",
+    "address":"701 S. Busey Ave.",
+    "title":"",
     "image":"historic_img/medium/busey-s-701-11.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/english-domestic\">English Domestic</a>",
     "built":"1923",
@@ -143,7 +150,8 @@
     "properties": {
     "street":"Busey",
     "id":"708SBussey",
-    "title":"708 S. Busey Ave.",
+    "address":"708 S. Busey Ave.",
+    "title":"",
     "image":"historic_img/medium/busey-s-708-3.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/prairie\">Prairie</a>",
     "built":"1920",
@@ -162,7 +170,8 @@
     "properties": {
     "street":"Carle",
     "id":"1306-s-carle",
-    "title":"1306 S. Carle Ave.",
+    "address":"1306 S. Carle Ave.",
+    "title":"",
     "image":"historic_img/medium/carle-s-1306-13.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/english-domestic\">English Domestic</a>",
     "built":"1927",
@@ -181,7 +190,8 @@
     "properties": {
     "street":"Cedar",
     "id":"206-cedar",
-    "title":"206 S. Cedar St.",
+    "address":"206 S. Cedar St.",
+    "title":"",
     "image":"historic_img/medium/cedar-206.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a>",
     "built":"1872",
@@ -200,7 +210,8 @@
     "properties": {
     "street":"Central",
     "id":"halberstadt",
-    "title":"104 N. Central Ave., The Halberstadt House",
+    "address":"104 N. Central Ave.",
+    "title":"The Halberstadt House",
     "image":"historic_img/medium/central-n-104-2.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a> and <a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/stick\">Stick/Eastlake</a>",
     "built":"1875",
@@ -219,7 +230,8 @@
     "properties": {
     "street":"Coler",
     "id":"402-s-coler",
-    "title":"402 S. Coler Ave.",
+    "address":"402 S. Coler Ave.",
+    "title":"",
     "image":"historic_img/medium/coler-s-402.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/capecod\">Cape Cod</a>",
     "built":"1940",
@@ -238,7 +250,8 @@
     "properties": {
     "street":"Coler",
     "id":"701NColer",
-    "title":"701 N. Coler, Sears Osborn House",
+    "address":"701 N. Coler",
+    "title":"Sears Osborn House",
     "image":"historic_img/medium/coler-n-701-3.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/mission\">Mission</a>",
     "built":"1920",
@@ -257,7 +270,8 @@
     "properties": {
     "street":"Coler",
     "id":"706-s-coler",
-    "title":"706 S. Coler Ave.",
+    "address":"706 S. Coler Ave.",
+    "title":"",
     "image":"historic_img/medium/coler-s-706.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/georgianrevival\">Georgian Revival Influence</a>",
     "built":"1927",
@@ -276,7 +290,8 @@
     "properties": {
     "street":"Delaware",
     "id":"209WDelaware",
-    "title":"209 W. Delaware Ave.",
+    "address":"209 W. Delaware Ave.",
+    "title":"",
     "image":"historic_img/medium/delaware-w-209-2.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/english-domestic\">English Domestic</a>",
     "built":"1940",
@@ -295,7 +310,8 @@
     "properties": {
     "street":"Delaware",
     "id":"601-w-delaware",
-    "title":"601 W. Delaware Ave.",
+    "address":"601 W. Delaware Ave.",
+    "title":"",
     "image":"historic_img/medium/delaware-w-601.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/french-revival\">French Revival</a>",
     "built":"1933",
@@ -314,7 +330,8 @@
     "properties": {
     "street":"Delaware",
     "id":"702-w-delaware",
-    "title":"702 W. Delaware Ave.",
+    "address":"702 W. Delaware Ave.",
+    "title":"",
     "image":"historic_img/medium/delaware-w-702-1.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"1932",
@@ -333,7 +350,8 @@
     "properties": {
     "street":"Delaware",
     "id":"715-w-delaware",
-    "title":"715 W. Delaware Ave.",
+    "address":"715 W. Delaware Ave.",
+    "title":"",
     "image":"historic_img/medium/delaware-w-715-7.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/frenchclectic\">French Eclectic</a>",
     "built":"1927",
@@ -352,7 +370,8 @@
     "properties": {
     "street":"Douglas",
     "id":"1105-s-douglas",
-    "title":"1105 S. Douglas Ave.",
+    "address":"1105 S. Douglas Ave.",
+    "title":"",
     "image":"historic_img/medium/douglas-s-1105-3.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"1920",
@@ -371,7 +390,8 @@
     "properties": {
     "street":"Elm",
     "id":"307-w-elm",
-    "title":"307 W. Elm St.",
+    "address":"307 W. Elm St.",
+    "title":"",
     "image":"historic_img/medium/elm-w-307-4.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a>",
     "built":"Unknown",
@@ -390,7 +410,8 @@
     "properties": {
     "street":"Elm",
     "id":"311-w-elm",
-    "title":"311 W. Elm St., The William Park Residence",
+    "address":"311 W. Elm St.",
+    "title":"The William Park Residence",
     "image":"historic_img/medium/elm-w-311.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a>",
     "built":"1856",
@@ -409,7 +430,8 @@
     "properties": {
     "street":"Elm",
     "id":"502-w-elm",
-    "title":"502 W. Elm St.",
+    "address":"502 W. Elm St.",
+    "title":"",
     "image":"historic_img/medium/elm-w-502-2.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a>",
     "built":"1889",
@@ -428,7 +450,8 @@
     "properties": {
     "street":"Florida",
     "id":"210-w-florida",
-    "title":"210 W. Florida Ave.",
+    "address":"210 W. Florida Ave.",
+    "title":"",
     "image":"historic_img/medium/florida-w-210-1.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/capecod\">Cape Cod</a>",
     "built":"1936",
@@ -447,7 +470,8 @@
     "properties": {
     "street":"Florida",
     "id":"711-w-florida-ave",
-    "title":"711 W. Florida Ave.",
+    "address":"711 W. Florida Ave.",
+    "title":"",
     "image":"historic_img/medium/florida-w-711.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/georgian-revival\">Georgian Revival</a>",
     "built":"1925",
@@ -466,7 +490,8 @@
     "properties": {
     "street":"Glover",
     "id":"110-s-glover",
-    "title":"110 S. Glover Ave.",
+    "address":"110 S. Glover Ave.",
+    "title":"",
     "image":"historic_img/medium/glover-s-110-3.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/lustron\">Lustron House</a>",
     "built":"1943",
@@ -485,7 +510,8 @@
     "properties": {
     "street":"Green",
     "id":"1203WGreen",
-    "title":"1203 W. Green St., Wesley Foundation",
+    "address":"1203 W. Green St.",
+    "title":"Wesley Foundation",
     "image":"historic_img/medium/green-w-1203.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a>",
     "built":"1921",
@@ -504,7 +530,8 @@
     "properties": {
     "street":"Green",
     "id":"209-w-green",
-    "title":"209 W. Green St.",
+    "address":"209 W. Green St.",
+    "title":"",
     "image":"historic_img/medium/green-w-209-3.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a>",
     "built":"1899",
@@ -523,7 +550,8 @@
     "properties": {
     "street":"Green",
     "id":"210-w-green",
-    "title":"210 W. Green St., The Urbana Free Library",
+    "address":"210 W. Green St.",
+    "title":"The Urbana Free Library",
     "image":"http://urbanaillinois.us/sites/default/files/resize/images/urbana-free-library-222x126.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival\">Classical Revival</a>",
     "built":"1917",
@@ -542,7 +570,8 @@
     "properties": {
     "street":"Green",
     "id":"309-w-green",
-    "title":"309 W. Green St., The Unitarian-Universalist Church",
+    "address":"309 W. Green St.",
+    "title":"The Unitarian-Universalist Church",
     "image":"historic_img/medium/green-w-309.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a>",
     "built":"1913",
@@ -561,7 +590,8 @@
     "properties": {
     "street":"Green",
     "id":"312WGreen",
-    "title":"312 W. Green St., The Lindley House",
+    "address":"312 W. Green St.",
+    "title":"The Lindley House",
     "image":"historic_img/medium/green-w-312-17.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a>",
     "built":"1895",
@@ -580,7 +610,8 @@
     "properties": {
     "street":"Green",
     "id":"501-w-green",
-    "title":"501 W. Green St.",
+    "address":"501 W. Green St.",
+    "title":"",
     "image":"historic_img/medium/green-w-501-3.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a>",
     "built":"1894",
@@ -599,7 +630,8 @@
     "properties": {
     "street":"Green",
     "id":"612WGreen",
-    "title":"612 W. Green St., The Nathan C. Ricker House",
+    "address":"612 W. Green St.",
+    "title":"The Nathan C. Ricker House",
     "image":"historic_img/medium/green-w-612-6.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a>",
     "built":"1892",
@@ -618,7 +650,8 @@
     "properties": {
     "street":"High",
     "id":"212-w-high-st",
-    "title":"212 W. High St.",
+    "address":"212 W. High St.",
+    "title":"",
     "image":"historic_img/medium/high-w-212-15.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a>",
     "built":"1850",
@@ -637,7 +670,8 @@
     "properties": {
     "street":"High",
     "id":"401-w-high-st",
-    "title":"401 W. High St.",
+    "address":"401 W. High St.",
+    "title":"",
     "image":"historic_img/medium/high-w-401-9.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/hall-and-parlor\">Hall and Parlor</a>",
     "built":"1880",
@@ -656,7 +690,8 @@
     "properties": {
     "street":"High",
     "id":"510-w-high-st",
-    "title":"510 W. High St.",
+    "address":"510 W. High St.",
+    "title":"",
     "image":"historic_img/medium/high-w-510-27.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/arts-and-crafts\">Arts and Crafts</a>",
     "built":"1910",
@@ -675,7 +710,8 @@
     "properties": {
     "street":"High",
     "id":"601-w-high-st",
-    "title":"601 W. High St.",
+    "address":"601 W. High St.",
+    "title":"",
     "image":"historic_img/medium/high-w-601-15.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/hall-and-parlor\">Hall and Parlor</a>",
     "built":"1870",
@@ -694,7 +730,8 @@
     "properties": {
     "street":"Illinois",
     "id":"404-w-illinois",
-    "title":"404 W. Illinois St.",
+    "address":"404 W. Illinois St.",
+    "title":"",
     "image":"historic_img/medium/illinois-w-404-1.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/preciv\">Pre-Civil War Vernacular</a>",
     "built":"1850",
@@ -713,7 +750,8 @@
     "properties": {
     "street":"Illinois",
     "id":"406-w-illinois",
-    "title":"406 W. Illinois Ave.",
+    "address":"406 W. Illinois Ave.",
+    "title":"",
     "image":"historic_img/medium/illinois-w-406-1.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"1925",
@@ -732,7 +770,8 @@
     "properties": {
     "street":"Illinois",
     "id":"805-w-illinois",
-    "title":"805 W. Illinois Ave.",
+    "address":"805 W. Illinois Ave.",
+    "title":"",
     "image":"historic_img/medium/illinois-w-805-2.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a>",
     "built":"1890",
@@ -751,7 +790,8 @@
     "properties": {
     "street":"Indiana",
     "id":"301WIndiana",
-    "title":"301 W. Indiana Ave.",
+    "address":"301 W. Indiana Ave.",
+    "title":"",
     "image":"historic_img/medium/indiana-w-301-3.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"",
@@ -770,7 +810,8 @@
     "properties": {
     "street":"Indiana",
     "id":"303WIndiana",
-    "title":"303 W. Indiana Ave., Erlanger House",
+    "address":"303 W. Indiana Ave.",
+    "title":"Erlanger House",
     "image":"http://urbanaillinois.us/sites/default/files/resize/imagecache/large/images/indiana-w-303-200x144.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/international\">International Style</a>",
     "built":"1964",
@@ -789,7 +830,8 @@
     "properties": {
     "street":"Indiana",
     "id":"411WIndiana",
-    "title":"411 W. Indiana Ave.",
+    "address":"411 W. Indiana Ave.",
+    "title":"",
     "image":"historic_img/medium/indiana-w-411-4.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/prairie\">Prairie</a>",
     "built":"1909",
@@ -808,7 +850,8 @@
     "properties": {
     "street":"Iowa",
     "id":"204-w-iowa",
-    "title":"204 W. Iowa St.",
+    "address":"204 W. Iowa St.",
+    "title":"",
     "image":"historic_img/medium/iowa-w-204-2.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-moderne\">Art Moderne</a>",
     "built":"1937",
@@ -827,7 +870,8 @@
     "properties": {
     "street":"Lincoln",
     "id":"1002-s-lincoln",
-    "title":"1002 S. Lincoln Ave.",
+    "address":"1002 S. Lincoln Ave.",
+    "title":"",
     "image":"historic_img/medium/lincoln-s-1102-9.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival\">Colonial Revival</a>",
     "built":"Unknown",
@@ -846,7 +890,8 @@
     "properties": {
     "street":"Lincoln",
     "id":"1004-s-lincoln",
-    "title":"1004 S. Lincoln Ave.",
+    "address":"1004 S. Lincoln Ave.",
+    "title":"",
     "image":"historic_img/medium/lincoln-s-1004.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/mediterranean\">Mediterranean</a>",
     "built":"1924",
@@ -865,7 +910,8 @@
     "properties": {
     "street":"Lincoln",
     "id":"1102-s-lincoln",
-    "title":"1102 S. Lincoln Ave.",
+    "address":"1102 S. Lincoln Ave.",
+    "title":"",
     "image":"historic_img/medium/lincoln-s-1102.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"Unknown",
@@ -884,7 +930,8 @@
     "properties": {
     "street":"Lincoln",
     "id":"1106-s-lincoln",
-    "title":"1106 S. Lincoln Ave.",
+    "address":"1106 S. Lincoln Ave.",
+    "title":"",
     "image":"historic_img/medium/lincoln-s-1106-1.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/french-chateauesque-18\">French Chateauesque</a>",
     "built":"Unknown",
@@ -903,7 +950,8 @@
     "properties": {
     "street":"Lincoln",
     "id":"1204-s-lincoln",
-    "title":"1204 S. Lincoln Ave.",
+    "address":"1204 S. Lincoln Ave.",
+    "title":"",
     "image":"historic_img/medium/lincoln-s-1204.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"1930",
@@ -922,7 +970,8 @@
     "properties": {
     "street":"Lincoln",
     "id":"1404-s-lincoln",
-    "title":"1404 S Lincoln",
+    "address":"1404 S Lincoln",
+    "title":"",
     "image":"historic_img/medium/lincoln-s-1404-6.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/french-chateauesque-18\">French Chateauesque</a>",
     "built":"1928",
@@ -941,7 +990,8 @@
     "properties": {
     "street":"Lincoln",
     "id":"904-s-lincoln",
-    "title":"904 S. Lincoln Ave.",
+    "address":"904 S. Lincoln Ave.",
+    "title":"",
     "image":"historic_img/medium/lincoln-s-904.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival\">Colonial Revival</a>",
     "built":"1927",
@@ -960,7 +1010,8 @@
     "properties": {
     "street":"Lorado Taft",
     "id":"1403-w-lorado-taft-drive",
-    "title":"1403 W. Lorado Taft Drive, The Mumford House",
+    "address":"1403 W. Lorado Taft Drive",
+    "title":"The Mumford House",
     "image":"historic_img/medium/lorado-taft-w-1403-3.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a>",
     "built":"1870",
@@ -979,7 +1030,8 @@
     "properties": {
     "street":"Main",
     "id":"101EMain",
-    "title":"101 E. Main St., Champaign County Courthouse",
+    "address":"101 E. Main St.",
+    "title":"Champaign County Courthouse",
     "image":"historic_img/medium/main-e-101-14.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/richardsonian\">Richardsonian Romanesque</a>",
     "built":"1901",
@@ -998,7 +1050,8 @@
     "properties": {
     "street":"Main",
     "id":"102-106-w-main",
-    "title":"102-106 W. Main St.",
+    "address":"102-106 W. Main St.",
+    "title":"",
     "image":"historic_img/medium/main-w-102-106-4.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a>",
     "built":"1880",
@@ -1017,7 +1070,8 @@
     "properties": {
     "street":"Main",
     "id":"115-w-main",
-    "title":"115 W. Main St.",
+    "address":"115 W. Main St.",
+    "title":"",
     "image":"historic_img/medium/main-w-115-14.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival\">Classical Revival</a>",
     "built":"1871",
@@ -1036,7 +1090,8 @@
     "properties": {
     "street":"Main",
     "id":"120-124-w-main-st",
-    "title":"120 W. Main St.",
+    "address":"120 W. Main St.",
+    "title":"",
     "image":"historic_img/medium/main-w-120-124-13.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-deco\">Art Deco</a>",
     "built":"1870",
@@ -1055,7 +1110,8 @@
     "properties": {
     "street":"Main",
     "id":"135-w-main",
-    "title":"135 W. Main St.",
+    "address":"135 W. Main St.",
+    "title":"",
     "image":"historic_img/medium/main-w-135-15.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"1927",
@@ -1074,7 +1130,8 @@
     "properties": {
     "street":"Main",
     "id":"136-w-main",
-    "title":"136 W. Main St., The Cohen Building",
+    "address":"136 W. Main St.",
+    "title":"The Cohen Building",
     "image":"historic_img/medium/main-w-136-13.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/classical-revival\">Classical Revival</a>",
     "built":"1907",
@@ -1093,7 +1150,8 @@
     "properties": {
     "street":"Main",
     "id":"303-w-main",
-    "title":"303 W. Main St.",
+    "address":"303 W. Main St.",
+    "title":"",
     "image":"historic_img/medium/main-w-303.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/spanish-colonial-reviv\">Spanish Revival</a>",
     "built":"1925",
@@ -1112,7 +1170,8 @@
     "properties": {
     "street":"Main",
     "id":"402-w-main",
-    "title":"402 W. Main St.",
+    "address":"402 W. Main St.",
+    "title":"",
     "image":"historic_img/medium/main-w-402-50.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/craftsman\">Craftsman</a>",
     "built":"1909",
@@ -1131,7 +1190,8 @@
     "properties": {
     "street":"Main",
     "id":"505-w-main",
-    "title":"505 W. Main St.",
+    "address":"505 W. Main St.",
+    "title":"",
     "image":"historic_img/medium/main-w-505.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a>",
     "built":"1874",
@@ -1150,7 +1210,8 @@
     "properties": {
     "street":"Main",
     "id":"506-w-main",
-    "title":"506 W. Main St.",
+    "address":"506 W. Main St.",
+    "title":"",
     "image":"historic_img/medium/main-w-506.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a>",
     "built":"1892",
@@ -1169,7 +1230,8 @@
     "properties": {
     "street":"Main",
     "id":"507-w-main",
-    "title":"507 W. Main St.",
+    "address":"507 W. Main St.",
+    "title":"",
     "image":"historic_img/medium/main-w-507.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a>",
     "built":"1880",
@@ -1188,7 +1250,8 @@
     "properties": {
     "street":"Main",
     "id":"510-w-main",
-    "title":"510 W. Main St.",
+    "address":"510 W. Main St.",
+    "title":"",
     "image":"historic_img/medium/main-w-510-10.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a>",
     "built":"1892",
@@ -1207,7 +1270,8 @@
     "properties": {
     "street":"Main",
     "id":"605-w-main",
-    "title":"605 W. Main St.",
+    "address":"605 W. Main St.",
+    "title":"",
     "image":"historic_img/medium/main-w-605-3.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a>",
     "built":"1890",
@@ -1226,7 +1290,8 @@
     "properties": {
     "street":"Main",
     "id":"607-e-main",
-    "title":"607 E. Main St.",
+    "address":"607 E. Main St.",
+    "title":"",
     "image":"historic_img/medium/main-e-607.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a>",
     "built":"1875",
@@ -1245,7 +1310,8 @@
     "properties": {
     "street":"Main",
     "id":"710-w-main",
-    "title":"710 W. Main St.",
+    "address":"710 W. Main St.",
+    "title":"",
     "image":"historic_img/medium/main-w-710-2.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a>",
     "built":"1901",
@@ -1264,7 +1330,8 @@
     "properties": {
     "street":"Main",
     "id":"803-w-main",
-    "title":"803 W. Main St.",
+    "address":"803 W. Main St.",
+    "title":"",
     "image":"historic_img/medium/main-w-803.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/swiss-revival\">Swiss Revival</a>",
     "built":"1904",
@@ -1283,7 +1350,8 @@
     "properties": {
     "street":"Main",
     "id":"804-w-main",
-    "title":"804 W. Main St.",
+    "address":"804 W. Main St.",
+    "title":"",
     "image":"historic_img/medium/main-w-804.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a>",
     "built":"1875",
@@ -1302,7 +1370,8 @@
     "properties": {
     "street":"Mathews",
     "id":"706-s-mathews-ave",
-    "title":"706 S. Mathews Ave.",
+    "address":"706 S. Mathews Ave.",
+    "title":"",
     "image":"historic_img/medium/mathews-s-706-1.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"1925",
@@ -1321,7 +1390,8 @@
     "properties": {
     "street":"Michigan",
     "id":"305-w-michigan",
-    "title":"305 W. Michigan Ave.",
+    "address":"305 W. Michigan Ave.",
+    "title":"",
     "image":"historic_img/medium/michigan-w-305-3.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/spanish-colonial-reviv\">Spanish Revival</a>",
     "built":"1928",
@@ -1340,7 +1410,8 @@
     "properties": {
     "street":"Michigan",
     "id":"309-w-michigan",
-    "title":"309 W. Michigan Ave.",
+    "address":"309 W. Michigan Ave.",
+    "title":"",
     "image":"historic_img/medium/michigan-w-309-4.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/italianrevival\">Italian Renaissance Revival</a>",
     "built":"1925",
@@ -1359,7 +1430,8 @@
     "properties": {
     "street":"Michigan",
     "id":"715-w-michigan-ave",
-    "title":"715 W. Michigan Ave.",
+    "address":"715 W. Michigan Ave.",
+    "title":"",
     "image":"historic_img/medium/michigan-w-715.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"1915",
@@ -1378,7 +1450,8 @@
     "properties": {
     "street":"Nevada",
     "id":"1104-w-nevada",
-    "title":"1104 W. Nevada St.",
+    "address":"1104 W. Nevada St.",
+    "title":"",
     "image":"historic_img/medium/nevada-w-1104.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/jacobean\">Jacobean</a>",
     "built":"1933",
@@ -1397,7 +1470,8 @@
     "properties": {
     "street":"Nevada",
     "id":"1110-w-nevada",
-    "title":"1110 W. Nevada St.",
+    "address":"1110 W. Nevada St.",
+    "title":"",
     "image":"historic_img/medium/nevada-w-1110-7.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival\">Colonial Revival</a>",
     "built":"1929",
@@ -1416,7 +1490,8 @@
     "properties": {
     "street":"Nevada",
     "id":"1202-w-nevada",
-    "title":"1202 W. Nevada St.",
+    "address":"1202 W. Nevada St.",
+    "title":"",
     "image":"historic_img/medium/nevada-w-1202.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/frenchclectic\">French Eclectic</a>",
     "built":"1926",
@@ -1435,7 +1510,8 @@
     "properties": {
     "street":"Nevada",
     "id":"1207-w-nevada",
-    "title":"1207 W. Nevada St.",
+    "address":"1207 W. Nevada St.",
+    "title":"",
     "image":"historic_img/medium/nevada-w-1207.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival\">Colonial Revival</a>",
     "built":"1927",
@@ -1454,7 +1530,8 @@
     "properties": {
     "street":"Nevada",
     "id":"512-w-nevada",
-    "title":"512 W. Nevada St.",
+    "address":"512 W. Nevada St.",
+    "title":"",
     "image":"historic_img/medium/nevada-w-512.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/georgian-revival\">Georgian Revival</a>",
     "built":"1925",
@@ -1473,7 +1550,8 @@
     "properties": {
     "street":"Nevada",
     "id":"805-w-nevada",
-    "title":"805 W. Nevada St.",
+    "address":"805 W. Nevada St.",
+    "title":"",
     "image":"historic_img/medium/nevada-w-805-4.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/arts-and-crafts\">Arts and Crafts</a>",
     "built":"1919",
@@ -1492,7 +1570,8 @@
     "properties": {
     "street":"Ohio",
     "id":"606-w-ohio",
-    "title":"606 W. Ohio St.",
+    "address":"606 W. Ohio St.",
+    "title":"",
     "image":"historic_img/medium/ohio-w-606-14.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a>",
     "built":"1935",
@@ -1511,7 +1590,8 @@
     "properties": {
     "street":"Ohio",
     "id":"706-w-ohio",
-    "title":"706 W. Ohio St.",
+    "address":"706 W. Ohio St.",
+    "title":"",
     "image":"historic_img/medium/ohio-w-706-5.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/spanisheclectic\">Spanish Eclectic</a>",
     "built":"1928",
@@ -1530,7 +1610,8 @@
     "properties": {
     "street":"Ohio",
     "id":"710-w-ohio",
-    "title":"710 W. Ohio St.",
+    "address":"710 W. Ohio St.",
+    "title":"",
     "image":"historic_img/medium/ohio-w-710.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"1928",
@@ -1549,7 +1630,8 @@
     "properties": {
     "street":"Ohio",
     "id":"713-w-ohio",
-    "title":"713 W. Ohio St.",
+    "address":"713 W. Ohio St.",
+    "title":"",
     "image":"historic_img/medium/ohio-w-713.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a>",
     "built":"1928",
@@ -1568,7 +1650,8 @@
     "properties": {
     "street":"Ohio",
     "id":"805-w-ohio",
-    "title":"805 W. Ohio St.",
+    "address":"805 W. Ohio St.",
+    "title":"",
     "image":"historic_img/medium/ohio-w-805.jpg",
     "style":"Unknown",
     "built":"1961",
@@ -1587,7 +1670,8 @@
     "properties": {
     "street":"Oregon",
     "id":"1117-w-oregon-st",
-    "title":"1117 W. Oregon St.",
+    "address":"1117 W. Oregon St.",
+    "title":"",
     "image":"historic_img/medium/oregon-w-1117-1.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/mission\">Mission</a>",
     "built":"1920",
@@ -1606,7 +1690,8 @@
     "properties": {
     "street":"Oregon",
     "id":"301-w-oregon-st",
-    "title":"301 W. Oregon St, The Frank A. Somers House",
+    "address":"301 W. Oregon St",
+    "title":"The Frank A. Somers House",
     "image":"historic_img/medium/oregon-w-301-2.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival\">Colonial Revival</a>",
     "built":"1903",
@@ -1625,7 +1710,8 @@
     "properties": {
     "street":"Oregon",
     "id":"305-w-oregon-st",
-    "title":"305 W. Oregon St.",
+    "address":"305 W. Oregon St.",
+    "title":"",
     "image":"historic_img/medium/oregon-w-305-4.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/prairie\">Prairie</a>",
     "built":"1917",
@@ -1644,7 +1730,8 @@
     "properties": {
     "street":"Oregon",
     "id":"307-w-oregon-st",
-    "title":"307 W. Oregon St.",
+    "address":"307 W. Oregon St.",
+    "title":"",
     "image":"historic_img/medium/oregon-w-307-2.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/greekrevival\">Greek Revival</a>",
     "built":"1875",
@@ -1663,7 +1750,8 @@
     "properties": {
     "street":"Oregon",
     "id":"312-w-oregon-st",
-    "title":"312 W. Oregon St., Leal Elementary School",
+    "address":"312 W. Oregon St.",
+    "title":"Leal Elementary School",
     "image":"historic_img/medium/oregeon-w-312-2.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-deco\">Art Deco</a>",
     "built":"1936",
@@ -1682,7 +1770,8 @@
     "properties": {
     "street":"Oregon",
     "id":"605-w-oregon-st",
-    "title":"605 W. Oregon St.",
+    "address":"605 W. Oregon St.",
+    "title":"",
     "image":"historic_img/medium/oregon-w-605-8.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/dutch-colonial-revival\">Dutch Colonial Revival</a>",
     "built":"1920",
@@ -1701,7 +1790,8 @@
     "properties": {
     "street":"Oregon",
     "id":"801WOregon",
-    "title":"801 W. Oregon St.",
+    "address":"801 W. Oregon St.",
+    "title":"",
     "image":"historic_img/medium/oregon-w-801-10.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/mission\">Mission</a>",
     "built":"1905",
@@ -1720,7 +1810,8 @@
     "properties": {
     "street":"Oregon",
     "id":"803-w-oregon-st",
-    "title":"803 W. Oregon St.",
+    "address":"803 W. Oregon St.",
+    "title":"",
     "image":"historic_img/medium/oregon-w-803.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"1925",
@@ -1739,7 +1830,8 @@
     "properties": {
     "street":"Pennsylvania",
     "id":"1009-w-pennsylvania-ave",
-    "title":"1009 W. Pennsylvania Ave.",
+    "address":"1009 W. Pennsylvania Ave.",
+    "title":"",
     "image":"historic_img/medium/pennsylvania-1009-10.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/georgian-revival\">Georgian Revival</a>",
     "built":"1925",
@@ -1758,7 +1850,8 @@
     "properties": {
     "street":"Pennsylvania",
     "id":"1101-w-pennsylvania-ave",
-    "title":"1101 W. Pennsylvania Ave.",
+    "address":"1101 W. Pennsylvania Ave.",
+    "title":"",
     "image":"historic_img/medium/pennsylvania-1101.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/georgian-revival\">Georgian Revival</a>",
     "built":"1927",
@@ -1777,7 +1870,8 @@
     "properties": {
     "street":"Pennsylvania",
     "id":"607-w-pennsylvania-ave",
-    "title":"607 W. Pennsylvania Ave.",
+    "address":"607 W. Pennsylvania Ave.",
+    "title":"",
     "image":"historic_img/medium/pennsylvania-w-607-3.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"1927",
@@ -1796,7 +1890,8 @@
     "properties": {
     "street":"Pennsylvania",
     "id":"702-w-pennsylvania-ave",
-    "title":"702 W. Pennsylvania Ave.",
+    "address":"702 W. Pennsylvania Ave.",
+    "title":"",
     "image":"historic_img/medium/pennsylvania-w-710.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/dutch-colonial-revival\">Dutch Colonial</a>",
     "built":"1919",
@@ -1815,7 +1910,8 @@
     "properties": {
     "street":"Pennsylvania",
     "id":"804-w-pennsylvania-ave",
-    "title":"804 W. Pennsylvania Ave.",
+    "address":"804 W. Pennsylvania Ave.",
+    "title":"",
     "image":"historic_img/medium/pennsylvania-w-806.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"1925",
@@ -1834,7 +1930,8 @@
     "properties": {
     "street":"Pennsylvania",
     "id":"805-w-pennsylvania-ave",
-    "title":"805 W. Pennsylvania Ave.",
+    "address":"805 W. Pennsylvania Ave.",
+    "title":"",
     "image":"historic_img/medium/pennsylvania-805-3.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"1932",
@@ -1853,7 +1950,8 @@
     "properties": {
     "street":"Pennsylvania",
     "id":"806-w-pennsylvania-ave",
-    "title":"806 W. Pennsylvania Ave.",
+    "address":"806 W. Pennsylvania Ave.",
+    "title":"",
     "image":"historic_img/medium/pennsylvania-w-806-3b.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"1925",
@@ -1872,7 +1970,8 @@
     "properties": {
     "street":"Pennsylvania",
     "id":"809-w-pennsylvania-a",
-    "title":"809 W. Pennsylvania Ave.",
+    "address":"809 W. Pennsylvania Ave.",
+    "title":"",
     "image":"historic_img/medium/pennsylvania-809-12.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/colonial-revival\">Colonial Revival</a>",
     "built":"1923",
@@ -1891,7 +1990,8 @@
     "properties": {
     "street":"Pleasant",
     "id":"1802-pleasant-circle",
-    "title":"1802 Pleasant Circle",
+    "address":"1802 Pleasant Circle",
+    "title":"",
     "image":"historic_img/medium/pleasant-s-1802-1.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/contemporary\">Contemporary</a>",
     "built":"1957",
@@ -1910,7 +2010,8 @@
     "properties": {
     "street":"Pleasant",
     "id":"1806Pleasant",
-    "title":"1806 Pleasant Circle",
+    "address":"1806 Pleasant Circle",
+    "title":"",
     "image":"historic_img/medium/pleasant-s-1806.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/mcm\">Mid-Century Modern</a>",
     "built":"1958",
@@ -1929,7 +2030,8 @@
     "properties": {
     "street":"Race",
     "id":"1002-s-race",
-    "title":"1002 S. Race St. Urbana High School",
+    "address":"1002 S. Race St.",
+    "title":"Urbana High School",
     "image":"historic_img/medium/race-s-1002.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/jacobean\">Jacobean</a>",
     "built":"1914",
@@ -1948,7 +2050,8 @@
     "properties": {
     "street":"Race",
     "id":"111-n-race",
-    "title":"111 N. Race St.",
+    "address":"111 N. Race St.",
+    "title":"",
     "image":"historic_img/medium/race-n-111.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/commercial\">Commercial</a>",
     "built":"1910",
@@ -1967,7 +2070,8 @@
     "properties": {
     "street":"Race",
     "id":"304-s-race",
-    "title":"304 S. Race St.",
+    "address":"304 S. Race St.",
+    "title":"",
     "image":"historic_img/medium/race-s-304-11.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a>",
     "built":"1926",
@@ -1986,7 +2090,8 @@
     "properties": {
     "street":"Race",
     "id":"401-s-race",
-    "title":"401 S. Race St.",
+    "address":"401 S. Race St.",
+    "title":"",
     "image":"historic_img/medium/race-s-401-6.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate\">Italianate</a>",
     "built":"1870",
@@ -2005,7 +2110,8 @@
     "properties": {
     "street":"Race",
     "id":"402-s-race",
-    "title":"402 S. Race St.",
+    "address":"402 S. Race St.",
+    "title":"",
     "image":"historic_img/medium/race-s-402-3.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"1920",
@@ -2024,7 +2130,8 @@
     "properties": {
     "street":"Race",
     "id":"900-s-race",
-    "title":"900 S. Race St.",
+    "address":"900 S. Race St.",
+    "title":"",
     "image":"historic_img/medium/race-s-900-5.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"1926",
@@ -2043,7 +2150,8 @@
     "properties": {
     "street":"Springfield",
     "id":"1212-w-springfield",
-    "title":"1212 W. Springfield Ave., University High School",
+    "address":"1212 W. Springfield Ave.",
+    "title":"University High School",
     "image":"historic_img/medium/springfield-w-1212-9.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a>",
     "built":"1917",
@@ -2062,7 +2170,8 @@
     "properties": {
     "street":"University",
     "id":"403-w-university",
-    "title":"403 W. University Ave., The Lincoln Lodge Motel",
+    "address":"403 W. University Ave.",
+    "title":"The Lincoln Lodge Motel",
     "image":"historic_img/medium/university-w-403-5.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
     "built":"1952",
@@ -2081,7 +2190,8 @@
     "properties": {
     "street":"University",
     "id":"600-e-university",
-    "title":"600 E. University Ave.",
+    "address":"600 E. University Ave.",
+    "title":"",
     "image":"historic_img/medium/university-e-600-10.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-deco\">Art Deco</a>",
     "built":"1939",
@@ -2100,7 +2210,8 @@
     "properties": {
     "street":"Urbana",
     "id":"601-s-urbana",
-    "title":"601 S. Urbana Ave.",
+    "address":"601 S. Urbana Ave.",
+    "title":"",
     "image":"historic_img/medium/urbana-s-601.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a>",
     "built":"1910",
@@ -2119,7 +2230,8 @@
     "properties": {
     "street":"Vermont",
     "id":"613WVermont",
-    "title":"613 W. Vermont Ave., The Dovring House",
+    "address":"The Dovring House",
+    "title":"The Dovring House",
     "image":"historic_img/medium/vermont-w-613.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-moderne\">Art Moderne</a>",
     "built":"1941",
@@ -2138,7 +2250,8 @@
     "properties": {
     "street":"Washington",
     "id":"310WWashington",
-    "title":"310 W. Washington St.",
+    "address":"310 W. Washington St.",
+    "title":"",
     "image":"historic_img/medium/washington-w-310-4.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/folk\">American Folk</a>",
     "built":"1906",
@@ -2157,7 +2270,8 @@
     "properties": {
     "street":"Washington",
     "id":"404-e-washington",
-    "title":"404 E. Washington St.",
+    "address":"404 E. Washington St.",
+    "title":"",
     "image":"historic_img/medium/washington-e-404.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/spanish-colonial-reviv\">Spanish Revival</a>",
     "built":"1927",
@@ -2176,7 +2290,8 @@
     "properties": {
     "street":"Washington",
     "id":"711-w-washington",
-    "title":"711 W. Washington St.",
+    "address":"711 W. Washington St.",
+    "title":"",
     "image":"historic_img/medium/washington-w-711-3.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/arts-and-crafts\">Arts and Crafts</a>",
     "built":"1914",
@@ -2195,7 +2310,8 @@
     "properties": {
     "street":"Weber",
     "id":"108-n-weber",
-    "title":"108 N. Weber Ave.",
+    "address":"108 N. Weber Ave.",
+    "title":"",
     "image":"historic_img/medium/webber-n-108.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/late-gothic-revival\">Late Gothic Revival</a>",
     "built":"1850",
