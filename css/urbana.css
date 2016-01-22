@@ -172,6 +172,17 @@ a.modal-link {
 table #tooltip {
     font-size: 12pt;
 }
+.tooltip-header {
+    padding-top: 10px;
+    border-bottom: thin solid #A5BC96;
+}
+.tooltip-header h2{
+    border-bottom: none;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
 .tooltip-footer {
     border-top: thin solid #A5BC96;
 }
