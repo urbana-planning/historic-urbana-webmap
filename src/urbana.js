@@ -14,7 +14,7 @@ function makeTip( feature ) {
     var html = "<img class='sepia page-curl shadow-bottom' src=" + feature.properties.image + ">" + 
         "<br/>" +
             "<h2> <table style='width:100%'><tr> <td>" + feature.properties.title + 
-            "</td> <td>" + feature.properties.address +" </td> </tr> </h2>" +
+            "</td> <td>" + feature.properties.address +" </td> </tr> </table> </h2>" +
             //"<h2>" + feature.properties.title + "</h2>" +
             "<table id='tooltip'> <tr> <th>Architect:</th> <td>" + feature.properties.architect + "</td> </tr>" +
             "<tr> <th>Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
