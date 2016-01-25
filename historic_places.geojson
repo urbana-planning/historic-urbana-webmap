@@ -37,7 +37,7 @@
     "built":"1923",
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Station_Theatre.mp3",
-    "tour":"Historic Urbana",
+    "tour":"<a href=\"brochure/tour-1-brochure.pdf\">Historic Urbana</a>",
     "category":"commercial"
     }
   },
@@ -70,8 +70,8 @@
     "properties": {
     "street":"Buena Vista",
     "id":"buenavista",
-    "address":"",
-    "title":"Buena Vista Court",
+    "address":"Buena Vista Court",
+    "title":"",
     "image":"historic_img/medium/buena-vista-court-5.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/spanish-colonial-reviv\">Spanish Revival</a>",
     "built":"1925",
@@ -137,7 +137,7 @@
     "built":"1923",
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Mother_In_Law.mp3",
-    "tour":"At the Turn of the Century",
+    "tour":"<a href=\"brochure/tour-1-brochure.pdf\">At the Turn of the Century</a>",
     "category":"house"
     }
   },
@@ -157,7 +157,7 @@
     "built":"1920",
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/DeWolf_708.mp3",
-    "tour":"Style Inventory",
+    "tour":"<a href=\"brochure/tour-2-brochure.pdf\">Style Inventory</a>",
     "category":"house"
     }
   },
@@ -217,7 +217,7 @@
     "built":"1875",
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Halberstadt_House.mp3",
-    "tour":"Historic Urbana",
+    "tour":"<a href=\"brochure/tour-1-brochure.pdf\">Historic Urbana</a>",
     "category":"house"
     }
   },
@@ -233,7 +233,7 @@
     "address":"402 S. Coler Ave.",
     "title":"",
     "image":"historic_img/medium/coler-s-402.jpg",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/capecod\">Cape Cod</a>",
+    "style":"<a href=\"https://en.wikipedia.org/wiki/Cape_Cod_(house)\">Cape Cod</a>",
     "built":"1940",
     "architect":"Unknown",
     "podcast":"",
@@ -273,7 +273,7 @@
     "address":"706 S. Coler Ave.",
     "title":"",
     "image":"historic_img/medium/coler-s-706.jpg",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/georgianrevival\">Georgian Revival Influence</a>",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/georgian-revival\">Georgian Revival</a>",
     "built":"1927",
     "architect":"Unknown",
     "podcast":"",
@@ -297,7 +297,7 @@
     "built":"1940",
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/zook\">R. Harold Zook</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Zook_House.mp3",
-    "tour":"At the Turn of the Century",
+    "tour":"<a href=\"brochure/tour-1-brochure.pdf\">At the Turn of the Century</a>",
     "category":"house"
     }
   },
@@ -317,7 +317,7 @@
     "built":"1933",
     "architect":"Thomas Berger ",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/DeWolf_House.mp3",
-    "tour":"At the Turn of the Century",
+    "tour":"<a href=\"brochure/tour-1-brochure.pdf\">At the Turn of the Century</a>",
     "category":"house"
     }
   },
@@ -353,7 +353,7 @@
     "address":"715 W. Delaware Ave.",
     "title":"",
     "image":"historic_img/medium/delaware-w-715-7.jpg",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/frenchclectic\">French Eclectic</a>",
+    "style":"<a href=\"http://www.antiquehome.org/Architectural-Style/french-eclectic.htm\">French Eclectic</a>",
     "built":"1927",
     "architect":"Unknown",
     "podcast":"",
@@ -417,7 +417,7 @@
     "built":"1856",
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Park_Residence.mp3",
-    "tour":"Style Inventory",
+    "tour":"<a href=\"brochure/tour-2-brochure.pdf\">Style Inventory</a>",
     "category":"house"
     }
   },
@@ -453,7 +453,7 @@
     "address":"210 W. Florida Ave.",
     "title":"",
     "image":"historic_img/medium/florida-w-210-1.jpg",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/capecod\">Cape Cod</a>",
+    "style":"<a href=\"https://en.wikipedia.org/wiki/Cape_Cod_(house)\">Cape Cod</a>",
     "built":"1936",
     "architect":"Unknown",
     "podcast":"",
@@ -493,7 +493,7 @@
     "address":"110 S. Glover Ave.",
     "title":"",
     "image":"historic_img/medium/glover-s-110-3.jpg",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/lustron\">Lustron House</a>",
+    "style":"<a href=\"https://en.wikipedia.org/wiki/Lustron_house\">Lustron House</a>",
     "built":"1943",
     "architect":"Unknown",
     "podcast":"",
@@ -517,7 +517,7 @@
     "built":"1921",
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/hollabird\">Holabird and Roche</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Wesley_Foundations.mp3",
-    "tour":"Style Inventory",
+    "tour":"<a href=\"brochure/tour-2-brochure.pdf\">Style Inventory</a>",
     "category":"church"
     }
   },
@@ -597,7 +597,7 @@
     "built":"1895",
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/gill\">Rudolph Zerses Gill</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Lindley_House.mp3",
-    "tour":"Style Inventory",
+    "tour":"<a href=\"brochure/tour-2-brochure.pdf\">Style Inventory</a>",
     "category":"house"
     }
   },
@@ -637,7 +637,7 @@
     "built":"1892",
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/ricker\">Nathan C. Ricker</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Ricker_House.mp3",
-    "tour":"Historic Urbana",
+    "tour":"<a href=\"brochure/tour-1-brochure.pdf\">Historic Urbana</a>",
     "category":"house"
     }
   },
@@ -733,11 +733,11 @@
     "address":"404 W. Illinois St.",
     "title":"",
     "image":"historic_img/medium/illinois-w-404-1.jpg",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/preciv\">Pre-Civil War Vernacular</a>",
+    "style":"<a href=\"https://en.wikipedia.org/wiki/Vernacular_architecture\">Pre-Civil War Vernacular</a>",
     "built":"1850",
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Boyden_House.mp3",
-    "tour":"Historic Urbana",
+    "tour":"<a href=\"brochure/tour-1-brochure.pdf\">Historic Urbana</a>",
     "category":"house"
     }
   },
@@ -750,7 +750,7 @@
     "properties": {
     "street":"Illinois",
     "id":"406-w-illinois",
-    "address":"406 W. Illinois Ave.",
+    "address":"406 W. Illinois St.",
     "title":"",
     "image":"historic_img/medium/illinois-w-406-1.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/tudorrevival\">Tudor Revival</a>",
@@ -770,7 +770,7 @@
     "properties": {
     "street":"Illinois",
     "id":"805-w-illinois",
-    "address":"805 W. Illinois Ave.",
+    "address":"805 W. Illinois St.",
     "title":"",
     "image":"historic_img/medium/illinois-w-805-2.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/queenanne\">Queen Anne</a>",
@@ -797,7 +797,7 @@
     "built":"",
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Plan_Book_House.mp3",
-    "tour":"At the Turn of the Century",
+    "tour":"<a href=\"brochure/tour-1-brochure.pdf\">At the Turn of the Century</a>",
     "category":"house"
     }
   },
@@ -817,7 +817,7 @@
     "built":"1964",
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/baker\">Jack Baker</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Erlanger_House.mp3",
-    "tour":"At the Turn of the Century",
+    "tour":"<a href=\"brochure/tour-1-brochure.pdf\">At the Turn of the Century</a>",
     "category":"house"
     }
   },
@@ -837,7 +837,7 @@
     "built":"1909",
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Ortiz_House.mp3",
-    "tour":"At the Turn of the Century",
+    "tour":"<a href=\"brochure/tour-1-brochure.pdf\">At the Turn of the Century</a>",
     "category":"house"
     }
   },
@@ -937,7 +937,7 @@
     "built":"Unknown",
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Alpha_Gamma_House.mp3",
-    "tour":"Style Inventory",
+    "tour":"<a href=\"brochure/tour-2-brochure.pdf\">Style Inventory</a>",
     "category":"house"
     }
   },
@@ -1033,11 +1033,11 @@
     "address":"101 E. Main St.",
     "title":"Champaign County Courthouse",
     "image":"historic_img/medium/main-e-101-14.jpg",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/richardsonian\">Richardsonian Romanesque</a>",
+    "style":"<a href=\"https://en.wikipedia.org/wiki/Richardsonian_Romanesque\">Richardsonian Romanesque</a>",
     "built":"1901",
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Courthouse.mp3",
-    "tour":"Historic Urbana",
+    "tour":"<a href=\"brochure/tour-1-brochure.pdf\">Historic Urbana</a>",
     "category":"public"
     }
   },
@@ -1077,7 +1077,7 @@
     "built":"1871",
     "architect":"Altered by Royer",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Tiernans_Hall.mp3",
-    "tour":"Historic Urbana",
+    "tour":"<a href=\"brochure/tour-1-brochure.pdf\">Historic Urbana</a>",
     "category":"commercial"
     }
   },
@@ -1097,7 +1097,7 @@
     "built":"1870",
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Princess_Theater.mp3",
-    "tour":"Historic Urbana",
+    "tour":"<a href=\"brochure/tour-1-brochure.pdf\">Historic Urbana</a>",
     "category":"commercial"
     }
   },
@@ -1197,7 +1197,7 @@
     "built":"1874",
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Griggs_House.mp3",
-    "tour":"Historic Urbana",
+    "tour":"<a href=\"brochure/tour-1-brochure.pdf\">Historic Urbana</a>",
     "category":"house"
     }
   },
@@ -1413,7 +1413,7 @@
     "address":"309 W. Michigan Ave.",
     "title":"",
     "image":"historic_img/medium/michigan-w-309-4.jpg",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/italianrevival\">Italian Renaissance Revival</a>",
+    "style":"<a href=\"https://en.wikipedia.org/wiki/Renaissance_Revival_architecture\">Italian Renaissance Revival</a>",
     "built":"1925",
     "architect":"Unknown",
     "podcast":"",
@@ -1493,7 +1493,7 @@
     "address":"1202 W. Nevada St.",
     "title":"",
     "image":"historic_img/medium/nevada-w-1202.jpg",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/frenchclectic\">French Eclectic</a>",
+    "style":"<a href=\"http://www.antiquehome.org/Architectural-Style/french-eclectic.htm\">French Eclectic</a>",
     "built":"1926",
     "architect":"Clare-Alban W. Coen Company",
     "podcast":"",
@@ -1593,7 +1593,7 @@
     "address":"706 W. Ohio St.",
     "title":"",
     "image":"historic_img/medium/ohio-w-706-5.jpg",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/spanisheclectic\">Spanish Eclectic</a>",
+    "style":"<a href=\"http://www.realtor.com/advice/spanish-colonial-from-revival-eclectic/\">Spanish Eclectic</a>",
     "built":"1928",
     "architect":"Unknown",
     "podcast":"",
@@ -1733,7 +1733,7 @@
     "address":"307 W. Oregon St.",
     "title":"",
     "image":"historic_img/medium/oregon-w-307-2.jpg",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/greekrevival\">Greek Revival</a>",
+    "style":"<a href=\"https://en.wikipedia.org/wiki/Greek_Revival_architecture\">Greek Revival</a>",
     "built":"1875",
     "architect":"Unknown",
     "podcast":"",
@@ -1757,7 +1757,7 @@
     "built":"1936",
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Leal_School.mp3",
-    "tour":"Style Inventory",
+    "tour":"<a href=\"brochure/tour-2-brochure.pdf\">Style Inventory</a>",
     "category":"public"
     }
   },
@@ -1797,7 +1797,7 @@
     "built":"1905",
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Royer_House.mp3",
-    "tour":"Style Inventory",
+    "tour":"<a href=\"brochure/tour-2-brochure.pdf\">Style Inventory</a>",
     "category":"house"
     }
   },
@@ -1893,11 +1893,11 @@
     "address":"702 W. Pennsylvania Ave.",
     "title":"",
     "image":"historic_img/medium/pennsylvania-w-710.jpg",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/dutch-colonial-revival\">Dutch Colonial</a>",
+    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/dutch-colonial-revival\">Dutch Colonial Revival</a>",
     "built":"1919",
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_3/Hieronymous_House.mp3",
-    "tour":"At the Turn of the Century",
+    "tour":"<a href=\"brochure/tour-1-brochure.pdf\">At the Turn of the Century</a>",
     "category":"house"
     }
   },
@@ -2017,7 +2017,7 @@
     "built":"1958",
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100most/architects/laz\">Donald Laz</a>",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Green_Home.mp3",
-    "tour":"Style Inventory",
+    "tour":"<a href=\"brochure/tour-2-brochure.pdf\">Style Inventory</a>",
     "category":"house"
     }
   },
@@ -2053,7 +2053,7 @@
     "address":"111 N. Race St.",
     "title":"",
     "image":"historic_img/medium/race-n-111.jpg",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/commercial\">Commercial</a>",
+    "style":"Commercial",
     "built":"1910",
     "architect":"Unknown",
     "podcast":"",
@@ -2237,7 +2237,7 @@
     "built":"1941",
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Dovring_House.mp3",
-    "tour":"Style Inventory",
+    "tour":"<a href=\"brochure/tour-2-brochure.pdf\">Style Inventory</a>",
     "category":"house"
     }
   },
@@ -2253,7 +2253,7 @@
     "address":"310 W. Washington St.",
     "title":"",
     "image":"historic_img/medium/washington-w-310-4.jpg",
-    "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/top100/archstyle/folk\">American Folk</a>",
+    "style":"<a href=\"http://architecture.about.com/od/periodsstyles/ig/House-Styles/Folk-Victorian.htm\">American Folk</a>",
     "built":"1906",
     "architect":"Unknown",
     "podcast":"",

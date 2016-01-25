@@ -11,6 +11,8 @@ function makeTip( feature ) {
     //var title = feature.title;
     // modal code
     // tooltip code
+    
+
     var html = "<img class='sepia page-curl shadow-bottom' src=" + feature.properties.image + ">" + 
             "<div class='tooltip-header'>" +
             "<h2 style='text-align:right'>" + feature.properties.title + "</h2>" +
@@ -132,6 +134,7 @@ function genChecks(featureLayer) {
         if (styleID && styles.indexOf(styleID) == -1) {
             
             styles.push(styleID);
+            //styleURL = $(prop.style).attr("target","_blank"); // set url to open in new tab 
             $('#styles').append(document.createElement("div"))
                     .children()
                     .last('div')
@@ -139,10 +142,6 @@ function genChecks(featureLayer) {
                     .html("<input type='checkbox' class='filter' name='filter' "+
                         "id='" + styleID +"' value='" + styleID + "'/>" +
                         "<label for='" + styleID + "'>"+ prop.style + "</label>");
-
-
-
-
         }
     });
     // sort styles in alphabetical order
@@ -154,9 +153,9 @@ function genChecks(featureLayer) {
 
     // XXX append target=_blank to each style link so that it opens in a new window
     // XXX remove this if styles are migrated to local modal
-    //$('.style').each(function () {
-    //            $(this).find('a').attr('target','_blank');
-    //})
+    $('.style,.tour').each(function () {
+                $(this).find('a').attr('target','_blank');
+    });
 }
 var southWest = L.latLng(40.08, -88.25),
     northEast = L.latLng(40.14, -88.17),
@@ -180,7 +179,7 @@ $(document).ready( function () {
     });
     var defaultBounds = map.getBounds();
     var featureLayer = L.mapbox.featureLayer()
-        .loadURL('historic_places.txt')
+        .loadURL('historic_places.geojson')
         .addTo(map);
 
     featureLayer.on('layeradd', function(e) {
@@ -209,14 +208,10 @@ $(document).ready( function () {
         search();
         $('.filter').removeAttr('checked') 
     });
-/* 
-    $( ".well" ).on( "click", ".item", function() {
-      search( $(this).text());
-    });
-*/
+
     featureLayer.on('click', function(e) {
+
         var feature = e.layer.feature;
-        //map.setView(e.latlng);
         updateModal(feature);
 
     });
@@ -290,12 +285,10 @@ function checked() {
     // and returns true to show it or false to hide it.
     //featureLayer.setFilter(filter );
     featureLayer.setFilter(testing);
-    //map.fitBounds(featureLayer.getBounds()); //testing XXX
     map.fitBounds(defaultBounds); //testing XXX
     genListings(map,featureLayer); //testing XXX
     } 
     else {
-       //featureLayer.setFilter( function() {return true;}); 
        featureLayer.setFilter( function () {search()} );
     }   
     function filter(feature) {
@@ -332,7 +325,7 @@ map.on('popupopen', function(e) {
             // find the height of the popup container, divide by 2, subtract from the Y axis of marker location
         map.panTo(map.unproject(px),{animate: true}); // pan to new center
 });
-// block controls style modals
+
 // NOT DONE XXX
 
 $('.architect').click(function() {
@@ -345,7 +338,7 @@ $('.filter').click(function() {
         this.checked = false;
     }
 });
-// turn off audo when modal closes
+// turn off audio when modal closes
 $('#myModal').on('hidden.bs.modal', function () {
     var audioPlayer = $('audio')[0];
     if(audioPlayer!=undefined) {
