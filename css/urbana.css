@@ -131,6 +131,7 @@ input.filter {
     max-height: 100%;
     overflow-y: auto;
     padding-top: 0px;
+    padding-bottom: 0px;
     padding-left: 30px;
     padding-right: 30px;
     margin: 2px;
@@ -396,7 +397,7 @@ ul.nav-tabs {
     color: #555;
 }
 .tab-pane {
-    height: 80% !important;
+    height: 90% !important;
     overflow-y: scroll;
     overflow-y:hidden;
 }
@@ -433,7 +434,7 @@ ul.nav-tabs {
     overflow: auto;
   }
   #listings, #styles, #tours {
-    max-height: 80%;
+    max-height: 100%;
     overflow: auto;
   }
   #page-menu {
