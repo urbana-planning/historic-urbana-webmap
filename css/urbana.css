@@ -139,6 +139,11 @@ input.filter {
 label {
     font-weight: 400;
 }
+img.splash {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 a.modal-link {
     display: table;
     margin: 0 auto;
