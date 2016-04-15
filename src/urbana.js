@@ -167,7 +167,7 @@ var southWest = L.latLng(40.08, -88.25),
 /*windowon () {*/
 $(document).ready( function () {
     $('#myModal').modal('show');
-    $(".modal-body").css('height', 300);
+    //$(".modal-body").css('height', 300);
 
     if (window.location.protocol=="file:") {alert("must load page via http");}
     L.mapbox.accessToken = 
