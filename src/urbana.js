@@ -11,18 +11,20 @@ function makeTip( feature ) {
     //var title = feature.title;
     // modal code
     // tooltip code
-    
 
-    var html = "<img class='sepia page-curl shadow-bottom' src=" + feature.properties.image + ">" + 
-            "<div class='tooltip-header'>" +
-            "<h2 style='text-align:right'>" + feature.properties.title + "</h2>" +
-            "<h2 style='text-align:right'>" + feature.properties.address + " </h2> </div>" +
-            "<table id='tooltip'> <tr> <th>Architect:</th> <td>" + feature.properties.architect + "</td> </tr>" +
-            "<tr> <th>Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
-            "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>" +
-            "</table> <div class='tooltip-footer'>" +
-            "<a align='center' class='modal-link' data-toggle='modal' data-target='#myModal' href='#myModal'>- More info -</a>" +
-            "</div>";
+    var html = "" 
+    if ( feature.properties.image ) {
+        html = "<img class='sepia page-curl shadow-bottom' src=" + feature.properties.image + ">";
+    }
+    html += "<div class='tooltip-header'>" +
+                "<h2 style='text-align:right'>" + feature.properties.title + "</h2>" +
+                "<h2 style='text-align:right'>" + feature.properties.address + " </h2> </div>" +
+                "<table id='tooltip'> <tr> <th>Architect:</th> <td>" + feature.properties.architect + "</td> </tr>" +
+                "<tr> <th>Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
+                "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>" +
+                "</table> <div class='tooltip-footer'>" +
+                "<a align='center' class='modal-link' data-toggle='modal' data-target='#myModal' href='#myModal'>- More info -</a>" +
+                "</div>";
     return html; 
 }
 
