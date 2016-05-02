@@ -18,11 +18,13 @@ function makeTip( feature ) {
     }
     html += "<div class='tooltip-header'>" +
                 "<h2 style='text-align:right'>" + feature.properties.title + "</h2>" +
-                "<h2 style='text-align:right'>" + feature.properties.address + " </h2> </div>" +
-                "<table id='tooltip'> <tr> <th>Architect:</th> <td>" + feature.properties.architect + "</td> </tr>" +
+                "<h2 style='text-align:right'>" + feature.properties.address + " </h2> </div>";
+
+    html +=     "<table id='tooltip'> <tr> <th>Architect:</th> <td>" + feature.properties.architect + "</td> </tr>" +
                 "<tr> <th>Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
-                "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>" +
-                "</table> <div class='tooltip-footer'>" +
+                "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>";
+
+    html +=     "</table> <div class='tooltip-footer'>" +
                 "<a align='center' class='modal-link' data-toggle='modal' data-target='#myModal' href='#myModal'>- More info -</a>" +
                 "</div>";
     return html; 
@@ -186,7 +188,7 @@ $(document).ready( function () {
     });
     var defaultBounds = map.getBounds();
     var featureLayer = L.mapbox.featureLayer()
-        .loadURL('historic_places.geojson')
+        .loadURL('historic_places_all.geojson')
         .addTo(map);
 
     featureLayer.on('layeradd', function(e) {
