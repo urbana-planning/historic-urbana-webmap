@@ -17,19 +17,27 @@ function makeTip( feature ) {
         html = "<img class='sepia page-curl shadow-bottom' src=" + feature.properties.image + ">";
     }
     html += "<div class='tooltip-header'>" +
-                "<h2 style='text-align:right'>" + feature.properties.title + "</h2>" +
-                "<h2 style='text-align:right'>" + feature.properties.address + " </h2> </div>" +
-                "<table id='tooltip'> <tr> <th>Architect:</th> <td>" + feature.properties.architect + "</td> </tr>" +
-                "<tr> <th>Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
-                "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>" +
-                "</table> <div class='tooltip-footer'>" +
-                "<a align='center' class='modal-link' data-toggle='modal' data-target='#myModal' href='#myModal'>- More info -</a>" +
-                "</div>";
-    return html; 
+            "<h2 style='text-align:right'>" + feature.properties.title + "</h2>" +
+            "<h2 style='text-align:right'>" + feature.properties.address + " </h2> </div>";
+
+    html += "<table id='tooltip'> <tr> <th>Architect:</th> <td>" + feature.properties.architect + "</td> </tr>" +
+            "<tr> <th>Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
+            "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>";
+
+    if ( feature.properties.modal == 'y') {
+         html +=    "</table> <div class='tooltip-footer'>" +
+                    "<a align='center' class='modal-link' data-toggle='modal' data-target='#myModal' href='#myModal'>- More info -</a>" +
+                    "</div>";
+    }
+
+       return html; 
 }
 
 
 function updateModal(feature) {
+    if (feature.properties.modal != 'y') {
+        return;
+    }
     $('#myModal .modal-title').text(feature.properties.address);
     if (feature.properties.title) {
         $('#myModal .modal-title').prepend(feature.properties.title + ', ');
@@ -55,7 +63,7 @@ function onEachFeature( feature, layer) {
         click: updateModal
     });
 }
-
+//XXX delete this
 var buildingIcon = L.divIcon({
                         'className': 'map-icon',
                         "html": "&#9733;",
@@ -82,6 +90,13 @@ var commercialIcon = L.mapbox.marker.icon({
                         'marker-color': '#ff3333',
                         'marker-size': 'small'
                     });
+var monumentIcon = L.mapbox.marker.icon({
+                        'marker-symbol': 'monument',
+                        'marker-color': '#ff3333',
+                        'marker-size': 'small'
+                    });
+
+
 
 
 
@@ -186,12 +201,13 @@ $(document).ready( function () {
     });
     var defaultBounds = map.getBounds();
     var featureLayer = L.mapbox.featureLayer()
-        .loadURL('historic_places.geojson')
+        .loadURL('historic_places_all.geojson')
         .addTo(map);
 
     featureLayer.on('layeradd', function(e) {
         var marker = e.layer,
         feature = marker.feature;
+
         switch(feature.properties.category) {
             case 'house':
                 marker.setIcon(buildingIcon);
@@ -204,6 +220,9 @@ $(document).ready( function () {
                 break;
             case 'commercial':
                 marker.setIcon(commercialIcon);
+                break;
+            case 'monument':
+                marker.setIcon(monumentIcon);
                 break;
         }  
          
