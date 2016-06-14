@@ -201,7 +201,7 @@ $(document).ready( function () {
     });
     var defaultBounds = map.getBounds();
     var featureLayer = L.mapbox.featureLayer()
-        .loadURL('historic_places_all.geojson')
+        .loadURL('historic_places.geojson')
         .addTo(map);
 
     featureLayer.on('layeradd', function(e) {
