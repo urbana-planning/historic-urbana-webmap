@@ -1329,7 +1329,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"greek house",
+    "category":"house",
     "most_imp":"y",
     "local":"",
     "national":"y"
@@ -1352,7 +1352,7 @@
     "architect":"Unknown",
     "podcast":"https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_2/Alpha_Gamma_House.mp3",
     "tour":"<a href=\"brochure/tour-2-brochure.pdf\">Style Inventory</a>",
-    "category":"greek house",
+    "category":"house",
     "most_imp":"y",
     "local":"",
     "national":"y"
@@ -2019,7 +2019,7 @@
     "architect":"Unknown",
     "podcast":"",
     "tour":"",
-    "category":"greek house",
+    "category":"house",
     "most_imp":"y",
     "local":"",
     "national":"y"
@@ -2065,7 +2065,7 @@
     "architect":"Clare-Alban W. Coen Company",
     "podcast":"",
     "tour":"",
-    "category":"greek house",
+    "category":"house",
     "most_imp":"y",
     "local":"",
     "national":"y"
@@ -2749,13 +2749,13 @@
     "id":"1007-s-race-st",
     "address":"1007 S. Race St.",
     "title":"Lincoln Statue",
-    "image":"",
+    "image":"historic_img/medium/race-s-1007.jpg",
     "style":"Unknown",
     "built":"",
     "architect":"Loredo Taft",
     "podcast":"",
     "tour":"",
-    "category":"statue",
+    "category":"monument",
     "most_imp":"",
     "local":"",
     "national":"y"

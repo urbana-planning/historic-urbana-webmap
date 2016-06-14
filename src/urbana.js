@@ -57,7 +57,7 @@ function onEachFeature( feature, layer) {
         click: updateModal
     });
 }
-
+//XXX delete this
 var buildingIcon = L.divIcon({
                         'className': 'map-icon',
                         "html": "&#9733;",
@@ -84,6 +84,13 @@ var commercialIcon = L.mapbox.marker.icon({
                         'marker-color': '#ff3333',
                         'marker-size': 'small'
                     });
+var monumentIcon = L.mapbox.marker.icon({
+                        'marker-symbol': 'monument',
+                        'marker-color': '#ff3333',
+                        'marker-size': 'small'
+                    });
+
+
 
 
 
@@ -194,6 +201,7 @@ $(document).ready( function () {
     featureLayer.on('layeradd', function(e) {
         var marker = e.layer,
         feature = marker.feature;
+
         switch(feature.properties.category) {
             case 'house':
                 marker.setIcon(buildingIcon);
@@ -206,6 +214,9 @@ $(document).ready( function () {
                 break;
             case 'commercial':
                 marker.setIcon(commercialIcon);
+                break;
+            case 'monument':
+                marker.setIcon(monumentIcon);
                 break;
         }  
          
