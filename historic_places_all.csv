@@ -42,7 +42,7 @@ latitude,longitude,altitude,geometry,street,id,address,title,image,style,built,a
 40.10437094,-88.22879143,,Point,Gregory,1408-w-gregory-dr,1408 W. Gregory Dr.,University Library,,Unknown,Unknown,Unknown,,,public,,,y,
 40.10432618,-88.2261466,,Point,Gregory,1440-w-gregory-dr,1440 W. Gregory Dr.,Morrow Plots,,Unknown,Unknown,Unknown,,,public,,,y,
 40.11006647,-88.21010428,,Point,High,212-w-high-st,212 W. High St.,,historic_img/medium/high-w-212-15.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100most/archstyle/italianate"">Italianate</a>",1850,Unknown,,,house,y,,,y
-40.10967918,-88.21093511,,Point,High,305-w-high-st,305 W. High St.,The Richards-Latowsky House,historic_img/medium/high-w-305.jpg,Craftsman,1911,Unknown,,,house,,y,,y
+40.10967918,-88.21093511,,Point,High,305-w-high-st,305 W. High St.,The Richards-Latowsky House,,Craftsman,1911,Unknown,,,house,,y,,y
 40.10964872,-88.211926,,Point,High,401-w-high-st,401 W. High St.,,historic_img/medium/high-w-401-9.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/hall-and-parlor"">Hall and Parlor</a>",1880,Unknown,,,house,y,,,y
 40.11000236,-88.21400852,,Point,High,510-w-high-st,510 W. High St.,,historic_img/medium/high-w-510-27.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/arts-and-crafts"">Arts and Crafts</a>",1910,Unknown,,,house,y,,,y
 40.10964243,-88.21471496,,Point,High,601-w-high-st,601 W. High St.,,historic_img/medium/high-w-601-15.jpg,"<a href=""http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/hall-and-parlor"">Hall and Parlor</a>",1870,Unknown,,,house,y,,,y

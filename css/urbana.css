@@ -232,15 +232,12 @@ section.active
     padding-bottom: 5px;
 }
 .leaflet-popup-content img {
-    max-height: 300px;
+    max-height: 200px;
     display: block;
     margin: auto;
 }
 .leaflet-popup-tip {
     border-top: 10px solid #f7f5e8;
-}
-.leaflet-container img {
-    /*max-height:200px;*/
 }
 .leaflet-control-zoom {
     background-color: rgba(255,255,255,0.3);
