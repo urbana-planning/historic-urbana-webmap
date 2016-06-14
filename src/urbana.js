@@ -17,21 +17,27 @@ function makeTip( feature ) {
         html = "<img class='sepia page-curl shadow-bottom' src=" + feature.properties.image + ">";
     }
     html += "<div class='tooltip-header'>" +
-                "<h2 style='text-align:right'>" + feature.properties.title + "</h2>" +
-                "<h2 style='text-align:right'>" + feature.properties.address + " </h2> </div>";
+            "<h2 style='text-align:right'>" + feature.properties.title + "</h2>" +
+            "<h2 style='text-align:right'>" + feature.properties.address + " </h2> </div>";
 
-    html +=     "<table id='tooltip'> <tr> <th>Architect:</th> <td>" + feature.properties.architect + "</td> </tr>" +
-                "<tr> <th>Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
-                "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>";
+    html += "<table id='tooltip'> <tr> <th>Architect:</th> <td>" + feature.properties.architect + "</td> </tr>" +
+            "<tr> <th>Built:</th> <td>" + feature.properties.built + "</td> </tr>" +
+            "<tr> <th>Style:</th> <td>" + feature.properties.style + "</td> </tr>";
 
-    html +=     "</table> <div class='tooltip-footer'>" +
-                "<a align='center' class='modal-link' data-toggle='modal' data-target='#myModal' href='#myModal'>- More info -</a>" +
-                "</div>";
-    return html; 
+    if ( feature.properties.modal == 'y') {
+         html +=    "</table> <div class='tooltip-footer'>" +
+                    "<a align='center' class='modal-link' data-toggle='modal' data-target='#myModal' href='#myModal'>- More info -</a>" +
+                    "</div>";
+    }
+
+       return html; 
 }
 
 
 function updateModal(feature) {
+    if (feature.properties.modal != 'y') {
+        return;
+    }
     $('#myModal .modal-title').text(feature.properties.address);
     if (feature.properties.title) {
         $('#myModal .modal-title').prepend(feature.properties.title + ', ');
