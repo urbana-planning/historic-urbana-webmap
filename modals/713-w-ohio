@@ -1,9 +1,10 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/ohio-w-713.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/ohio-w-713-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/ohio-w-713-2.jpg"></div>
+<div class='slide'><img src="historic_img/large/ohio-w-713-3.jpg"></div>
+<div class='slide'><img src="historic_img/large/ohio-w-713-4.jpg"></div>
 
 </div>
 

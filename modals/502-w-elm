@@ -1,17 +1,10 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/elm-w-502-2.jpg">
-</div>
-
-<div class='slide'>
-  <img src="historic_img/large/elm-w-502-6.jpg">
-</div>
-
-<div class='slide'>
-  <img src="historic_img/large/elm-w-502-8.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/elm-w-502-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/elm-w-502-2.jpg"></div>
+<div class='slide'><img src="historic_img/large/elm-w-502-3.jpg"></div>
+<div class='slide'><img src="historic_img/large/elm-w-502-4.jpg"></div>
 
 </div>
 

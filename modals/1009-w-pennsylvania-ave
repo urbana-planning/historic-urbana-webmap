@@ -1,9 +1,9 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/pennsylvania-1009-10.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/pennsylvania-1009-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/pennsylvania-1009-2.jpg"></div>
+<div class='slide'><img src="historic_img/large/pennsylvania-1009-3.jpg"></div>
 
 </div>
 

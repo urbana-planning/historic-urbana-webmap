@@ -1,13 +1,8 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/oregon-w-605-8.jpg">
-</div>
-
-<div class='slide'>
-  <img src="historic_img/large/oregon-w-605-9.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/oregon-w-605-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/oregon-w-605-2.jpg"></div>
 
 </div>
 

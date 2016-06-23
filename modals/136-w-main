@@ -1,15 +1,17 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/main-w-136-13.jpg">
-</div>
-
-<div class='slide'>
-  <img src="historic_img/large/main-w-136-60.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/main-w-136-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/main-w-136-2.jpg"></div>
+<div class='slide'><img src="historic_img/large/main-w-136-3.jpg"></div>
+<div class='slide'><img src="historic_img/large/main-w-136-4.jpg"></div>
+<div class='slide'><img src="historic_img/large/main-w-136-5.jpg"></div>
 
 </div>
+
+
+
+
 
 
     <h3>Architectural Description</h3>

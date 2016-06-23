@@ -1,13 +1,16 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/green-w-209-3.jpg">
-</div>
-
-<div class='slide'>
-  <img src="historic_img/large/green-w-209-21.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/green-w-209-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/green-w-209-10.jpg"></div>
+<div class='slide'><img src="historic_img/large/green-w-209-2.jpg"></div>
+<div class='slide'><img src="historic_img/large/green-w-209-3.jpg"></div>
+<div class='slide'><img src="historic_img/large/green-w-209-4.jpg"></div>
+<div class='slide'><img src="historic_img/large/green-w-209-5.jpg"></div>
+<div class='slide'><img src="historic_img/large/green-w-209-6.jpg"></div>
+<div class='slide'><img src="historic_img/large/green-w-209-7.jpg"></div>
+<div class='slide'><img src="historic_img/large/green-w-209-8.jpg"></div>
+<div class='slide'><img src="historic_img/large/green-w-209-9.jpg"></div>
 
 </div>
 

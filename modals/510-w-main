@@ -1,13 +1,10 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/main-w-510-10.jpg">
-</div>
-
-<div class='slide'>
-  <img src="historic_img/large/main-w-510-12.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/main-w-510-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/main-w-510-2.jpg"></div>
+<div class='slide'><img src="historic_img/large/main-w-510-3.jpg"></div>
+<div class='slide'><img src="historic_img/large/main-w-510-4.jpg"></div>
 
 </div>
 

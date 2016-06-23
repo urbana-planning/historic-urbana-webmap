@@ -1,9 +1,10 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/nevada-w-1207.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/nevada-w-1207-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/nevada-w-1207-2.jpg"></div>
+<div class='slide'><img src="historic_img/large/nevada-w-1207-3.jpg"></div>
+<div class='slide'><img src="historic_img/large/nevada-w-1207-4.jpg"></div>
 
 </div>
 

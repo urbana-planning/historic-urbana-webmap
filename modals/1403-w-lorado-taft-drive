@@ -1,13 +1,10 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/lorado-taft-w-1403-3.jpg">
-</div>
-
-<div class='slide'>
-  <img src="historic_img/large/lorado-taft-w-1403-2.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/lorado-taft-w-1403-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/lorado-taft-w-1403-2.jpg"></div>
+<div class='slide'><img src="historic_img/large/lorado-taft-w-1403-3.jpg"></div>
+<div class='slide'><img src="historic_img/large/lorado-taft-w-1403-4.jpg"></div>
 
 </div>
 

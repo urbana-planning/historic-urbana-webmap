@@ -1,13 +1,11 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/race-s-401-6.jpg">
-</div>
-
-<div class='slide'>
-  <img src="historic_img/large/race-s-401-18.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/race-s-401-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/race-s-401-2.jpg"></div>
+<div class='slide'><img src="historic_img/large/race-s-401-3.jpg"></div>
+<div class='slide'><img src="historic_img/large/race-s-401-4.jpg"></div>
+<div class='slide'><img src="historic_img/large/race-s-401-5.jpg"></div>
 
 </div>
 

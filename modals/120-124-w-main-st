@@ -1,13 +1,10 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/main-w-120-124-13.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/main-w-120-124-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/main-w-120-124-2.jpg"></div>
+<div class='slide'><img src="historic_img/large/main-w-120-124-3.jpg"></div>
 
-<div class='slide'>
-  <img src="historic_img/large/main-w-120-124-51.jpg">
-</div>
 
 </div>
 
@@ -23,6 +20,5 @@
     <h3>Audio Tour</h3>
     <audio controls>
       <source src="https://www.city.urbana.il.us/_Video/History_Podcasts/Tour_1/Princess_Theater.mp3" type="audio/mpeg">
-         Your browser does not support the audio elet.men
     </audio>
 

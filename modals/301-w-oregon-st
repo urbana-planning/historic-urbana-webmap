@@ -1,13 +1,11 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/oregon-w-301-2.jpg">
-</div>
-
-<div class='slide'>
-  <img src="historic_img/large/oregon-w-301.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/oregon-w-301-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/oregon-w-301-2.jpg"></div>
+<div class='slide'><img src="historic_img/large/oregon-w-301-3.jpg"></div>
+<div class='slide'><img src="historic_img/large/oregon-w-301-4.jpg"></div>
+<div class='slide'><img src="historic_img/large/oregon-w-301-5.jpg"></div>
 
 </div>
 

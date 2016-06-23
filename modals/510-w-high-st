@@ -1,13 +1,8 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/high-w-510-27.jpg">
-</div>
-
-<div class='slide'>
-  <img src="historic_img/large/high-w-510-1.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/high-w-510-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/high-w-510-2.jpg"></div>
 
 </div>
 

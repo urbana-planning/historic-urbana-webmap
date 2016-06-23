@@ -1,13 +1,13 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/university-w-403-5.jpg">
-</div>
-
-<div class='slide'>
-  <img src="historic_img/large/university-w-403-1.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/university-w-403-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/university-w-403-2.jpg"></div>
+<div class='slide'><img src="historic_img/large/university-w-403-3.jpg"></div>
+<div class='slide'><img src="historic_img/large/university-w-403-4.jpg"></div>
+<div class='slide'><img src="historic_img/large/university-w-403-5.jpg"></div>
+<div class='slide'><img src="historic_img/large/university-w-403-6.jpg"></div>
+<div class='slide'><img src="historic_img/large/university-w-403-7.jpg"></div>
 
 </div>
 

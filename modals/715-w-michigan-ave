@@ -1,9 +1,12 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/michigan-w-715.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/michigan-w-715-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/michigan-w-715-2.jpg"></div>
+<div class='slide'><img src="historic_img/large/michigan-w-715-3.jpg"></div>
+<div class='slide'><img src="historic_img/large/michigan-w-715-4.jpg"></div>
+<div class='slide'><img src="historic_img/large/michigan-w-715-5.jpg"></div>
+<div class='slide'><img src="historic_img/large/michigan-w-715-6.jpg"></div>
 
 </div>
 

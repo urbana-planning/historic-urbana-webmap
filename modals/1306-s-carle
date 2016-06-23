@@ -1,17 +1,10 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/carle-s-1306-13.jpg">
-</div>
-
-<div class='slide'>
-  <img src="historic_img/large/carle-s-1306-16.jpg">
-</div>
-
-<div class='slide'>
-  <img src="historic_img/large/carle-s-1306-7.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/carle-s-1306-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/carle-s-1306-2.jpg"></div>
+<div class='slide'><img src="historic_img/large/carle-s-1306-3.jpg"></div>
+<div class='slide'><img src="historic_img/large/carle-s-1306-4.jpg"></div>
 
 </div>
 

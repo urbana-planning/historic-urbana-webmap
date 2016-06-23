@@ -1,13 +1,10 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/delaware-w-715-7.jpg">
-</div>
-
-<div class='slide'>
-  <img src="historic_img/large/delaware-w-715-16.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/delaware-w-715-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/delaware-w-715-2.jpg"></div>
+<div class='slide'><img src="historic_img/large/delaware-w-715-3.jpg"></div>
+<div class='slide'><img src="historic_img/large/delaware-w-715-4.jpg"></div>
 
 </div>
 

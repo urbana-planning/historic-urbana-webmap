@@ -1,13 +1,11 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/webber-n-108.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/webber-n-108-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/webber-n-108-2.jpg"></div>
+<div class='slide'><img src="historic_img/large/webber-n-108-3.jpg"></div>
+<div class='slide'><img src="historic_img/large/webber-n-108-4.jpg"></div>
 
-<div class='slide'>
-  <img src="historic_img/large/webber-n-108-10.jpg">
-</div>
 
 </div>
 

@@ -1,13 +1,8 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/washington-w-711-3.jpg">
-</div>
-
-<div class='slide'>
-  <img src="historic_img/large/washington-w-711-6.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/washington-w-711-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/washington-w-711-2.jpg"></div>
 
 </div>
 

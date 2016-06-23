@@ -1,9 +1,11 @@
 
 <div class='slider'>
 
-<div class='slide'>
-  <img src="historic_img/large/lincoln-s-1102.jpg">
-</div>
+<div class='slide'><img src="historic_img/large/lincoln-s-1102-1.jpg"></div>
+<div class='slide'><img src="historic_img/large/lincoln-s-1102-2.jpg"></div>
+<div class='slide'><img src="historic_img/large/lincoln-s-1102-3.jpg"></div>
+<div class='slide'><img src="historic_img/large/lincoln-s-1102-4.jpg"></div>
+<div class='slide'><img src="historic_img/large/lincoln-s-1102-5.jpg"></div>
 
 </div>
 
