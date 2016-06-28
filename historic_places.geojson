@@ -1054,7 +1054,7 @@
     "most_imp":"",
     "local":"y",
     "national":"",
-    "modal":"y"
+    "modal":""
     }
   },
   {
@@ -1294,7 +1294,7 @@
     "most_imp":"",
     "local":"y",
     "national":"",
-    "modal":"y"
+    "modal":""
     }
   },
   {
@@ -1486,7 +1486,7 @@
     "most_imp":"y",
     "local":"",
     "national":"",
-    "modal":"y"
+    "modal":""
     }
   },
   {
@@ -1524,7 +1524,7 @@
     "id":"101-e-main-st",
     "address":"101 E. Main St.",
     "title":"Champaign County Courthouse",
-    "image":"historic_img/medium/main-e-101-14.jpg",
+    "image":"historic_img/medium/main-e-101.jpg",
     "style":"<a href=\"https://en.wikipedia.org/wiki/Richardsonian_Romanesque\">Richardsonian Romanesque</a>",
     "built":"1901",
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
@@ -2484,7 +2484,7 @@
     "id":"312-w-oregon-st",
     "address":"312 W. Oregon St.",
     "title":"Leal Elementary School",
-    "image":"historic_img/medium/oregeon-w-312.jpg",
+    "image":"historic_img/medium/oregon-w-312.jpg",
     "style":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/architectural-styles/art-deco\">Art Deco</a>",
     "built":"1936",
     "architect":"<a href=\"http://urbanaillinois.us/residents/historic-urbana/100-most-significant-buildings/urbanas-architects/joseph-william-royer\">Joseph Royer</a>",
@@ -2638,7 +2638,7 @@
     "most_imp":"",
     "local":"y",
     "national":"",
-    "modal":"y"
+    "modal":""
     }
   },
   {
